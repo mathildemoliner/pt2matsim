@@ -1,0 +1,24 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+10,CITCRC,10,Chambly (Brassard - Lebel - Fréchette),3,1F1F1F,FFFFFF
+11,CITCRC,11,Chambly (Anne-le Seigneur - Kent - Michel-Laguë),3,1F1F1F,FFFFFF
+12,CITCRC,12,Chambly (Brassard - Périgny - Salaberry),3,1F1F1F,FFFFFF
+13,CITCRC,13,Chambly(Fréchette - Gentilly - Fonrouge - Kennedy),3,1F1F1F,FFFFFF
+14,CITCRC,14,Chambly (Franquet-Industriel-Bourgogne)-Richelieu,3,1F1F1F,FFFFFF
+15,CITCRC,15,Chambly - Richelieu - Marieville,3,1F1F1F,FFFFFF
+20,CITCRC,20,Chambly - Richelieu,3,1F1F1F,FFFFFF
+300,CITCRC,300,Chambly - Longueuil,3,1F1F1F,FFFFFF
+301,CITCRC,301,Chambly - Longueuil,3,1F1F1F,FFFFFF
+302,CITCRC,302,Chambly - Longueuil,3,1F1F1F,FFFFFF
+400,CITCRC,400,Chambly - Montréal,3,1F1F1F,FFFFFF
+401,CITCRC,401,Chambly - Montréal,3,1F1F1F,FFFFFF
+450,CITCRC,450,Chambly - St-Jean-sur-Richelieu,3,1F1F1F,FFFFFF
+500,CITCRC,500,Richelieu - Marieville - Montréal,3,1F1F1F,FFFFFF
+600,CITCRC,600,Carignan - Montréal,3,1F1F1F,FFFFFF
+T1,CITCRC,T1,Taxibus Bouthillier-Lareau,1501,1F1F1F,FFFFFF
+T2,CITCRC,T2,Taxibus Hôtel de ville/Bachand,1501,1F1F1F,FFFFFF
+T3,CITCRC,T3,Taxibus Île Goyer,1501,1F1F1F,FFFFFF
+T4,CITCRC,T4,Taxibus Île Demers et Lièvres,1501,1F1F1F,FFFFFF
+T5,CITCRC,T5,Taxibus Bellerive-Henriette,1501,1F1F1F,FFFFFF
+T6,CITCRC,T6,Taxibus St-Mathias-sur-Richelieu,3,1F1F1F,FFFFFF
+T8,CITCRC,T8,Taxibus Chambly-Carignan-Cousineau,1501,1F1F1F,FFFFFF
+T9,CITCRC,T9,Taxibus Secteur du Golf,3,1F1F1F,FFFFFF

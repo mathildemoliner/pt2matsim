@@ -1,0 +1,157 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+16001,Terminus Mansfield Quai 4,  45.498306, -73.564724,1,16001,1
+76557,boul. Newman / av. Labatt,  45.427280, -73.644449,1,76557,0
+77501,av. Labatt / boul. Newman,  45.427072, -73.644425,1,77501,0
+77503,boul. Newman / av. Dollard,  45.430096, -73.635640,1,77503,0
+77504,boul. Newman / boul. Shevchenko,  45.432271, -73.629895,1,77504,0
+77505,boul. Newman / rue Thierry,  45.436357, -73.625354,1,77505,0
+77506,boul. Newman / rue Lapierre,  45.439318, -73.622184,1,77506,0
+77507,boul. Newman / rue Senkus,  45.444051, -73.614193,1,77507,0
+77508,boul. Newman / boul. des Trinitaires,  45.447219, -73.610059,1,77508,0
+77509,boul. Newman / rue Léger,  45.441290, -73.618868,1,77509,0
+77655,av. Labatt / rue Airlie,  45.424182, -73.645618,1,77655,0
+77657,boul. Newman / 90e avenue,  45.428988, -73.638993,1,77657,0
+78043,Centre Régional de Châteauguay,  45.358841, -73.727356,5,78043,0
+78045,Saint-Jean-Baptiste / du Parc Ouest,  45.354645, -73.718157,5,78045,0
+78046,Saint-Jean-Baptiste / Sainte-Marguerite,  45.355492, -73.717611,5,78046,0
+78087,Saint-Jean-Baptiste / Saint-Julien,  45.354882, -73.718239,5,78087,0
+78088,Saint-Jean-Baptiste / D'Orléans,  45.353247, -73.719235,5,78088,0
+78116,Saint-Jean-Baptiste / Poupart,  45.350504, -73.720729,5,78116,0
+78117,Saint-Jean-Baptiste / Bernard,  45.353566, -73.718834,5,78117,0
+78123,D'Anjou / Maple,  45.360477, -73.732479,5,78123,0
+78125,Saint-Jean-Baptiste / Saint-Francis,  45.368313, -73.710017,5,78125,0
+78126,Saint-Jean-Baptiste / Saint-Francis,  45.367864, -73.710515,5,78126,0
+78132,Saint-Jean-Baptiste / D'Anjou,  45.358746, -73.715664,5,78132,0
+78135,Saint-Jean-Baptiste / face au stat. Incitatif,  45.365937, -73.711689,5,78135,0
+78136,Saint-Jean-Baptiste / devant le stat. Incitatif,  45.365636, -73.711613,5,78136,0
+78161,de la Verdure / Claude-Pitre (CLSC Châteauguay),  45.358822, -73.736715,5,78161,0
+78168,Stationnement Incitatif Châteauguay - Quai 1,  45.365445, -73.711119,5,78168,0
+78179,Saint-Jean-Baptiste / Marcel,  45.362459, -73.713495,5,78179,0
+78180,Saint-Jean-Baptiste / Dunver,  45.362695, -73.713615,5,78180,0
+78245,Brisebois / face au Centre Hospitalier A-Laberge,  45.345929, -73.765759,5,78245,0
+78275,Route 138 / face au #1025,  45.399543, -73.683140,5,78275,0
+78315,boul. Newman / av. Lafleur,  45.425473, -73.649156,1,78315,0
+78445,Saint-Jean-Baptiste / D'Anjou,  45.357973, -73.716335,5,78445,0
+78559,boul. Newman / boul. Shevchenko,  45.432363, -73.630467,1,78559,0
+78563,boul. Newman / 90e avenue,  45.429398, -73.638512,1,78563,0
+78564,boul. Newman / rue Senkus,  45.444915, -73.613604,1,78564,0
+78565,boul. Newman / rue Lapierre,  45.439240, -73.622715,1,78565,0
+78567,boul. Newman / rue Thierry,  45.436053, -73.626114,1,78567,0
+78568,boul. Newman / rue Léger,  45.441188, -73.619604,1,78568,0
+78569,boul. Newman / av. Dollard,  45.431271, -73.633352,1,78569,0
+78606,Route 138 / devant le #1025,  45.399932, -73.683171,5,78606,0
+78730,Route 138 / face au #1500,  45.376806, -73.705050,5,78730,0
+78731,Route 138 / devant le #1111,  45.393205, -73.695464,5,78731,0
+78734,Route 132 / Rond-Point Bédard,  45.398760, -73.689147,5,78734,0
+78885,Faubourg Châteauguay (Wal-Mart),  45.343544, -73.762741,5,78885,0
+78898,Route 138 / devant le #1500,  45.376988, -73.705200,5,78898,0
+79000,Saint-Jean-Baptiste Ouest / devant le cimetière,  45.235000, -73.811689,8,79000,0
+79001,Saint-Joseph / de la Station,  45.252466, -73.797829,8,79001,0
+79002,Saint-Jean-Baptiste Est / du Domaine,  45.265211, -73.783974,8,79002,0
+79006,Saint-Joseph / Sylvestre,  45.244417, -73.805688,8,79006,0
+79007,Saint-Joseph / Primeau,  45.251324, -73.798277,8,79007,0
+79014,Saint-Joseph / Desrosiers,  45.256773, -73.795529,8,79014,0
+79015,Saint-Joseph / Marc-Antoine-Primeau,  45.254939, -73.796943,8,79015,0
+79016,Saint-Joseph / de la Berge,  45.258437, -73.793298,8,79016,0
+79017,Saint-Joseph / de la Butte,  45.259906, -73.791223,8,79017,0
+79020,Saint-Jean-Baptiste / des Érables,  45.307051, -73.747500,5,79020,0
+79021,Saint-Jean-Baptiste / Saint-Laurent,  45.309061, -73.746263,5,79021,0
+79022,Saint-Jean-Baptiste / Bourdeau,  45.314785, -73.742692,5,79022,0
+79023,Saint-Jean-Baptiste / Josime-Pelletier,  45.320113, -73.739397,5,79023,0
+79024,Côté / Saint-Jean-Baptiste,  45.338677, -73.728645,5,79024,0
+79025,Côté / d'Amqui,  45.338903, -73.731396,5,79025,0
+79026,Côté / Mercure,  45.339282, -73.733582,5,79026,0
+79036,Saint-Joseph / Desrochers,  45.246870, -73.803186,8,79036,0
+79037,Saint-Jean-Baptiste Est / Place Raquepas,  45.261776, -73.788616,8,79037,0
+79038,Saint-Jean-Baptiste Est / Armand,  45.263520, -73.786257,8,79038,0
+79039,Saint-Jean-Baptiste / Lalonde,  45.302385, -73.750579,5,79039,0
+79040,Saint-Jean-Baptiste / Sauvé,  45.304730, -73.749044,5,79040,0
+79041,Saint-Jean-Baptiste / Sauvé,  45.304767, -73.749330,5,79041,0
+79042,Saint-Jean-Baptiste / de l'Église,  45.310508, -73.745326,5,79042,0
+79043,Saint-Jean-Baptiste / Gaétan,  45.312334, -73.744189,5,79043,0
+79045,Beauchemin / de Beaupré,  45.342650, -73.733576,5,79045,0
+79047,Saint-Jean-Baptiste / de Lévis,  45.317411, -73.740903,5,79047,0
+79048,Saint-Jean-Baptiste / de Lévis,  45.317959, -73.741056,5,79048,0
+79049,Côté / Saint-Jean-Baptiste,  45.338419, -73.728565,5,79049,0
+79050,Terminus Angrignon Quai 18,  45.446533, -73.605252,1,79050,0
+79051,Beauchemin / de Beaupré,  45.342624, -73.733782,5,79051,0
+79052,Beauchemin / de Beloeil,  45.339843, -73.736682,5,79052,0
+79053,de Beloeil / Mercure,  45.338552, -73.736325,5,79053,0
+79054,Saint-Joseph / Demers,  45.240644, -73.809783,8,79054,0
+79055,Saint-Joseph / de la Ferme,  45.241844, -73.807796,8,79055,0
+79056,Saint-Joseph / des Copains,  45.249136, -73.799122,8,79056,0
+79057,Saint-Jean-Baptiste / Josime-Pelletier,  45.319991, -73.739720,5,79057,0
+79058,Saint-Jean-Baptiste / Bourdeau,  45.315007, -73.742775,5,79058,0
+79059,Saint-Jean-Baptiste Est / du Domaine,  45.265408, -73.783932,8,79059,0
+79060,Saint-Joseph / de la Station,  45.252709, -73.797976,8,79060,0
+79061,Saint-Jean-Baptiste Ouest / face au cimetière,  45.235051, -73.811902,8,79061,0
+79082,Mercure / de Beloeil,  45.338592, -73.736163,5,79082,0
+79084,Beauchemin / Mars,  45.341374, -73.733997,5,79084,0
+79085,Beauchemin / Mars,  45.341580, -73.734049,5,79085,0
+79086,Mercure / Côté,  45.339232, -73.733776,5,79086,0
+79089,Saint-Jean-Baptiste / Gaétan,  45.312574, -73.744295,5,79089,0
+79090,Saint-Jean-Baptiste Est / Place Raquepas,  45.261945, -73.788844,8,79090,0
+79091,Saint-Joseph / Desrosiers,  45.257002, -73.795507,8,79091,0
+79092,Saint-Joseph / Desrochers,  45.247082, -73.803181,8,79092,0
+79100,Beauchemin / de Beloeil,  45.339972, -73.736769,5,79100,0
+79101,Saint-Joseph / de la Butte,  45.260018, -73.791377,8,79101,0
+79102,Saint-Joseph / de la Berge,  45.258667, -73.793265,8,79102,0
+79103,Saint-Joseph / Marc-Antoine-Primeau,  45.255151, -73.797069,8,79103,0
+79104,Saint-Joseph / Primeau,  45.251429, -73.798467,8,79104,0
+79105,Saint-Joseph / de la Ferme,  45.242103, -73.807873,8,79105,0
+79106,Saint-Joseph / Demers,  45.240704, -73.810103,8,79106,0
+79107,Côté / d'Amos,  45.338923, -73.732528,5,79107,0
+79108,Saint-Jean-Baptiste / de l'Église,  45.310899, -73.745415,5,79108,0
+79109,Saint-Jean-Baptiste / Saint-Laurent,  45.309087, -73.746531,5,79109,0
+79110,Saint-Jean-Baptiste / des Érables,  45.307086, -73.747767,5,79110,0
+79111,Saint-Jean-Baptiste / Lalonde,  45.302608, -73.750661,5,79111,0
+79112,Saint-Jean-Baptiste Est / Armand,  45.263856, -73.786111,8,79112,0
+79113,Saint-Joseph / des Copains,  45.249357, -73.799235,8,79113,0
+79117,Saint-Joseph / Sylvestre,  45.244520, -73.805869,8,79117,0
+79118,Lapierre / Cégep André-Laurendeau,  45.435053, -73.604428,1,79118,0
+79132,Hébert / Saint-Jean-Baptiste,  45.318417, -73.740225,5,79132,0
+79133,Hébert / Saint-Clément,  45.317036, -73.735778,5,79133,0
+79134,Saint-Clément / de Lauzon,  45.315690, -73.736554,5,79134,0
+79135,Saint-Clément / de Lauzon,  45.314255, -73.737429,5,79135,0
+79136,Saint-Clément / Lacoste,  45.312828, -73.738339,5,79136,0
+79137,Lacoste / Saint-Denis,  45.311543, -73.734651,5,79137,0
+79138,Saint-Denis / Gaétan,  45.310014, -73.735603,5,79138,0
+79140,Vallée / Perron,  45.308003, -73.734432,5,79140,0
+79142,Vallée / Vallée-Dumouchel,  45.306322, -73.729057,5,79142,0
+79143,de l’Église / Place Dubuc,  45.305473, -73.728220,5,79143,0
+79144,de l’Église / de Bromont,  45.306606, -73.731907,5,79144,0
+79145,de l’Église / Saint-Denis,  45.308069, -73.736638,5,79145,0
+79147,Reid / des Plaines,  45.307207, -73.738328,5,79147,0
+79148,Reid / des Chênes,  45.307779, -73.740166,5,79148,0
+79152,des Ormes / des Noyers,  45.303065, -73.746576,5,79152,0
+79153,des Hètres / Desparois,  45.302610, -73.747905,5,79153,0
+79154,Saint-Joseph / Lalonde,  45.302191, -73.749327,5,79154,0
+79155,Saint-Jean-Baptiste / Manoir du Bel-Âge,  45.303921, -73.749345,5,79155,0
+79160,Marleau / du Lièvre,  45.313354, -73.749337,5,79160,0
+79161,Marleau / des Rossignols,  45.317155, -73.753264,5,79161,0
+79163,des Perdrix / du Lièvre,  45.317594, -73.747030,5,79163,0
+79164,du Lièvre / du Chevreuil,  45.315779, -73.747871,5,79164,0
+79165,du Parc / devant le Centre Sportif Mercier,  45.313091, -73.745844,5,79165,0
+79166,du Parc / Saint-Jean-Baptiste,  45.313664, -73.743648,5,79166,0
+79167,Beauchemin / de Bedford,  45.339781, -73.737729,5,79167,0
+79168,Beauchemin / Édouard-Laberge,  45.338945, -73.741661,5,79168,0
+79170,Édouard-Laberge / de Batiscan,  45.340861, -73.746243,5,79170,0
+79171,de Batiscan / de Bellefeuille,  45.342097, -73.745876,5,79171,0
+79172,de Brome / de Beaupré,  45.341883, -73.741064,5,79172,0
+79173,de Beaupré / devant le #46,  45.342454, -73.739064,5,79173,0
+79174,de Beaupré / de Beaulac,  45.342516, -73.734565,5,79174,0
+79180,Édouard-Laberge / Beauchemin,  45.338937, -73.741869,5,79180,0
+79181,Beauchemin / de Beloeil,  45.339638, -73.737922,5,79181,0
+79182,Saint-Jean-Baptiste / IGA Reid-Boursier,  45.321244, -73.738957,5,79182,0
+79190,Saint-Jean-Baptiste / Parkview,  45.349343, -73.721656,5,79190,1
+79191,Brisebois / École Louis-Philippe-Paré,  45.344887, -73.765256,5,79191,1
+79192,Édouard-Laberge / Henri-Ladouceur,  45.340893, -73.748795,6,79192,1
+79193,Édouard-Laberge / de Beaupré,  45.340249, -73.742900,6,79193,1
+79195,Reid / Saint-Joseph,  45.309288, -73.744852,6,79195,1
+79196,Saint-Joseph / Saint-Laurent,  45.308732, -73.745461,6,79196,1
+79197,Saint-Joseph / devant Résidence G.-Prud'Homme,  45.307643, -73.745992,6,79197,1
+79198,Saint-Joseph / des Cèdres,  45.305815, -73.747036,6,79198,1
+79199,des Cèdres / des Ormes,  45.305090, -73.745303,6,79199,1
+79200,William / Bonnier,  45.307619, -73.748749,6,79200,1
+79201,William / Vervais,  45.309137, -73.750282,6,79201,1
+79202,Vervais / Marleau,  45.310642, -73.747083,6,79202,1

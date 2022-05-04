@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+OMITSJU,https://exo.quebec/fr/planifier-trajet/autobus/OMITSJU,fr,20220112,20220529

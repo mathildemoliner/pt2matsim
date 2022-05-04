@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+CITVR,https://exo.quebec/fr/planifier-trajet/autobus/CITVR,fr,20211215,20220529

@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+CITSV,https://exo.quebec/fr/planifier-trajet/autobus/CITSV,fr,20220321,20220529

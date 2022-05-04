@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+370,CITSV,370,Saint-Amable - Sainte-Julie,3,1F1F1F,FFFFFF
+532,CITSV,532,Express Varennes / Radisson,3,1F1F1F,FFFFFF
+700,CITSV,700,Sorel-Tracy - Longueuil,3,1F1F1F,FFFFFF
+707,CITSV,707,Sorel-Tracy - Varennes (Jean-Coutu) - Longueuil,3,1F1F1F,FFFFFF
+708,CITSV,708,Sorel-Tracy - Varennes (Jean-Coutu) - Longueuil,3,1F1F1F,FFFFFF
+709,CITSV,709,Sorel-Tracy - Contrecoeur - Longueuil,3,1F1F1F,FFFFFF
+710,CITSV,710,Verchères - Longueuil,3,1F1F1F,FFFFFF
+720,CITSV,720,Varennes - Longueuil,3,1F1F1F,FFFFFF
+721,CITSV,721,Varennes - Longueuil,3,1F1F1F,FFFFFF
+722,CITSV,722,Varennes - Longueuil,3,1F1F1F,FFFFFF
+723,CITSV,723,Varennes (IREQ) - Longueuil,3,1F1F1F,FFFFFF
+724,CITSV,724,Varennes - Longueuil,3,1F1F1F,FFFFFF
+730,CITSV,730,Saint-Amable - Longueuil,3,1F1F1F,FFFFFF
+731,CITSV,731,Saint-Amable - Longueuil,3,1F1F1F,FFFFFF
+732,CITSV,732,Saint-Amable - Longueuil,3,1F1F1F,FFFFFF
+733,CITSV,733,Saint-Amable - Longueuil (Express),3,1F1F1F,FFFFFF

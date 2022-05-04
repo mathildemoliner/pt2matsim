@@ -1,0 +1,527 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+16002,Terminus Mansfield Quai 5,  45.498100, -73.564442,1,16002,1
+76557,boul. Newman / av. Labatt,  45.427280, -73.644449,1,76557,0
+76686,Kennedy / Pierre-Boursier,  45.348145, -73.701594,5,76686,1
+76687,Kennedy / De Gaulle,  45.349430, -73.707781,5,76687,1
+76688,Desmarais / De Gaulle,  45.346875, -73.709048,5,76688,1
+77501,av. Labatt / boul. Newman,  45.427072, -73.644425,1,77501,0
+77503,boul. Newman / av. Dollard,  45.430096, -73.635640,1,77503,0
+77504,boul. Newman / boul. Shevchenko,  45.432271, -73.629895,1,77504,0
+77505,boul. Newman / rue Thierry,  45.436357, -73.625354,1,77505,0
+77506,boul. Newman / rue Lapierre,  45.439318, -73.622184,1,77506,0
+77507,boul. Newman / rue Senkus,  45.444051, -73.614193,1,77507,0
+77508,boul. Newman / boul. des Trinitaires,  45.447219, -73.610059,1,77508,0
+77509,boul. Newman / rue Léger,  45.441290, -73.618868,1,77509,0
+77655,av. Labatt / rue Airlie,  45.424182, -73.645618,1,77655,0
+77657,boul. Newman / 90e avenue,  45.428988, -73.638993,1,77657,0
+78001,13e Avenue / Lucien-Charette,  45.312659, -73.957155,6,78001,1
+78002,Ellice / Sainte-Catherine,  45.314826, -73.872818,6,78002,0
+78003,de la Haute-Rivière / devant la Caisse Desjardins,  45.345274, -73.755105,5,78003,0
+78004,Lucienne-Charette / Théorêt,  45.311778, -73.952917,6,78004,1
+78005,Vanier / D'Iberville,  45.364857, -73.739174,5,78005,0
+78006,Vanier / Normand,  45.363283, -73.738585,5,78006,0
+78007,Salaberry Nord / Beauregard,  45.387271, -73.747028,5,78007,0
+78008,Salaberry Nord / Beauregard,  45.387349, -73.747192,5,78008,0
+78009,Gordon / Robert Ouest,  45.379774, -73.736494,5,78009,0
+78010,Robert Ouest / Gordon,  45.379774, -73.736748,5,78010,0
+78011,Maple / Dupont Est,  45.378160, -73.735597,5,78011,0
+78012,Maple / Dupont Est,  45.378357, -73.735736,5,78012,0
+78013,Marcel / Hans-Selye,  45.362528, -73.711972,5,78013,0
+78014,Albert-Einstein / Edouard-Branly,  45.361938, -73.708164,5,78014,0
+78015,Marcel / Albert-Einstein,  45.362000, -73.708387,5,78015,0
+78016,Albert-Einstein / Marie-Curie,  45.361003, -73.707838,5,78016,0
+78017,Albert-Einstein / Marie-Curie,  45.361100, -73.708220,5,78017,0
+78018,Albert-Einstein / Pasteur,  45.360266, -73.706677,5,78018,0
+78019,Albert-Einstein / Pasteur,  45.360115, -73.707034,5,78019,0
+78020,Albert-Einstein / Franklin,  45.358805, -73.701592,5,78020,0
+78021,Albert-Einstein / Franklin,  45.359032, -73.701776,5,78021,0
+78022,Primeau / Principale,  45.358969, -73.753469,5,78022,0
+78023,Principale / Primeau,  45.359112, -73.753436,5,78023,0
+78024,Principale / Primeau,  45.358920, -73.753675,5,78024,0
+78025,Albert-Einstein / de Bruxelles,  45.354413, -73.702509,5,78025,0
+78026,Albert-Einstein / Laramée,  45.354614, -73.702776,5,78026,0
+78027,Sainte-Marguerite / Léonard,  45.353973, -73.703776,5,78027,0
+78028,Sainte-Marguerite / Léonard,  45.353810, -73.704026,5,78028,0
+78029,De Gaulle / Sainte-Marguerite,  45.354153, -73.706968,5,78029,0
+78030,Sainte-Marguerite / Fournier,  45.354274, -73.706274,5,78030,0
+78031,De Gaulle / Bernard,  45.352253, -73.707595,5,78031,0
+78032,De Gaulle / Bernard,  45.352463, -73.707764,5,78032,0
+78033,De Gaulle / Kennedy,  45.349214, -73.707963,5,78033,0
+78034,De Gaulle / Kennedy,  45.349438, -73.708148,5,78034,0
+78035,De Gaulle / Desmarais,  45.347131, -73.709204,5,78035,0
+78036,De Gaulle / Desmarais,  45.346857, -73.709363,5,78036,0
+78037,De Gaulle / Brahms,  45.347023, -73.712085,5,78037,0
+78038,Brahms / De Gaulle,  45.347072, -73.712340,5,78038,0
+78039,Rameau / Brahms,  45.348612, -73.712188,5,78039,0
+78040,Rameau / Schubert,  45.348424, -73.712972,5,78040,0
+78041,Rameau / Astrale,  45.349399, -73.719564,5,78041,0
+78042,Rameau / Mozart,  45.348977, -73.720436,5,78042,0
+78043,Centre Régional de Châteauguay,  45.358841, -73.727356,5,78043,0
+78044,Centre Régional de Châteauguay,  45.358886, -73.727794,5,78044,0
+78045,Saint-Jean-Baptiste / du Parc Ouest,  45.354645, -73.718157,5,78045,0
+78046,Saint-Jean-Baptiste / Sainte-Marguerite,  45.355492, -73.717611,5,78046,0
+78047,Primeau / Bergevin,  45.347413, -73.753754,5,78047,0
+78048,Primeau / Maxime-Raymond,  45.348237, -73.753238,5,78048,0
+78049,Primeau / Maxime-Raymond,  45.348352, -73.753522,5,78049,0
+78050,Primeau / de la Haute-Rivière,  45.349866, -73.752207,5,78050,0
+78051,Primeau / Albert-Seers,  45.350193, -73.752349,5,78051,0
+78052,Primeau / Lalemant,  45.354308, -73.751051,5,78052,0
+78053,Primeau / Lalemant,  45.354363, -73.751258,5,78053,0
+78054,Primeau / Saint-André,  45.355238, -73.751546,5,78054,0
+78055,Chopin / Saint-Jean-Baptiste,  45.347295, -73.722471,5,78055,0
+78056,Parkview / Saint-Jean-Baptiste,  45.349425, -73.722318,5,78056,0
+78057,Parkview / Saint-Jean-Baptiste,  45.349296, -73.722476,5,78057,0
+78058,Richelieu / Primeau,  45.355529, -73.751882,5,78058,0
+78059,Richelieu / Cabot,  45.355457, -73.752597,5,78059,0
+78060,Cabot / Carré Richelieu,  45.355324, -73.752657,5,78060,0
+78061,Cabot / La Salle,  45.354216, -73.752235,5,78061,0
+78062,La Salle / Cabot,  45.354115, -73.752193,5,78062,0
+78063,La Salle / Labelle,  45.353356, -73.755613,5,78063,0
+78064,Labelle / La Salle,  45.353248, -73.755558,5,78064,0
+78065,Labelle / Sutterlin,  45.352294, -73.755751,5,78065,0
+78066,Sutterlin / Labelle,  45.352181, -73.755750,5,78066,0
+78067,Sutterlin / Adrien,  45.351138, -73.761097,5,78067,0
+78068,Sutterlin / De Bienville,  45.351195, -73.761349,5,78068,0
+78069,Bourdon / Louis-Jolliet,  45.353965, -73.764027,5,78069,0
+78070,Bourdon / Louis-Jolliet,  45.354010, -73.763842,5,78070,0
+78071,Maple / de Gaspé Ouest,  45.361605, -73.732242,5,78071,0
+78072,Maple / Midway,  45.361240, -73.732717,5,78072,0
+78073,McLeod / Fairmount Ouest,  45.364160, -73.727509,5,78073,0
+78074,McLeod / Fairmount Ouest,  45.364020, -73.727468,5,78074,0
+78075,Parkview / Saint-Joseph,  45.350479, -73.731777,5,78075,0
+78076,Parkview / Saint-Joseph,  45.350346, -73.731867,5,78076,0
+78077,McLeod / Saint-Charles,  45.363922, -73.725215,5,78077,0
+78078,McLeod / Saint-Charles,  45.363814, -73.725453,5,78078,0
+78079,McLeod / Bell,  45.363659, -73.722552,5,78079,0
+78080,McLeod / Bell,  45.363548, -73.722748,5,78080,0
+78081,Craik / Chaput,  45.364052, -73.720854,5,78081,0
+78082,Craik / Chaput,  45.364270, -73.720837,5,78082,0
+78083,Craik / Drouin,  45.366348, -73.718408,5,78083,0
+78084,Craik / Drouin,  45.366509, -73.718470,5,78084,0
+78085,Craik / Saint-Francis,  45.368982, -73.716621,5,78085,0
+78086,Saint-Francis / Craik,  45.369034, -73.716829,5,78086,0
+78087,Saint-Jean-Baptiste / Saint-Julien,  45.354882, -73.718239,5,78087,0
+78088,Saint-Jean-Baptiste / D'Orléans,  45.353247, -73.719235,5,78088,0
+78089,Saint-Francis / Woodbine,  45.369166, -73.715902,5,78089,0
+78090,Saint-Francis / Elmridge,  45.369924, -73.726294,5,78090,0
+78091,Saint-Francis / Lafayette,  45.369809, -73.721583,5,78091,0
+78092,Saint-Francis / Lafayette,  45.369550, -73.721489,5,78092,0
+78093,Saint-Francis / Jeffries,  45.368633, -73.740673,5,78093,0
+78094,Saint-Francis / Jeffries,  45.368434, -73.740997,5,78094,0
+78095,Saint-Francis / Edward Sud,  45.369112, -73.745355,5,78095,0
+78096,Saint-Francis / Edward Sud,  45.368994, -73.745618,5,78096,0
+78097,Saint-Francis / Isabelle,  45.368938, -73.747862,5,78097,0
+78098,Saint-Francis / Isabelle,  45.368838, -73.748140,5,78098,0
+78099,Parkview / Hillsdale Ouest,  45.349819, -73.726006,5,78099,0
+78100,Parkview / Laurier,  45.350085, -73.728431,5,78100,0
+78101,Parkview / Place King,  45.349988, -73.728692,5,78101,0
+78102,du Canal / 14e Avenue,  45.311090, -73.951102,6,78102,1
+78103,de Champlain / Saint-Joseph,  45.347272, -73.732858,5,78103,0
+78104,du Canal / des Bisons,  45.313922, -73.947743,6,78104,1
+78105,de Champlain / Damas,  45.347697, -73.736764,5,78105,0
+78106,Prince / de la Verdure,  45.356659, -73.737689,5,78106,1
+78107,de Champlain / Paul-Hallé,  45.348051, -73.739298,5,78107,0
+78108,Dunver / Saint-Marc,  45.362813, -73.715992,5,78108,1
+78109,Dubé / Salaberry Sud,  45.350312, -73.744307,5,78109,0
+78112,Salaberry Sud / Desparois,  45.363313, -73.751329,5,78112,0
+78113,Saint-Joseph / Sullivan,  45.354260, -73.729624,5,78113,0
+78114,Saint-Joseph / Sullivan,  45.354477, -73.729659,5,78114,0
+78115,Parkview / Saint-Mary's,  45.349761, -73.726766,5,78115,0
+78116,Saint-Jean-Baptiste / Poupart,  45.350504, -73.720729,5,78116,0
+78117,Saint-Jean-Baptiste / Bernard,  45.353566, -73.718834,5,78117,0
+78118,Saint-Joseph / Prince,  45.355849, -73.728191,5,78118,0
+78119,Saint-Joseph / Prince,  45.356086, -73.728430,5,78119,0
+78120,D'Anjou / Tremblay,  45.359982, -73.728051,5,78120,0
+78121,D'Anjou / Saint-Joseph,  45.359861, -73.727103,5,78121,0
+78122,Saint-Francis / Place Mary-Elizabeth-Noonan,  45.369691, -73.726071,5,78122,0
+78123,D'Anjou / Maple,  45.360477, -73.732479,5,78123,0
+78124,D'Anjou / Maple,  45.360393, -73.732921,5,78124,0
+78125,Saint-Jean-Baptiste / Saint-Francis,  45.368313, -73.710017,5,78125,0
+78126,Saint-Jean-Baptiste / Saint-Francis,  45.367864, -73.710515,5,78126,0
+78127,Saint-Francis / Saint-Jean-Baptiste,  45.368389, -73.710712,5,78127,0
+78128,Saint-Francis / Saint-Jean-Baptiste,  45.368834, -73.712612,5,78128,0
+78129,Principale / Place Léonie-Paradis,  45.354787, -73.770166,5,78129,1
+78130,Principale / McComber,  45.359691, -73.751195,5,78130,0
+78131,Principale / McComber,  45.359380, -73.751789,5,78131,0
+78132,Saint-Jean-Baptiste / D'Anjou,  45.358746, -73.715664,5,78132,0
+78135,Saint-Jean-Baptiste / face au stat. Incitatif,  45.365937, -73.711689,5,78135,0
+78136,Saint-Jean-Baptiste / devant le stat. Incitatif,  45.365636, -73.711613,5,78136,0
+78137,Saint-Jean-Baptiste / D'Anjou,  45.359745, -73.715411,5,78137,0
+78138,D'Anjou / Yvon,  45.358929, -73.718356,5,78138,0
+78139,Salaberry Nord / Ashmore,  45.372976, -73.749740,5,78139,0
+78140,Salaberry Nord / Ashmore,  45.373132, -73.749821,5,78140,0
+78141,Saint-Francis / Elm,  45.369064, -73.728600,5,78141,0
+78142,Saint-Francis / Elm,  45.368769, -73.728673,5,78142,0
+78143,Salaberry Nord / Dubuc,  45.389852, -73.748201,5,78143,0
+78144,Principale / Deguire,  45.358318, -73.756584,5,78144,0
+78145,Principale / Deguire,  45.358169, -73.756682,5,78145,0
+78146,du Canal / Mastaï-Brault,  45.315429, -73.945218,6,78146,1
+78147,de Champlain / Dubé,  45.350068, -73.742554,5,78147,0
+78148,Brisebois / Centre Multisport de Châteauguay,  45.343377, -73.764462,5,78148,1
+78149,de Champlain / Monette,  45.348855, -73.741258,5,78149,0
+78150,Rameau / devant le #220,  45.349003, -73.716029,5,78150,0
+78151,Rameau / devant le #203,  45.348794, -73.716125,5,78151,0
+78152,Marcel / Fresnel,  45.362305, -73.711486,5,78152,0
+78153,Sutterlin / devant le #158,  45.351821, -73.758769,5,78153,0
+78154,Sutterlin / devant le #153,  45.351724, -73.758680,5,78154,0
+78155,D'Anjou / de la Verdure,  45.360819, -73.735384,5,78155,0
+78156,de la Verdure / Salaberry Sud,  45.356665, -73.738210,5,78156,0
+78157,D'Anjou / de la Verdure,  45.360720, -73.735696,5,78157,0
+78158,D'Anjou / Parent,  45.361682, -73.742861,5,78158,0
+78159,Deguire / Principale,  45.358525, -73.756644,5,78159,1
+78160,D'Anjou / devant le #288,  45.358821, -73.718764,5,78160,0
+78161,de la Verdure / Claude-Pitre (CLSC Châteauguay),  45.358822, -73.736715,5,78161,0
+78162,Principale / Wilbrod,  45.359983, -73.749300,5,78162,0
+78163,Bernard / D'Youville,  45.379746, -73.753893,5,78163,0
+78164,Robert Ouest / Orchard,  45.380789, -73.738710,5,78164,0
+78165,Robert Ouest / Orchard,  45.380694, -73.738994,5,78165,0
+78166,Limite municipale Châteauguay / Sainte-Martine,  45.304570, -73.799242,5,78166,1
+78168,Stationnement Incitatif Châteauguay - Quai 1,  45.365445, -73.711119,5,78168,0
+78169,Saint-Joseph / Saint-Eugène,  45.352186, -73.731518,5,78169,0
+78170,Saint-Joseph / Saint-Eugène,  45.352396, -73.731617,5,78170,0
+78171,D'Anjou / Saint-Joseph,  45.359788, -73.727642,5,78171,0
+78172,D'Anjou / Salaberry Sud,  45.361746, -73.744651,5,78172,0
+78173,D'Anjou / Thibert,  45.361891, -73.744901,5,78173,0
+78174,D'Anjou / Vanier,  45.361238, -73.738825,5,78174,0
+78175,Vanier / D'Anjou,  45.361852, -73.738927,5,78175,0
+78176,D'Anjou / Vanier,  45.361125, -73.739093,5,78176,0
+78177,D'Anjou / Bell,  45.359454, -73.723308,5,78177,0
+78178,D'Anjou / Bell,  45.359342, -73.723653,5,78178,0
+78179,Saint-Jean-Baptiste / Marcel,  45.362459, -73.713495,5,78179,0
+78180,Saint-Jean-Baptiste / Dunver,  45.362695, -73.713615,5,78180,0
+78181,Saint-Francis / Maple,  45.368395, -73.730497,5,78181,0
+78182,Maple / Saint-Francis,  45.368103, -73.731251,5,78182,0
+78183,Saint-Francis / Maple,  45.368173, -73.730279,5,78183,0
+78184,Principale / D'Youville,  45.360221, -73.749188,5,78184,0
+78185,D'Youville / Roy,  45.368527, -73.756193,5,78185,0
+78186,D'Youville / Taylor,  45.376877, -73.752286,5,78186,0
+78189,Saint-Francis / Salaberry Nord,  45.369559, -73.751518,5,78189,0
+78190,Saint-Francis / Salaberry Nord,  45.369367, -73.751414,5,78190,0
+78191,Salaberry Nord / Saint-Francis,  45.369245, -73.751481,5,78191,0
+78193,Notre-Dame Nord / Taylor,  45.375008, -73.760202,5,78193,0
+78194,Notre-Dame Nord / Jeanne-d'Arc,  45.373813, -73.759218,5,78194,0
+78195,Limite municipale Léry,  45.371008, -73.775385,5,78195,1
+78196,Limite municipale Léry,  45.371064, -73.775556,5,78196,1
+78197,Letendre / Gouin,  45.365499, -73.758455,5,78197,0
+78198,Deguire / Letendre,  45.365186, -73.759299,5,78198,0
+78199,Deguire / Letendre,  45.365086, -73.759393,5,78199,0
+78201,Deguire / Colpron,  45.362535, -73.758434,5,78201,0
+78202,Maple / McLeod,  45.364401, -73.731760,5,78202,0
+78203,McLeod / Maple,  45.364535, -73.731691,5,78203,0
+78204,Maple / McLeod,  45.364552, -73.732070,5,78204,0
+78205,Maple / Watt,  45.373781, -73.736548,5,78205,0
+78206,Maple / Watt,  45.373905, -73.736772,5,78206,0
+78207,Maple / Gilmour,  45.375965, -73.736099,5,78207,0
+78208,Maple / Gilmour,  45.376161, -73.736236,5,78208,0
+78209,Gilmour / Maple,  45.376022, -73.736304,5,78209,0
+78210,Maple / Gordon,  45.379521, -73.735305,5,78210,0
+78211,Gordon / Maple,  45.379570, -73.735514,5,78211,0
+78212,du Christ-Roi / Robert Ouest,  45.381189, -73.742076,5,78212,0
+78213,du Christ-Roi / Robert Ouest,  45.381034, -73.742066,5,78213,0
+78214,Principale / Bourdon,  45.356270, -73.764384,5,78214,0
+78215,Principale / Bourdon,  45.356501, -73.764045,5,78215,0
+78216,Bourdon / Principale,  45.355858, -73.764949,5,78216,0
+78217,Bourdon / Principale,  45.356070, -73.764875,5,78217,0
+78218,Jeanne-d'Arc / Edmour-Daoust,  45.308249, -73.867666,6,78218,1
+78221,Salaberry Nord / Dubuc,  45.389887, -73.748438,5,78221,0
+78223,Higgins / Salaberry Nord,  45.395357, -73.749543,5,78223,0
+78224,Salaberry Nord / Létourneau,  45.393367, -73.749604,5,78224,0
+78225,Salaberry Nord / Létourneau,  45.393502, -73.749799,5,78225,0
+78226,Salaberry Nord / Jack,  45.384149, -73.748661,5,78226,0
+78227,Salaberry Nord / Jack,  45.384275, -73.748752,5,78227,0
+78228,Salaberry Nord / Dupont Ouest,  45.379562, -73.750665,5,78228,0
+78229,Salaberry Nord / Dupont Ouest,  45.379761, -73.750802,5,78229,0
+78230,Salaberry Nord / Gilmour,  45.376873, -73.749688,5,78230,0
+78231,Gilmour / Salaberry Nord,  45.376998, -73.749709,5,78231,0
+78232,Sutterlin / Bourdon,  45.350980, -73.762352,5,78232,0
+78233,Bourdon / Sutterlin,  45.350947, -73.762497,5,78233,0
+78234,Notre-Dame Nord / Edmour,  45.381090, -73.767277,5,78234,0
+78235,Edmour / Vinet Ouest,  45.383316, -73.766887,5,78235,0
+78236,Macdonald / Viateur-Cardinal,  45.327954, -73.840714,6,78236,1
+78237,D'Youville / Duranceau,  45.378442, -73.752858,5,78237,0
+78239,Brault / D'Youville,  45.375548, -73.754185,5,78239,0
+78242,D'Youville / Tougas,  45.370820, -73.755578,5,78242,0
+78243,Bourdon / Sutterlin,  45.350850, -73.762443,5,78243,0
+78245,Brisebois / face au Centre Hospitalier A-Laberge,  45.345929, -73.765759,5,78245,0
+78246,Girouard / D'Youville,  45.365650, -73.754878,5,78246,0
+78247,Letendre / Girouard,  45.365096, -73.756823,5,78247,0
+78248,Deguire / de Carignan,  45.362958, -73.758450,5,78248,0
+78249,Deguire / Barrette,  45.360913, -73.757671,5,78249,0
+78250,Deguire / Barrette,  45.360987, -73.757846,5,78250,0
+78252,Salaberry Nord / Beauchamp,  45.365104, -73.751764,5,78252,0
+78253,Salaberry Nord / Lang,  45.367854, -73.750690,5,78253,0
+78254,Primeau / René-Lévesque,  45.346748, -73.754591,5,78254,0
+78255,Salaberry Nord / Watt,  45.375217, -73.749194,5,78255,0
+78256,Salaberry Nord / Watt,  45.375337, -73.749392,5,78256,0
+78257,Gilmour / Church,  45.377335, -73.747621,5,78257,0
+78258,Gilmour / Church,  45.377452, -73.747638,5,78258,0
+78259,Gilmour / Mountain,  45.376565, -73.741261,5,78259,0
+78260,Maple / Newton,  45.372252, -73.734788,5,78260,0
+78261,Maple / Newton,  45.372259, -73.735144,5,78261,0
+78262,Maple / de Lucerne,  45.369904, -73.732291,5,78262,0
+78263,Maple / de Lucerne,  45.369939, -73.732557,5,78263,0
+78264,Saint-Francis / des Tulipes,  45.367884, -73.735857,5,78264,0
+78265,Saint-Francis / des Tulipes,  45.368051, -73.735816,5,78265,0
+78266,Saint-Francis / Vanier,  45.368324, -73.738330,5,78266,0
+78267,Saint-Francis / Vanier,  45.368212, -73.738542,5,78267,0
+78268,Vanier / Vincent,  45.366146, -73.738920,5,78268,0
+78269,Primeau / Paul-VI,  45.352072, -73.750931,5,78269,0
+78270,Primeau / Paul-VI,  45.352098, -73.751097,5,78270,0
+78274,Route 132 / Route 207,  45.402284, -73.672873,5,78274,0
+78275,Route 138 / face au #1025,  45.399543, -73.683140,5,78275,0
+78282,de Léry / face au #1018,  45.348041, -73.800356,5,78282,0
+78283,de Léry / de la Gare,  45.334462, -73.816751,5,78283,0
+78284,de Léry / de la Gare,  45.335101, -73.815851,5,78284,0
+78285,de Léry / René-Lévesque,  45.355910, -73.785459,5,78285,0
+78289,de Maple Grove / face au #2,  45.325254, -73.827564,6,78289,0
+78290,de Maple Grove / devant le #2,  45.325446, -73.827803,6,78290,0
+78291,de Léry / Paul,  45.329908, -73.821637,5,78291,0
+78292,de Léry / Paul,  45.330061, -73.821269,5,78292,0
+78294,de Léry / devant le #1355,  45.339656, -73.811169,5,78294,0
+78295,de Léry / de l'Hôtel-de-Ville,  45.344641, -73.805627,5,78295,0
+78296,de Léry / de l'Hôtel-de-Ville,  45.344519, -73.805567,5,78296,0
+78297,de Léry / du Golf,  45.350549, -73.795739,5,78297,0
+78298,de Léry / du Golf,  45.350195, -73.796158,5,78298,0
+78299,de Léry / devant le #1018,  45.348055, -73.800577,5,78299,0
+78300,de Léry / face au #747,  45.352920, -73.790613,5,78300,0
+78315,boul. Newman / av. Lafleur,  45.425473, -73.649156,1,78315,0
+78317,de Melocheville / Alfred-Haineault,  45.316475, -73.932793,6,78317,0
+78318,de Melocheville / Rang Sainte-Marie,  45.316241, -73.932072,6,78318,0
+78320,de Melocheville / Échangeur de Melocheville,  45.315342, -73.927301,6,78320,0
+78321,de Melocheville / devant la maison de retraite,  45.316628, -73.935410,6,78321,0
+78322,de Melocheville / face à la maison de retraite,  45.316518, -73.935350,6,78322,0
+78323,de Melocheville / 1re Avenue,  45.312598, -73.971057,6,78323,0
+78324,de Melocheville / 1re Avenue,  45.312331, -73.971138,6,78324,0
+78325,de Melocheville / 4e Avenue,  45.313407, -73.968465,6,78325,0
+78326,de Melocheville / 4e Avenue,  45.313354, -73.968427,6,78326,0
+78327,de Melocheville / 8e Avenue,  45.313880, -73.964944,6,78327,0
+78328,de Melocheville / 8e Avenue,  45.313738, -73.965055,6,78328,0
+78329,de Melocheville / Côté,  45.314127, -73.962099,6,78329,0
+78330,de Melocheville / Côté,  45.313936, -73.962902,6,78330,0
+78331,de Melocheville / 13e Avenue,  45.314538, -73.957348,6,78331,0
+78332,de Melocheville / 13e Avenue,  45.314421, -73.957482,6,78332,0
+78333,de Melocheville / 15e Avenue,  45.315023, -73.951944,6,78333,0
+78334,de Melocheville / 15e Avenue,  45.314977, -73.951363,6,78334,0
+78335,de Melocheville / 17e Avenue,  45.315366, -73.948496,6,78335,0
+78336,de Melocheville / 17e Avenue,  45.315250, -73.948526,6,78336,0
+78337,de Melocheville / 21e Avenue,  45.315956, -73.942709,6,78337,0
+78338,de Melocheville / 21e Avenue,  45.315859, -73.942644,6,78338,0
+78339,de Maple Grove / de la Gare,  45.319993, -73.836959,6,78339,0
+78341,de Maple Grove / Place Dumas,  45.316585, -73.863951,6,78341,0
+78342,Ellice / de la Kilgour,  45.316006, -73.868244,6,78342,0
+78343,de Maple Grove / Saint-Armand,  45.317629, -73.852279,6,78343,0
+78344,de Maple Grove / Saint-Armand,  45.317513, -73.852271,6,78344,0
+78345,Saint-Laurent / de la Kilgour,  45.316550, -73.867969,6,78345,0
+78347,de Maple Grove / de l'Église,  45.318581, -73.841437,6,78347,0
+78348,de Melocheville / Échangeur de Melocheville,  45.315473, -73.926344,6,78348,0
+78350,de Maple Grove / Dubuc,  45.316497, -73.863454,6,78350,0
+78351,de Maple Grove / des Cèdres,  45.316781, -73.859825,6,78351,0
+78352,de Maple Grove / des Cèdres,  45.316654, -73.860103,6,78352,0
+78353,de Maple Grove / des Chênes,  45.317029, -73.855946,6,78353,0
+78354,de Maple Grove / des Chênes,  45.316932, -73.855901,6,78354,0
+78355,de Maple Grove / Saint-Jean,  45.318128, -73.849823,6,78355,0
+78356,Ellice / de la Beauce,  45.315360, -73.870780,6,78356,0
+78357,de Maple Grove / de la Couturière,  45.318510, -73.847427,6,78357,0
+78358,de Maple Grove / devant le #191,  45.318272, -73.848298,6,78358,0
+78360,de Maple Grove / des Tulipes,  45.318515, -73.841617,6,78360,0
+78361,de Maple Grove / Hébert,  45.319482, -73.837846,6,78361,0
+78362,de Maple Grove / Gagnier,  45.319102, -73.838285,6,78362,0
+78364,Terminus Angrignon Quai 17,  45.446511, -73.605239,1,78364,0
+78433,Terminus Salaberry-de-Valleyfield,  45.258184, -74.126591,8,78433,0
+78445,Saint-Jean-Baptiste / D'Anjou,  45.357973, -73.716335,5,78445,0
+78447,D'Youville / Saint-Jean,  45.374275, -73.754216,5,78447,0
+78448,de Melocheville / de l'Énergie,  45.313784, -73.898177,6,78448,0
+78449,Saint-Louis / Riendeau,  45.307472, -73.879074,6,78449,1
+78450,Saint-Louis / Riendeau,  45.307786, -73.879351,6,78450,1
+78458,du Canal / Mastaï-Brault,  45.315255, -73.946100,6,78458,1
+78459,du Canal / des Bisons,  45.314113, -73.947726,6,78459,1
+78460,du Canal / 14e Avenue,  45.311392, -73.951185,6,78460,1
+78461,Lucienne-Charette / Théorêt,  45.311651, -73.952544,6,78461,1
+78462,Lucienne-Charette / 13e Avenue,  45.312683, -73.956866,6,78462,1
+78463,13e Avenue / de Melocheville,  45.314413, -73.957311,6,78463,1
+78500,Cadieux / devant le IGA,  45.306375, -73.863693,6,78500,0
+78501,Cadieux / face au IGA,  45.306477, -73.863678,6,78501,0
+78505,Girouard / D'Youville,  45.365568, -73.754765,5,78505,0
+78506,Principale / Rousseau,  45.355680, -73.767362,5,78506,0
+78507,Principale / Place Léonie-Paradis,  45.354968, -73.770323,5,78507,0
+78508,Marcel / Saint-Jean-Baptiste,  45.362581, -73.713376,5,78508,0
+78509,de la Beauce / Hannah,  45.314484, -73.869604,6,78509,0
+78510,de la Beauce / Saint-Charles,  45.312881, -73.867545,6,78510,0
+78511,de la Beauce / Saint-Clément,  45.311511, -73.865669,6,78511,0
+78512,de la Beauce / Jeanne-d'Arc,  45.310375, -73.864194,6,78512,0
+78513,de la Beauce / Saint-Paul,  45.309186, -73.862698,6,78513,0
+78514,Cadieux / devant le #529,  45.306884, -73.862860,6,78514,0
+78515,Cadieux / Edmour-Daoust,  45.306257, -73.865163,6,78515,0
+78516,Cadieux / Morell,  45.304729, -73.869578,6,78516,0
+78517,Cadieux / Dupuis,  45.303273, -73.871814,6,78517,0
+78518,Cadieux / Lussier,  45.301754, -73.874147,6,78518,0
+78519,Cadieux / Saint-André,  45.301111, -73.875162,6,78519,0
+78520,Cadieux / Saint-Louis,  45.300111, -73.881033,6,78520,0
+78521,Saint-Louis / Claude,  45.296807, -73.881991,6,78521,0
+78522,Saint-Louis / Tisseur,  45.294367, -73.882629,6,78522,0
+78523,Saint-Louis / Brière,  45.291901, -73.883226,6,78523,0
+78525,Saint-Louis / Gisèle,  45.301939, -73.880598,6,78525,0
+78526,Saint-Louis / Lussier,  45.305585, -73.879685,6,78526,0
+78527,Saint-Louis / Boyer,  45.309520, -73.878652,6,78527,0
+78528,Saint-Louis / Saint-Joseph,  45.310855, -73.878068,6,78528,0
+78529,Saint-Louis / Ellice,  45.313315, -73.878616,6,78529,0
+78530,Principale / Oscar-Murphy,  45.318090, -73.939932,6,78530,0
+78531,François-Branchaud / de la Pointe-Bourdon,  45.327151, -73.829398,6,78531,0
+78533,François-Branchaud / MacDonald,  45.324211, -73.835890,6,78533,0
+78535,François-Branchaud / de la Pointe-Raoul-Hébert,  45.321803, -73.840662,6,78535,0
+78538,Saint-Louis / Ellice,  45.313437, -73.878795,6,78538,0
+78539,Saint-Louis / Saint-Joseph,  45.310919, -73.878244,6,78539,0
+78540,Saint-Louis / Marie-Anne,  45.309625, -73.878713,6,78540,0
+78541,Saint-Louis / Albert,  45.305650, -73.879717,6,78541,0
+78543,Salaberry Sud / Saint-Eugène,  45.353326, -73.737871,5,78543,0
+78545,Salaberry Sud / Trenton,  45.351833, -73.739834,5,78545,0
+78546,Saint-Louis / Olivier,  45.302066, -73.880677,6,78546,0
+78547,Saint-Louis / de l'Orignal,  45.300149, -73.881177,6,78547,0
+78548,Cadieux / Saint-André,  45.300759, -73.875137,6,78548,0
+78549,Cadieux / Lussier,  45.301403, -73.874215,6,78549,0
+78550,Cadieux / Gagnon,  45.303010, -73.871731,6,78550,0
+78551,Cadieux / Morell,  45.304460, -73.869489,6,78551,0
+78552,Cadieux / Edmour-Daoust,  45.306123, -73.865197,6,78552,0
+78553,Cadieux / face au #529,  45.306829, -73.862789,6,78553,0
+78554,de la Beauce / Saint-Paul,  45.309161, -73.862452,6,78554,0
+78555,de la Beauce / Jeanne-d'Arc,  45.310409, -73.864136,6,78555,0
+78556,de la Beauce / Saint-Clément,  45.311543, -73.865616,6,78556,0
+78557,de la Beauce / Saint-Charles,  45.312862, -73.867342,6,78557,0
+78558,de la Beauce / Hannah,  45.314417, -73.869364,6,78558,0
+78559,boul. Newman / boul. Shevchenko,  45.432363, -73.630467,1,78559,0
+78560,de la Beauce / Ellice,  45.315362, -73.870513,6,78560,0
+78563,boul. Newman / 90e avenue,  45.429398, -73.638512,1,78563,0
+78564,boul. Newman / rue Senkus,  45.444915, -73.613604,1,78564,0
+78565,boul. Newman / rue Lapierre,  45.439240, -73.622715,1,78565,0
+78567,boul. Newman / rue Thierry,  45.436053, -73.626114,1,78567,0
+78568,boul. Newman / rue Léger,  45.441188, -73.619604,1,78568,0
+78569,boul. Newman / av. Dollard,  45.431271, -73.633352,1,78569,0
+78570,François-Branchaud / Divina-Sauvé,  45.319567, -73.844524,6,78570,0
+78571,François-Branchaud / de l'Église,  45.320497, -73.842823,6,78571,0
+78572,François-Branchaud / Hébert,  45.321443, -73.841111,6,78572,0
+78573,François-Branchaud / de la Gare,  45.322085, -73.839823,6,78573,0
+78574,François-Branchaud / MacDonald,  45.324178, -73.835913,6,78574,0
+78575,Perreault / François-Branchaud,  45.324692, -73.834533,6,78575,0
+78586,Saint-Laurent / Sainte-Catherine,  45.315482, -73.873020,6,78586,0
+78587,Saint-Laurent / Saint-Louis,  45.314821, -73.878479,6,78587,0
+78588,Saint-Laurent / de la Beauce,  45.316105, -73.871657,6,78588,0
+78589,Principale / Principale,  45.316639, -73.925649,6,78589,0
+78590,Principale / 22e Avenue,  45.316978, -73.928625,6,78590,0
+78591,Principale / Alfred-Haineault,  45.317305, -73.932051,6,78591,0
+78592,Principale / Charlebois,  45.318230, -73.935172,6,78592,0
+78593,Principale / Oscar-Murphy,  45.318197, -73.939746,6,78593,0
+78594,Principale / 21e Avenue,  45.318181, -73.943085,6,78594,0
+78595,21e Avenue / Charlebois,  45.316936, -73.942925,6,78595,0
+78596,21e Avenue / Charlebois,  45.316811, -73.942708,6,78596,0
+78597,21e Avenue / Principale,  45.318119, -73.943048,6,78597,0
+78598,Faubert / de la Pointe-Goyette,  45.328449, -73.834494,6,78598,0
+78599,Principale / Charlebois,  45.318110, -73.935453,6,78599,0
+78600,Principale / Bourcier,  45.317920, -73.933693,6,78600,0
+78601,Principale / devant le #210,  45.316898, -73.929230,6,78601,0
+78602,Principale / devant le #156,  45.316351, -73.925902,6,78602,0
+78606,Route 138 / devant le #1025,  45.399932, -73.683171,5,78606,0
+78607,de Léry / devant le #747,  45.352956, -73.790823,5,78607,0
+78608,de Léry / face au #1355,  45.339655, -73.810990,5,78608,0
+78611,de Léry / devant le #643,  45.354573, -73.787522,5,78611,0
+78623,de Melocheville / de l'Énergie,  45.314017, -73.897868,6,78623,0
+78655,Saint-Thomas / Salaberry (Hôpital du Suroît),  45.251963, -74.130977,8,78655,0
+78662,Saint-Thomas / Collège de Valleyfield,  45.253302, -74.132096,8,78662,0
+78678,Ford / Pierre-Boursier,  45.349064, -73.700524,5,78678,0
+78679,Pierre-Boursier / Sainte-Marguerite,  45.353146, -73.698094,5,78679,0
+78680,Industriel / devant le #210,  45.358435, -73.697253,5,78680,0
+78681,Industriel / devant le #172,  45.360593, -73.700302,5,78681,0
+78682,Industriel / Albert-Einstein,  45.365397, -73.706930,5,78682,0
+78683,Dupuis / Pierre-Boursier,  45.344532, -73.703655,5,78683,1
+78684,Pierre-Boursier / Dupuis,  45.344732, -73.703547,5,78684,1
+78685,Pierre-Boursier / Kennedy,  45.348447, -73.701584,5,78685,1
+78689,de la Haute-Rivière / devant la Caisse Desjardins,  45.345488, -73.755481,5,78689,1
+78690,Brisebois / face au Walmart,  45.343140, -73.764024,5,78690,1
+78691,Brisebois / École Louis-Philippe-Paré,  45.344758, -73.764920,5,78691,1
+78692,Brisebois / face au Centre Hospitalier A-Laberge,  45.345886, -73.765506,5,78692,1
+78693,Desmarais / Dupuis,  45.345395, -73.708778,5,78693,1
+78694,Dupuis / Desmarais,  45.345324, -73.708600,5,78694,1
+78700,Saint-Laurent / Richardson,  45.315268, -73.876758,6,78700,0
+78701,de Melocheville / des Hauts-Fourneaux,  45.314324, -73.881490,6,78701,0
+78702,de Melocheville / face à Axiall Canada Inc.,  45.314187, -73.892657,6,78702,0
+78714,Salaberry / de l'Académie (Palais de Justice),  45.253366, -74.126914,8,78714,0
+78721,de Melocheville / devant Axiall Canada Inc.,  45.313946, -73.892665,6,78721,0
+78722,de Melocheville / des Hauts-Fourneaux,  45.314125, -73.883821,6,78722,0
+78723,de Maple Grove / de la Gare,  45.319874, -73.836942,6,78723,0
+78724,Ellice / devant l'Hôtel de Ville,  45.313494, -73.877835,6,78724,0
+78725,Ellice / Richardson,  45.313904, -73.876263,6,78725,0
+78726,Ellice / Brown,  45.314458, -73.874269,6,78726,0
+78728,de Léry / face au #643,  45.354472, -73.787432,5,78728,0
+78729,de Léry / René-Lévesque,  45.355682, -73.785277,5,78729,0
+78730,Route 138 / face au #1500,  45.376806, -73.705050,5,78730,0
+78731,Route 138 / devant le #1111,  45.393205, -73.695464,5,78731,0
+78734,Route 132 / Rond-Point Bédard,  45.398760, -73.689147,5,78734,0
+78752,Notre-Dame Nord / Duranceau,  45.376271, -73.760811,5,78752,0
+78753,D'Anjou / de la Verdure,  45.359850, -73.736013,5,78753,0
+78856,Industriel / Saint-Jean-Baptiste,  45.367401, -73.710158,5,78856,0
+78857,Industriel / devant le #155,  45.361376, -73.701747,5,78857,0
+78858,Industriel / devant le #191,  45.358828, -73.698260,5,78858,0
+78859,Industriel / Bélanger,  45.353290, -73.692216,5,78859,0
+78860,Industriel / devant le #221,  45.351947, -73.690459,5,78860,0
+78861,Industriel / devant le #301,  45.346890, -73.682869,5,78861,0
+78862,Industriel / Ford,  45.345487, -73.683447,5,78862,0
+78863,des Cascades / devant le #1250,  45.347980, -73.687848,5,78863,0
+78864,des Cascades / Bombardier,  45.348807, -73.690808,5,78864,0
+78865,Bombardier / Ford,  45.346667, -73.692168,5,78865,0
+78866,Ford / face au #625,  45.347925, -73.696536,5,78866,0
+78867,d'Abbotsford / devant le Centre L'Accore,  45.378067, -73.748129,5,78867,0
+78869,Industriel / Saint-Jean-Baptiste,  45.367643, -73.710048,5,78869,0
+78870,Industriel / devant le #265,  45.348759, -73.686439,5,78870,1
+78871,D'Youville / Roy,  45.368492, -73.756032,5,78871,0
+78872,D'Youville / Tougas,  45.370753, -73.755429,5,78872,0
+78873,D'Youville / Saint-Jean,  45.374274, -73.754047,5,78873,0
+78874,Brault / D'Youville,  45.375886, -73.754180,5,78874,0
+78875,Jeanne-d'Arc / Notre-Dame Nord,  45.373835, -73.759065,5,78875,0
+78876,Notre-Dame Nord / Taylor,  45.375054, -73.760070,5,78876,0
+78877,Notre-Dame Nord / Duranceau,  45.376529, -73.761119,5,78877,0
+78879,Girouard / Letendre,  45.365122, -73.756699,5,78879,0
+78881,d'Abbotsford / face au Centre L'Accore,  45.377956, -73.748177,5,78881,0
+78885,Faubourg Châteauguay (Wal-Mart),  45.343544, -73.762741,5,78885,0
+78893,Prince / Saint-Joseph,  45.355928, -73.728600,5,78893,0
+78897,Deguire / Gendron,  45.359077, -73.757058,5,78897,0
+78898,Route 138 / devant le #1500,  45.376988, -73.705200,5,78898,0
+78899,Prince / Croissant de Cambrai,  45.356238, -73.734137,5,78899,0
+78900,Terminus Angrignon Quai 16,  45.446491, -73.605227,1,78900,1
+78901,Terminus Angrignon Quai 15,  45.446472, -73.605217,1,78901,1
+78902,Terminus Angrignon Quai 14,  45.446455, -73.605206,1,78902,1
+78903,Terminus Angrignon Quai 13,  45.446442, -73.605196,1,78903,1
+78904,Terminus Angrignon Quai 12,  45.446424, -73.605187,1,78904,1
+78905,Terminus Angrignon Quai 11,  45.446408, -73.605177,1,78905,1
+78910,rue Gilmour / rue Mountain,  45.376648, -73.741021,5,78910,1
+78913,Vanier / Normand,  45.362380, -73.738619,5,78913,1
+78914,Vanier / d'Iberville,  45.364782, -73.738962,5,78914,1
+78915,Vanier / Michener,  45.366686, -73.738638,5,78915,1
+78916,Vanier / Saint-Françis,  45.368163, -73.738330,5,78916,1
+78917,Primeau / Saint-Léon,  45.356572, -73.752237,5,78917,1
+78918,Prince / Lautrec,  45.356421, -73.735735,5,78918,1
+78919,Prince / Liège,  45.356300, -73.732015,5,78919,1
+78920,Principale / de la Maçonnerie,  45.357773, -73.759054,5,78920,1
+78921,Principale / de la Maçonnerie,  45.357533, -73.759307,5,78921,1
+78922,St-Isidore / Jonction Sud,  45.403816, -73.672718,5,78922,1
+78923,St-Isidore / Cemetery,  45.406338, -73.675456,5,78923,1
+78924,St-Isidore / Malone,  45.410726, -73.681320,5,78924,1
+78925,Malone / North Creek,  45.412268, -73.676876,5,78925,1
+78926,Malone / Cemetary,  45.412657, -73.673686,5,78926,1
+78927,Malone / kane,  45.411212, -73.669464,5,78927,1
+78928,Malone / River,  45.409814, -73.665374,5,78928,1
+78929,Malone / Veterans,  45.408956, -73.662789,5,78929,1
+78930,Office Complex,  45.406988, -73.655131,5,78930,1
+78931,Malone / Tunnel ouest,  45.409106, -73.661466,5,78931,1
+78932,Bank-Post office,  45.410685, -73.663592,5,78932,1
+78933,River / Legion,  45.413300, -73.669875,5,78933,1
+78934,River / Whitebean,  45.414903, -73.674023,5,78934,1
+78935,Kateri Memorial Hospital,  45.416031, -73.682726,5,78935,1
+78936,Blind Ladies Hill / Horn,  45.412367, -73.684871,5,78936,1
+78937,Blind Ladies Hill / Old Quarry,  45.410285, -73.686139,5,78937,1
+78938,Blind Ladies Hill / Kirby,  45.408121, -73.687333,5,78938,1
+78939,Peacekeepers Station,  45.402234, -73.690754,5,78939,1
+78943,Laurier / Poissant,  45.321642, -73.835896,6,78943,1
+78944,Reid / de Maple Grove,  45.320536, -73.836269,6,78944,1
+78950,Perreault / Laurier,  45.323899, -73.833739,6,78950,1
+78952,du Canal / 16e Avenue,  45.313222, -73.949100,6,78952,1
+79118,Lapierre / Cégep André-Laurendeau,  45.435053, -73.604428,1,79118,0
+79191,Brisebois / École Louis-Philippe-Paré,  45.344887, -73.765256,5,79191,1

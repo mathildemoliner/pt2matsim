@@ -1,0 +1,391 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+73024,Promenades Saint-Bruno / face à la porte #3,  45.503044, -73.376021,3,73024,0
+73026,Promenades Saint-Bruno / face à la porte #2,  45.506043, -73.374795,3,73026,0
+74000,du Séminaire Sud / Montcalm (Cégep),  45.297081, -73.266912,HT,74000,0
+74001,du Séminaire Sud / Gouin,  45.301098, -73.266457,HT,74001,0
+74002,du Séminaire Nord / McMillan (Hôpital),  45.333594, -73.268116,HT,74002,0
+74003,du Séminaire Nord / Lachance,  45.334913, -73.267688,HT,74003,0
+74004,du Séminaire Nord / Lachance,  45.335223, -73.268248,HT,74004,0
+74005,du Séminaire Nord / face à l'Hôpital,  45.333343, -73.267455,HT,74005,0
+74006,du Séminaire Sud / Gouin,  45.301633, -73.266951,HT,74006,0
+74007,du Séminaire Sud / Montcalm (Cégep),  45.297053, -73.266582,HT,74007,0
+74008,Simard / face au Centre Sportif Robert Lebel,  45.437194, -73.269138,5,74008,0
+74009,Brassard / 2e Rue De Tracy,  45.449078, -73.303424,5,74009,0
+74011,de Chambly / Bellerive,  45.459436, -73.308587,5,74011,0
+74012,De Périgny / face au 500,  45.459156, -73.305372,5,74012,0
+74013,de Chambly / Bellevue,  45.462278, -73.331809,5,74013,0
+74014,de Chambly / Bellevue,  45.462039, -73.332316,5,74014,0
+74015,Route 112 / de Chambly,  45.465225, -73.345291,5,74015,0
+74017,Fréchette / Fonrouge,  45.433589, -73.296925,5,74017,0
+74018,Fréchette / Denault,  45.433895, -73.296250,5,74018,0
+74020,De Périgny / Bourgogne,  45.456229, -73.302339,5,74020,0
+74021,De Périgny / Laforce,  45.455982, -73.302700,5,74021,0
+74022,De Périgny / Notre-Dame,  45.453338, -73.301367,5,74022,0
+74023,De Périgny / Notre-Dame,  45.453494, -73.301896,5,74023,0
+74024,Brassard / De Périgny,  45.452317, -73.302084,5,74024,0
+74026,Brassard / 1re Rue De Tracy,  45.450505, -73.302823,5,74026,0
+74027,Brassard / 1re Rue De Tracy,  45.450982, -73.303171,5,74027,0
+74028,Brassard / De Salaberry,  45.446934, -73.302412,5,74028,0
+74029,Brassard / De Salaberry,  45.447072, -73.302864,5,74029,0
+74030,Brassard / Barré,  45.443795, -73.302734,5,74030,0
+74031,Brassard / Dubuisson,  45.444081, -73.303061,5,74031,0
+74032,Fréchette / Charles-Le Moyne,  45.444130, -73.287865,5,74032,0
+74033,Fréchette / Charles-Le Moyne,  45.444350, -73.288097,5,74033,0
+74034,Fréchette / de Gentilly,  45.440602, -73.288964,5,74034,0
+74036,Fréchette / Lapalme,  45.440898, -73.289270,5,74036,0
+74037,de Gentilly / Franquet,  45.434770, -73.280084,5,74037,0
+74038,Franquet / de Gentilly,  45.434483, -73.280188,5,74038,0
+74039,Henriette / devant le #2282,  45.449378, -73.319247,5,74039,1
+74040,Henriette / devant le #2271,  45.449198, -73.319375,3,74040,1
+74041,Franquet / Scheffer,  45.435402, -73.285955,5,74041,0
+74042,Bourgogne / Napoléon,  45.442655, -73.261053,5,74042,0
+74044,Scheffer / O'Brien,  45.434885, -73.286084,5,74044,0
+74045,Scheffer / Fonrouge,  45.430780, -73.287455,5,74045,0
+74047,Fonrouge / Kennedy,  45.431439, -73.292072,5,74047,0
+74049,Kennedy / Beausoleil,  45.433538, -73.291425,5,74049,0
+74051,Kennedy / Fréchette,  45.434815, -73.291608,5,74051,0
+74052,Fréchette / Kennedy,  45.435026, -73.291871,5,74052,0
+74053,Fréchette / Kennedy,  45.434730, -73.291773,5,74053,0
+74054,Franquet / Berthier,  45.436222, -73.289575,5,74054,0
+74055,Fréchette / Franquet,  45.436114, -73.290485,5,74055,0
+74057,Fréchette / Franquet,  45.436416, -73.290767,5,74057,0
+74058,Fréchette / Lebel,  45.438717, -73.289645,5,74058,0
+74059,Fréchette / Lebel,  45.439224, -73.289798,5,74059,0
+74060,Lebel / Fréchette,  45.438953, -73.289943,5,74060,0
+74062,Lebel / Saint-Jean,  45.439656, -73.294806,5,74062,0
+74064,Lebel / Denault,  45.440318, -73.298853,5,74064,0
+74066,Lebel / Briand,  45.440761, -73.301803,5,74066,0
+74067,Bourgogne / Saint-Jacques,  45.443510, -73.262943,5,74067,0
+74068,Bourgogne / Saint-Jacques,  45.443495, -73.263233,5,74068,0
+74069,Brassard / Lebel,  45.440998, -73.303667,5,74069,0
+74071,Brassard / Lebel,  45.441365, -73.303994,5,74071,0
+74072,Lebel / Brassard,  45.441280, -73.304106,5,74072,0
+74074,Lebel / Kent,  45.441589, -73.308268,5,74074,0
+74075,Kent / Duchesnay,  45.440040, -73.307771,5,74075,0
+74077,Kent / de Longueuil,  45.436388, -73.308887,5,74077,0
+74079,Kent / Des Ormeaux,  45.435626, -73.309848,5,74079,0
+74080,Michel-Laguë / Labonté,  45.431966, -73.309533,5,74080,0
+74082,Brassard / Roy,  45.438625, -73.304410,5,74082,0
+74083,Brassard / Roy,  45.438787, -73.304720,5,74083,0
+74084,Brassard / de Longueuil,  45.435557, -73.305425,5,74084,0
+74085,Brassard / de Longueuil,  45.435822, -73.305725,5,74085,0
+74087,Bourgogne / Viens,  45.444560, -73.265558,5,74087,0
+74088,Brassard / Michel-Laguë,  45.432744, -73.305941,5,74088,0
+74089,Brassard / Michel-Laguë,  45.432782, -73.306367,5,74089,0
+74091,Bourgogne / Napoléon,  45.442599, -73.261339,5,74091,0
+74092,Bourgogne / Dumaine,  45.446718, -73.270330,5,74092,0
+74093,Bourgogne / Saint-Louis,  45.441769, -73.259325,5,74093,0
+74094,Bourgogne / Saint-Louis,  45.441800, -73.259563,5,74094,0
+74096,Bourgogne / Viens,  45.444583, -73.265323,5,74096,0
+74097,Bourgogne / Saint-Georges,  45.445777, -73.268261,5,74097,0
+74098,Fréchette / De Périgny,  45.445423, -73.287336,5,74098,0
+74099,Fréchette / De Périgny,  45.446347, -73.287445,5,74099,0
+74100,Bourgogne / Saint-Georges,  45.445829, -73.268034,5,74100,0
+74101,Bourgogne / Charles-Boyer,  45.447211, -73.270982,5,74101,0
+74102,Bourgogne / Sénécal,  45.450908, -73.296144,5,74102,0
+74103,Bourgogne / Sénécal,  45.451247, -73.296810,5,74103,0
+74104,Stationnement Incitatif Chambly Quai 6,  45.432800, -73.303604,5,74104,0
+74105,Fonrouge / Kennedy,  45.431545, -73.292075,5,74105,0
+74108,De Périgny / Bourgogne,  45.440572, -73.258516,5,74108,0
+74109,Industriel / De Périgny,  45.441725, -73.271546,5,74109,0
+74110,Industriel / De Périgny,  45.441872, -73.271770,5,74110,0
+74111,Industriel / Simard,  45.438528, -73.272554,5,74111,0
+74112,Industriel / Simard,  45.438745, -73.272685,5,74112,0
+74113,Industriel / Franquet,  45.433617, -73.274814,5,74113,0
+74114,Industriel / Franquet,  45.433902, -73.274667,5,74114,0
+74115,Kent / Dauphin,  45.437559, -73.308098,5,74115,0
+74116,Stationnement incitatif Chambly Quai 1,  45.432257, -73.304896,5,74116,1
+74117,Stationnement incitatif Chambly Quai 2,  45.432301, -73.304657,5,74117,1
+74118,Bourgogne / Maurice,  45.447029, -73.283853,5,74118,0
+74119,Stationnement incitatif Chambly Quai 3,  45.432362, -73.304411,5,74119,1
+74120,Bourgogne / Maurice,  45.447174, -73.283745,5,74120,0
+74122,Bourgogne / Langevin,  45.447627, -73.278455,5,74122,0
+74123,Bourgogne / Langevin,  45.447446, -73.279183,5,74123,0
+74124,Bourgogne / Henderson,  45.447998, -73.273210,5,74124,0
+74125,Bourgogne / du Parc,  45.448105, -73.273089,5,74125,0
+74126,de Gentilly / Jean-Monty,  45.438611, -73.278803,5,74126,0
+74127,Kent / Jean-Lynch,  45.434152, -73.311909,5,74127,0
+74128,Franquet / Duvernay,  45.435417, -73.284579,5,74128,0
+74129,Stationnement incitatif Chambly Quai 4,  45.432407, -73.304172,5,74129,1
+74130,Stationnement incitatif Chambly Quai 5,  45.432464, -73.303965,5,74130,1
+74131,Stationnement incitatif Chambly - Débarcadère Taxi,  45.432551, -73.303975,5,74131,1
+74132,de Gentilly / Pierre-Cognac,  45.439646, -73.280342,5,74132,0
+74134,Lebel / Roland-Gagnon,  45.439996, -73.296906,5,74134,0
+74136,de Gentilly / Hertel,  45.440285, -73.286525,5,74136,0
+74137,Bourgogne / Dumaine,  45.446763, -73.270050,5,74137,0
+74138,Fréchette / Bourgogne,  45.447746, -73.286790,5,74138,0
+74139,Bourgogne / Fréchette,  45.447885, -73.286721,5,74139,0
+74140,Bourgogne / Fréchette,  45.447821, -73.287014,5,74140,0
+74141,Bourgogne / Martel,  45.449150, -73.290909,5,74141,0
+74142,Bourgogne / Martel,  45.448975, -73.290972,5,74142,0
+74143,Bourgogne / Saint-Pierre,  45.452128, -73.297439,5,74143,0
+74144,Bourgogne / Saint-Pierre,  45.452243, -73.297762,5,74144,0
+74145,Bourgogne / Béique,  45.455063, -73.300399,5,74145,0
+74146,Bourgogne / Béique,  45.455061, -73.300762,5,74146,0
+74147,De Périgny / Laforce,  45.455598, -73.302117,5,74147,0
+74148,Terminus Longueuil porte 23,  45.523611, -73.522281,3,74148,0
+74153,Taschereau / devant l'école Gérard Filion,  45.510279, -73.493012,3,74153,0
+74154,Taschereau / Saint-Thomas,  45.510380, -73.494372,3,74154,0
+74157,du Séminaire Nord / Saint-Michel,  45.315133, -73.264514,HT,74157,0
+74158,du Séminaire Nord / Saint-Michel,  45.315358, -73.264871,HT,74158,0
+74167,Désourdy / Léon-Paré,  45.454992, -73.352306,5,74167,1
+74168,Désourdy / face au 3152,  45.453425, -73.353631,5,74168,1
+74169,Désourdy / face au 3152,  45.453216, -73.353613,5,74169,1
+74170,Henriette / Léonard-Tresny,  45.446916, -73.335022,5,74170,1
+74171,Henriette / Léonard-Tresny,  45.446630, -73.335255,5,74171,1
+74180,De Gentilly Est / face au Cégep Édouard-Montpetit,  45.536925, -73.495237,3,74180,0
+74181,de Chambly / de Gentilly,  45.535728, -73.496381,3,74181,0
+74182,de Chambly / Saint-Charles,  45.540810, -73.508238,3,74182,0
+74183,de Chambly / Saint-Charles,  45.540842, -73.507763,3,74183,0
+74185,Bourgogne / Martel,  45.448903, -73.289985,5,74185,0
+74186,La Fayette / Saint-Charles Ouest,  45.520680, -73.518801,3,74186,0
+74187,du Pont / Jeannotte,  45.432906, -73.157168,8,74187,0
+74189,Chambly / Racicot,  45.433448, -73.171559,8,74189,0
+74190,du Pont / Jeannotte,  45.433053, -73.156950,8,74190,0
+74191,Ivanier / Claude-De Ramezay,  45.427933, -73.152703,8,74191,0
+74192,Ivanier / Claude-De Ramezay,  45.428091, -73.152940,8,74192,0
+74194,Claude-De Ramezay / du Pont,  45.432696, -73.160225,8,74194,0
+74195,du Pont / Claude-De Ramezay,  45.432490, -73.160117,8,74195,0
+74196,du Pont / Saint-Marie,  45.432045, -73.162095,8,74196,0
+74197,du Pont / Saint-Marie,  45.432261, -73.161842,8,74197,0
+74198,Chambly / Ouellette,  45.432978, -73.166895,8,74198,0
+74199,Chambly / Ouellette,  45.433097, -73.166865,8,74199,0
+74200,Chambly / Racicot,  45.433216, -73.170852,8,74200,0
+74201,de Chambly / des Cèdres,  45.436027, -73.185842,8,74201,0
+74202,de Chambly / des Cèdres,  45.436044, -73.185450,8,74202,0
+74203,de Chambly / Auclair,  45.437655, -73.188881,8,74203,0
+74204,de Chambly / Auclair,  45.437598, -73.188498,8,74204,0
+74205,du Pont / des Roseaux,  45.433441, -73.145792,8,74205,0
+74206,des Roseaux / Ivanier,  45.429456, -73.143500,8,74206,0
+74212,Terminus Centre-ville Porte 16,  45.498041, -73.566033,1,74212,0
+74219,Route 112 / du Ruisseau-Barré,  45.439033, -73.183051,8,74219,0
+74220,Route 112 / du Ruisseau-Barré,  45.439467, -73.182901,8,74220,0
+74221,Claude-De Ramezay / Des Rosiers,  45.437363, -73.165339,8,74221,0
+74222,Claude-De Ramezay / Des Rosiers,  45.437404, -73.164979,8,74222,0
+74223,Claude-De Ramezay / Edmond-Guillet,  45.435009, -73.162394,8,74223,0
+74224,Claude-De Ramezay / Edmond-Guillet,  45.434895, -73.162050,8,74224,0
+74225,Claude-De Ramezay / Bombardier,  45.430930, -73.159349,8,74225,0
+74226,Claude-De Ramezay / Bombardier,  45.430844, -73.159165,8,74226,0
+74227,Claude-De Ramezay / Girouard,  45.429127, -73.157053,8,74227,0
+74228,Claude-De Ramezay / Jeannotte,  45.429155, -73.156723,8,74228,0
+74229,Ivanier / Desjardins,  45.428449, -73.149724,8,74229,0
+74230,Ivanier / Desjardins,  45.428713, -73.149529,8,74230,0
+74231,Ivanier / Arès,  45.428740, -73.145798,8,74231,0
+74232,Ivanier / Arès,  45.429003, -73.145655,8,74232,0
+74233,Ivanier / des Roseaux,  45.429504, -73.143402,8,74233,0
+74235,des Roseaux / devant le  #2155,  45.431517, -73.145067,8,74235,0
+74236,des Roseaux / devant le  #2140,  45.431394, -73.145224,8,74236,0
+74237,des Patriotes / Montée Daigneault,  45.411840, -73.240709,6,74237,0
+74239,des Patriotes / Samuel-Bessette,  45.432966, -73.245543,6,74239,0
+74241,des Roseaux / du Pont,  45.433399, -73.145540,8,74241,0
+74243,du Pont / Desjardins,  45.433560, -73.150231,8,74243,0
+74244,du Pont / Desjardins,  45.433389, -73.150461,8,74244,0
+74245,du Pont / Henri-Bourassa,  45.433241, -73.154318,8,74245,0
+74246,du Pont / Henri-Bourassa,  45.433086, -73.154555,8,74246,0
+74254,des Patriotes / 12e Avenue,  45.442138, -73.246104,6,74254,0
+74255,12e Avenue / des Patriotes,  45.441994, -73.246084,6,74255,0
+74256,des Patriotes / 12e Avenue,  45.441976, -73.245841,6,74256,0
+74257,Richelieu / 1re Rue,  45.442913, -73.254012,6,74257,0
+74258,Richelieu / 2e Rue,  45.442769, -73.253538,6,74258,0
+74260,Richelieu / 5e Rue,  45.443781, -73.248871,6,74260,0
+74261,Richelieu / 5e Rue,  45.444064, -73.248641,6,74261,0
+74262,5e Rue / 12e Avenue,  45.441777, -73.248667,6,74262,0
+74264,Richelieu / 3e Rue,  45.443297, -73.252069,6,74264,0
+74265,Richelieu / 3e Rue,  45.443597, -73.252007,6,74265,0
+74270,Plaza / des Patriotes,  45.496889, -73.252350,6,74270,0
+74271,des Patriotes / des Épinettes,  45.484475, -73.264869,6,74271,0
+74272,des Patriotes / des Épinettes,  45.484159, -73.264553,6,74272,0
+74273,des Patriotes / Lussier,  45.470385, -73.266862,6,74273,0
+74274,des Patriotes / Massé,  45.471370, -73.268039,6,74274,0
+74275,des Patriotes / Robert,  45.486853, -73.263424,6,74275,0
+74276,des Patriotes / Joseph-Théberge,  45.488607, -73.261810,6,74276,0
+74278,des Patriotes / de la Rivière-des-Hurons Est,  45.459321, -73.256411,6,74278,0
+74279,des Patriotes / Richelieu,  45.459147, -73.256684,6,74279,0
+74280,des Patriotes / devant le #56,  45.450457, -73.249620,6,74280,0
+74281,des Patriotes / face au #56,  45.450113, -73.249890,6,74281,0
+74282,Promenades Saint-Bruno / face à la porte #2,  45.505906, -73.374730,3,74282,0
+74285,des Promenades / face au Tim Horton's,  45.501268, -73.375332,3,74285,0
+74286,des Promenades / devant le Tim Horton's,  45.500681, -73.375110,3,74286,0
+74287,des Promenades / Laure-L.-Hosson,  45.493851, -73.378927,3,74287,0
+74288,des Promenades / Laure-L.-Hosson,  45.493108, -73.378844,3,74288,0
+74289,des Patriotes / Monseigneur-Phaneuf,  45.474324, -73.268505,6,74289,1
+74290,des Patriotes / Monseigneur-Phaneuf,  45.474521, -73.268679,6,74290,1
+74291,Brassard / Michel-Laguë,  45.432261, -73.306221,5,74291,0
+74294,Route 112 / face au Faubourg Carignan,  45.460370, -73.314109,5,74294,0
+74295,Route 112 / devant le Faubourg Carignan,  45.460002, -73.314212,5,74295,0
+74296,Chemin des Patriotes / Rue Albert-Perron,  45.476870, -73.268290,6,74296,1
+74297,Chemin des Patriotes / Rue Albert-Perron,  45.476826, -73.268021,6,74297,1
+74302,de Chambly / des Promenades,  45.487142, -73.382043,3,74302,0
+74304,des Promenades / de Chambly,  45.487433, -73.382379,3,74304,0
+74312,Cousineau / Montée Saint-Hubert,  45.501621, -73.422955,3,74312,0
+74313,Cousineau / Montée Saint-Hubert,  45.501431, -73.424030,3,74313,0
+74314,Cousineau / devant l'École André-Laurendeau,  45.484186, -73.394020,3,74314,0
+74315,Cousineau / face à l'École André-Laurendeau,  45.484307, -73.395016,3,74315,0
+74321,Cousineau / Gaétan-Boucher,  45.494924, -73.409264,3,74321,0
+74322,Cousineau / Gaétan-Boucher,  45.494972, -73.408499,3,74322,0
+74325,Fréchette / devant le stationnement incitatif,  45.433740, -73.297472,5,74325,0
+74441,du Séminaire Nord / Georges-Phaneuf,  45.320277, -73.263749,HT,74441,0
+74442,du Séminaire Nord / Georges-Phaneuf,  45.320683, -73.264250,HT,74442,0
+74450,Bourgogne / Saint-René,  45.449709, -73.293013,5,74450,0
+74451,Bourgogne / Saint-René,  45.449668, -73.293301,5,74451,0
+74453,Bourgogne / Charles-Boyer,  45.447158, -73.271333,5,74453,0
+74458,des Patriotes / 14e Avenue,  45.439597, -73.245835,6,74458,0
+74459,des Patriotes / de Marieville,  45.436549, -73.245494,6,74459,0
+74462,des Patriotes / devant le CLSC du Richelieu,  45.437430, -73.245290,6,74462,0
+74463,des Patriotes / 14e Avenue,  45.439452, -73.245602,6,74463,0
+74472,Franquet / de Gentilly,  45.434687, -73.279813,5,74472,0
+74474,des Patriotes / Montée Daigneault,  45.412107, -73.241524,6,74474,0
+74475,des Patriotes / Samuel-Bessette,  45.432698, -73.245914,6,74475,0
+74477,Bellerive / de Chambly,  45.459575, -73.306838,5,74477,0
+74478,Bellerive / de Chambly,  45.459522, -73.306606,5,74478,0
+74479,Bellerive / Bachand,  45.466671, -73.303833,5,74479,0
+74480,Bellevue / devant l'Hôtel de Ville,  45.465690, -73.330673,5,74480,0
+74481,Bellevue / face à l'Hôtel de Ville,  45.465725, -73.330859,5,74481,0
+74482,Bellerive / de Chambly,  45.458759, -73.306802,5,74482,0
+74483,Bellerive / de Chambly,  45.458573, -73.307327,5,74483,0
+74484,Bachand / Bellevue,  45.481792, -73.322867,5,74484,0
+74485,Bellevue / Bachand,  45.481709, -73.323002,5,74485,0
+74486,Bachand / Bellerive,  45.466860, -73.303975,5,74486,0
+74487,Bellerive / Bachand,  45.466878, -73.303903,5,74487,0
+74488,Bachand / Bellerive,  45.466779, -73.303956,5,74488,0
+74489,Bellerive / Marie-Anne Est,  45.452390, -73.310462,5,74489,0
+74490,Bellerive / Marie-Anne Est,  45.452718, -73.310632,5,74490,0
+74491,Bachand / devant le Parc des Vétérans,  45.478966, -73.319193,5,74491,0
+74492,Bachand / face au Parc des Vétérans,  45.478749, -73.319424,5,74492,0
+74493,Bachand / devant le #2114,  45.472990, -73.311536,5,74493,0
+74494,Bachand / devant le #2129,  45.472786, -73.311958,5,74494,0
+74495,des Roses / des Pétunias,  45.470971, -73.281372,5,74495,0
+74496,rue des Tulipes / face au 1994,  45.475105, -73.284804,5,74496,0
+74497,Henriette / Albani,  45.447610, -73.330071,5,74497,0
+74498,Henriette / Albani,  45.447412, -73.330286,5,74498,0
+74499,Bellerive / Gilbert-Martel,  45.441448, -73.338485,5,74499,0
+74500,Gilbert-Martel / Bellerive,  45.441558, -73.338461,5,74500,0
+74501,Bellerive / Montée du Moulin,  45.433071, -73.356564,5,74501,0
+74502,Bellerive / Montée du Moulin,  45.433326, -73.356457,5,74502,0
+74503,Bellerive / René-Poupart,  45.428998, -73.362894,5,74503,0
+74504,Bellerive / René-Poupart,  45.429310, -73.362926,5,74504,0
+74505,Grande Allée / De Grandfontaine,  45.428137, -73.365378,5,74505,0
+74506,Bernard-Boucher / Grande Allée,  45.428162, -73.365710,5,74506,0
+74507,Grande Allée / Coupal,  45.431852, -73.370466,5,74507,0
+74508,Grande Allée / Coupal,  45.431775, -73.370788,5,74508,0
+74509,Grande Allée / devant le #1215,  45.435753, -73.375916,5,74509,0
+74510,Grande Allée / devant le #1198,  45.435547, -73.375960,5,74510,0
+74511,Henriette / Charlotte-Dubuc,  45.448440, -73.325104,5,74511,0
+74512,Henriette / Charlotte-Dubuc,  45.448238, -73.325210,5,74512,0
+74513,Henriette / Jeanne-Déchard,  45.446045, -73.340020,5,74513,0
+74514,Jeanne-Déchard / Henriette,  45.445900, -73.340007,5,74514,0
+74515,Gilbert-Martel / Catherine-Godin,  45.444074, -73.340519,5,74515,0
+74516,Gilbert-Martel / Catherine-Godin,  45.444077, -73.340763,5,74516,0
+74517,des Roses / des Pétunias,  45.470676, -73.281419,5,74517,0
+74518,des Roses / des Oeillets,  45.473036, -73.278492,5,74518,0
+74519,des Roses / des Oeillets,  45.473322, -73.278440,5,74519,0
+74520,des Roses / des Deux-Rivières,  45.476649, -73.275554,5,74520,0
+74521,des Roses / des Amarantes,  45.479792, -73.271271,5,74521,0
+74522,des Roses / des Ancolies,  45.480528, -73.270750,5,74522,0
+74523,des Roses / des Ancolies,  45.480650, -73.270911,5,74523,0
+74524,des Tulipes / des Deux-Rivières,  45.479358, -73.279616,5,74524,0
+74525,des Deux-Rivières / des Tulipes,  45.479262, -73.279895,5,74525,0
+74526,des Roses / des Amarantes,  45.480071, -73.271298,5,74526,0
+74527,des Roses / des Deux-Rivières,  45.475098, -73.285201,5,74527,0
+74528,des Tulipes / face au #1994,  45.473776, -73.285042,5,74528,0
+74529,Robert-Bourassa / William,  45.497412, -73.558424,1,74529,0
+74531,de Chambly / de la Carrière,  45.465007, -73.345656,5,74531,0
+74534,Chambly / Bernard,  45.433835, -73.176922,8,74534,0
+74535,Chambly / Bernard,  45.433680, -73.177299,8,74535,0
+74537,Henriette / Bellerive,  45.450385, -73.312839,5,74537,0
+74538,Henriette / Bellerive,  45.450133, -73.313001,5,74538,0
+74539,Grande Allée / du Domaine,  45.433911, -73.373333,5,74539,0
+74540,Grande Allée / du Domaine,  45.433868, -73.373641,5,74540,0
+74541,Chambly / Route 112,  45.440366, -73.196738,8,74541,0
+74542,Route 112 / Chambly,  45.440420, -73.197144,8,74542,0
+74550,Terminus Panama temporaire Quai 14,  45.465687, -73.470234,3,74550,0
+74559,devant le 3196 Bouthillier,  45.458139, -73.352600,5,74559,1
+74560,face au 3196 Bouthillier,  45.457930, -73.352579,5,74560,1
+74561,Bouthillier / Jean-Baptiste-Charron,  45.462577, -73.349415,5,74561,0
+74562,Bouthillier / Jean-Baptiste-Charron,  45.462309, -73.349360,5,74562,0
+74563,Bouthillier / Jean-Baptiste-Lamoureux,  45.454344, -73.355490,5,74563,0
+74564,Jean-Baptiste-Lamoureux / Bouthillier,  45.454218, -73.355309,5,74564,0
+74565,Laurent-Monty / Désourdy,  45.450715, -73.354680,5,74565,0
+74566,Bouthillier / Lareau,  45.450799, -73.354539,5,74566,0
+74567,Lareau / Laurent-Monty,  45.451911, -73.356148,5,74567,0
+74568,Laurent-Monty / Lareau,  45.451806, -73.355990,5,74568,0
+74569,Désourdy / des Galets Nord,  45.463074, -73.346311,5,74569,0
+74570,Désourdy / des Galets Nord,  45.463282, -73.346329,5,74570,0
+74571,de la Carrière / de Chambly,  45.464849, -73.345380,5,74571,0
+74572,de la Carrière / de Chambly,  45.464909, -73.345678,5,74572,0
+74576,des Roses / des Deux-Rivières,  45.476855, -73.275521,5,74576,0
+74581,Martel / Jean-De Ronceray,  45.467183, -73.294042,5,74581,0
+74582,Jean-De Ronceray / Alexandre-De Prouville,  45.469494, -73.290376,5,74582,0
+74583,Jean-De Ronceray / Olivier-Morel,  45.473581, -73.290283,5,74583,0
+74584,Olivier-Morel / du Chevalier-de-Chaumont,  45.471929, -73.295741,5,74584,0
+74585,Olivier-Morel / Louis-De Canchy,  45.466516, -73.296364,5,74585,0
+74586,Olivier-Morel / du Chevalier-de-Chaumont,  45.467010, -73.294680,5,74586,0
+74587,Martel / Daigneault,  45.461811, -73.292087,5,74587,0
+74588,Daigneault / Martel,  45.461646, -73.291999,5,74588,0
+74589,Martel / Georges-Pépin,  45.457778, -73.291877,5,74589,0
+74590,Martel / Demers,  45.461701, -73.291726,5,74590,0
+74591,Daigneault / devant le Manoir Soleil,  45.461128, -73.296216,5,74591,0
+74593,Martel / Georges-Pépin,  45.457561, -73.291554,5,74593,0
+74594,Martel / Saint-Pierre,  45.453011, -73.291383,5,74594,0
+74595,Martel / Gérard-Mongeau,  45.451368, -73.290920,5,74595,0
+74611,Désourdy / des Galets Sud,  45.460668, -73.348067,5,74611,1
+74612,Désourdy / des Galets Sud,  45.460877, -73.348081,5,74612,1
+74613,Anne-Le Seigneur / Jean-Casgrain,  45.437154, -73.316072,5,74613,0
+74614,Désourdy / du Granit,  45.459024, -73.349482,5,74614,1
+74615,Désourdy / du Granit,  45.458830, -73.349511,5,74615,1
+74616,Désourdy / Léon-Paré,  45.455203, -73.352322,5,74616,1
+74620,Franquet / Frédéric-Courtemanche,  45.434188, -73.276821,5,74620,0
+74622,Fréchette / Anne-Le Seigneur,  45.427845, -73.309992,5,74622,0
+74623,Fréchette / Anne-Le Seigneur,  45.427302, -73.310630,5,74623,0
+74625,Franquet / Arthur-De Senneville,  45.434037, -73.277376,5,74625,0
+74627,Anne-Le Seigneur / du Charron,  45.431037, -73.314238,5,74627,0
+74635,Anne-Le Seigneur / Kent,  45.433075, -73.314852,5,74635,0
+74636,Grande Allée / de l'Acier,  45.453185, -73.411014,3,74636,0
+74637,Grande Allée / Place de la Couronne,  45.456037, -73.414813,3,74637,0
+74640,Anne-Le Seigneur / Marianne-Baby,  45.427778, -73.311425,5,74640,0
+74641,Anne-Le Seigneur / Marianne-Baby,  45.429751, -73.313479,5,74641,0
+74642,Anne-Le Seigneur / Michel-Laguë,  45.430852, -73.313948,5,74642,0
+74645,Lebel / Anne-Le Seigneur,  45.439941, -73.316191,5,74645,0
+74646,Anne-Le Seigneur / Jean-François-Lyonnais,  45.438615, -73.316579,5,74646,0
+74647,Anne-Le Seigneur / du Tailleur,  45.433903, -73.315321,5,74647,0
+74648,Michel-Laguë / Étienne-Bisaillon,  45.431540, -73.311335,5,74648,0
+74655,Fonrouge / De Beaulac,  45.432042, -73.295698,5,74655,0
+74656,De Beaulac / De Moncours,  45.430434, -73.297357,5,74656,0
+74657,De Beaulac / De Niverville,  45.430368, -73.301497,5,74657,0
+74658,De Niverville / De La Fresnière,  45.431935, -73.300343,5,74658,0
+74659,De Niverville / Fonrouge,  45.432718, -73.296403,5,74659,0
+74660,Joseph-Bresse / Daigneault,  45.459349, -73.303186,5,74660,0
+74661,Joseph-Bresse / Daigneault,  45.461197, -73.296741,5,74661,0
+74662,Joseph-Bresse / Gordon-Mclean,  45.461698, -73.299362,5,74662,0
+74663,Martel / Saint-Pierre,  45.453138, -73.291645,5,74663,0
+74664,Martel / Bourgogne,  45.449303, -73.290627,5,74664,0
+74666,Joseph-Bresse / Daigneault,  45.459460, -73.303378,5,74666,0
+74667,Joseph-Bresse / Gordon-Mclean,  45.461861, -73.299135,5,74667,0
+74668,Martel / Gérard-Mongeau,  45.451463, -73.291119,5,74668,0
+74670,Charles-Le Moyne / devant le #1438,  45.440532, -73.281242,5,74670,0
+74671,Charles-Le Moyne / devant le #1437,  45.441579, -73.281029,5,74671,0
+74672,Charles-Le Moyne / devant le #1417,  45.443010, -73.280623,5,74672,0
+74673,Charles-Le Moyne / Charette,  45.443820, -73.283203,5,74673,0
+74674,Charles-Le Moyne / De Courcelle,  45.444210, -73.284986,5,74674,0
+74675,Charles-Le Moyne / de Carillon,  45.444150, -73.286997,5,74675,0
+74676,Charles-Le Moyne / de Carillon,  45.444081, -73.287201,5,74676,0
+74677,Charles-Le Moyne / De Courcelle,  45.444153, -73.285185,5,74677,0
+74678,Charles-Le Moyne / Charette,  45.443767, -73.283425,5,74678,0
+74679,Charles-Le Moyne / face au #1417,  45.442977, -73.280804,5,74679,0
+74680,Charles-Le Moyne / devant le #1422,  45.441596, -73.281181,5,74680,0
+74681,Charles-Le Moyne / devant le #1438,  45.440561, -73.281627,5,74681,0
+74687,Lebel / Daly,  45.441675, -73.306373,5,74687,0
+74688,Lebel / De Brébeuf,  45.441193, -73.310659,5,74688,0
+74689,De Salaberry / Denys,  45.442827, -73.310501,5,74689,0
+74690,De Salaberry / Dubuisson,  45.444828, -73.308434,5,74690,0
+74691,De Salaberry / Viateur-Gauvreau,  45.446646, -73.304808,5,74691,0
+74692,De Salaberry / Brassard,  45.446901, -73.302809,5,74692,0
+74693,De Salaberry / Briand,  45.447370, -73.299640,5,74693,0
+74694,De Salaberry / Barré,  45.448071, -73.295229,5,74694,0
+74695,De Salaberry / De Périgny,  45.448498, -73.292729,5,74695,0
+74696,Lebel / Laurent-Perreault,  45.439394, -73.292615,5,74696,0
+74697,Désourdy / Henri-Bisaillon,  45.456632, -73.351154,5,74697,1
+74698,Désourdy / Henri-Bisaillon,  45.456875, -73.351091,5,74698,1
+74700,Terminus Mansfield Quai 1,  45.498267, -73.563900,1,74700,0
+74701,Robert-Bourassa / Ottawa,  45.496329, -73.557851,1,74701,0
+74863,Demers / des Ormes,  45.465670, -73.289393,5,74863,0

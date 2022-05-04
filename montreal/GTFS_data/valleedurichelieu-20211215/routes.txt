@@ -1,0 +1,35 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+11,CITVR,11,Mont-Saint-Hilaire,3,1F1F1F,FFFFFF
+12,CITVR,12,Otterburn Park,3,1F1F1F,FFFFFF
+200,CITVR,200,Saint-Hyacinthe - Longueuil,3,1F1F1F,FFFFFF
+201,CITVR,201,ExpressO - Mont-Saint-Hilaire - Longueuil,3,1F1F1F,FFFFFF
+21,CITVR,21,Mont-Saint-Hilaire (La Pommeraie),3,1F1F1F,FFFFFF
+22,CITVR,22,Mont-Saint-Hilaire (des Patriotes),3,1F1F1F,FFFFFF
+23,CITVR,23,Otterburn Park,3,1F1F1F,FFFFFF
+24,CITVR,24,Saint-Basile-le-Grand (sud),3,1F1F1F,FFFFFF
+25,CITVR,25,Saint-Hyacinthe - Mont-Saint-Hilaire,3,1F1F1F,FFFFFF
+26,CITVR,26,Saint-Basile-le-Grand (nord),3,1F1F1F,FFFFFF
+30,CITVR,30,Sainte-Julie - Saint-Hyacinthe,3,1F1F1F,FFFFFF
+300,CITVR,300,Saint-Hyacinthe - Montréal,3,1F1F1F,FFFFFF
+50,CITVR,50,Express Centre-ville / Galeries Saint-Hyacinthe,3,1F1F1F,FFFFFF
+51,CITVR,51,Saint-Joseph,3,1F1F1F,FFFFFF
+52,CITVR,52,Douville,3,1F1F1F,FFFFFF
+520,CITVR,520,Express Beloeil / Radisson,3,1F1F1F,FFFFFF
+521,CITVR,521,Express Beloeil / Radisson via Boucherville,3,1F1F1F,FFFFFF
+53,CITVR,53,L'Assomption / Sainte-Rosalie,3,1F1F1F,FFFFFF
+54,CITVR,54,Saint-Sacrement ouest,3,1F1F1F,FFFFFF
+55,CITVR,55,Saint-Thomas d'Aquin,3,1F1F1F,FFFFFF
+56,CITVR,56,La Providence,3,1F1F1F,FFFFFF
+57,CITVR,57,Sacré-Coeur,3,1F1F1F,FFFFFF
+60,CITVR,60,Express Galeries Saint-Hyacinthe - Cégep,3,1F1F1F,FFFFFF
+70,CITVR,70,Galeries St-Hyacinthe - Centre-ville,3,1F1F1F,FFFFFF
+71,CITVR,71,Commercial Nord - Parc Les Salines,3,1F1F1F,FFFFFF
+D320,CITVR,D320,Service à la demande Beloeil,715,1F1F1F,FFFFFF
+T22,CITVR,T22,Mont-Saint-Hilaire (sur réservation),1501,1F1F1F,FFFFFF
+T23,CITVR,T23,Otterburn Park (sur réservation),1501,1F1F1F,FFFFFF
+T24,CITVR,T24,Saint-Basile-le-Grand (sud) (sur réservation),1501,1F1F1F,FFFFFF
+T26,CITVR,T26,Saint-Basile-le-Grand (nord) (sur réservation),1501,1F1F1F,FFFFFF
+T30,CITVR,T30,Taxibus McMasterville -Ste-Julie (sur réservation),1501,1F1F1F,FFFFFF
+T61,CITVR,T61,Taxibus St-Hyacinthe-Les Salines (sur réservation),1501,1F1F1F,FFFFFF
+T62,CITVR,T62,Taxibus St-Hyacinthe - Industiel (sur réservation),1501,1F1F1F,FFFFFF
+T80,CITVR,T80,Taxibus Beloeil - Industriel (sur réservation),1501,1F1F1F,FFFFFF

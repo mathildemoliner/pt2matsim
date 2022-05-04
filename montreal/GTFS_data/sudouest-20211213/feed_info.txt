@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+CITSO,https://exo.quebec/fr/planifier-trajet/autobus/CITSO,fr,20211213,20220529

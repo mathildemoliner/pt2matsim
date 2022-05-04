@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+CITLA,https://exo.quebec/fr/planifier-trajet/autobus/CITLA,fr,20220406,20220605

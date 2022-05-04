@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+111,CITHSL,111,Haut-Saint-Laurent,3,1F1F1F,FFFFFF
+140,CITHSL,140,Mercier - Châteauguay - Mercier,3,1F1F1F,FFFFFF

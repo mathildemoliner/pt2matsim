@@ -1,0 +1,980 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+71998,1e Boulevard / 11e Avenue,  45.394541, -73.984991,,71998,1
+71999,1e Boulevard / 11e Avenue,  45.393884, -73.985183,,71999,1
+72000,Oakland / Lakeview,  45.460170, -74.149628,6,72000,0
+72001,Lakeview / Maple,  45.459127, -74.147719,6,72001,0
+72002,Lakeview / Selkirk,  45.458128, -74.145996,6,72002,0
+72003,Lakeview / Cedar,  45.456790, -74.144175,6,72003,0
+72004,Lakeview / Cameron,  45.455684, -74.142058,6,72004,0
+72005,Cameron / Saint-Jean,  45.456762, -74.141051,6,72005,0
+72006,Cameron / Main,  45.457855, -74.139868,6,72006,0
+72007,Côte Saint-Charles / Bridle Path,  45.447959, -74.166563,6,72007,0
+72008,Main / Mount Pleasant,  45.454707, -74.135712,6,72008,0
+72009,Mount Pleasant / devant le #90,  45.452290, -74.140149,6,72009,0
+72010,Mount Pleasant / Upper McNaughten,  45.452894, -74.142366,6,72010,0
+72011,Mount Pleasant / Cameron,  45.452975, -74.146358,6,72011,0
+72012,Cameron / Wellesley,  45.450956, -74.149604,6,72012,0
+72013,Cameron / Fairhaven,  45.445023, -74.148219,6,72013,0
+72014,Côte Saint-Charles / Windcrest,  45.451043, -74.163533,6,72014,0
+72015,Côte Saint-Charles / devant l'École Westwood,  45.461964, -74.153007,6,72015,0
+72016,Côte Saint-Charles / Forestview,  45.453981, -74.160783,6,72016,0
+72017,Côte Saint-Charles / Hillside,  45.456495, -74.158294,6,72017,0
+72018,Côte Saint-Charles / Ridge,  45.459593, -74.155338,6,72018,0
+72019,Côte Saint-Charles / Main,  45.464243, -74.150816,6,72019,0
+72020,de Provence / Raimbeau,  45.379947, -73.945887,4,72020,0
+72021,de Provence / Raimbeau,  45.379760, -73.946097,4,72021,0
+72022,Montée Sagala / Henriette,  45.399328, -73.951855,4,72022,0
+72023,Montée Sagala / Henriette,  45.399477, -73.951865,4,72023,0
+72024,Grand Boulevard / 4e Rue,  45.391829, -73.960966,4,72024,0
+72025,4e Rue / Grand Boulevard,  45.391899, -73.960840,4,72025,0
+72026,Grand Boulevard / 4e Rue,  45.392013, -73.960935,4,72026,0
+72027,4e Rue / 7e Avenue,  45.391251, -73.959537,4,72027,0
+72028,4e Rue / 7e Avenue,  45.391273, -73.959755,4,72028,0
+72029,Boischatel / de Provence,  45.384639, -73.943819,4,72029,0
+72030,Boischatel / de Provence,  45.384541, -73.943713,4,72030,0
+72031,du Boisé / 4e Rue,  45.390547, -73.958186,4,72031,0
+72032,4e Rue / du Boisé,  45.390487, -73.958345,4,72032,0
+72033,Boischatel / des Bouleaux,  45.385584, -73.946218,4,72033,0
+72034,Boischatel / des Bouleaux,  45.385563, -73.946421,4,72034,0
+72035,Don-Quichotte / 24e Avenue,  45.382708, -73.951802,4,72035,0
+72036,Don-Quichotte / devant le LILO,  45.388096, -73.961544,4,72036,0
+72037,Grand Boulevard / Don-Quichotte,  45.388287, -73.965066,4,72037,0
+72038,Don-Quichotte / Grand Boulevard,  45.389110, -73.963357,4,72038,0
+72039,Don-Quichotte / Grand Boulevard,  45.389270, -73.964375,4,72039,0
+72040,Gare Île-Perrot Quai 4,  45.395972, -73.963554,4,72040,0
+72041,Gare Île-Perrot Quai 3,  45.396104, -73.963702,4,72041,0
+72042,Grand Boulevard / devant le #405,  45.389760, -73.963292,4,72042,0
+72043,Grand Boulevard / devant le #400,  45.389875, -73.963426,4,72043,0
+72044,de Provence / de Marseille,  45.381996, -73.944903,4,72044,0
+72045,de Provence / de Marseille,  45.382188, -73.944917,4,72045,0
+72046,des Érables / Giffard,  45.388223, -73.944276,4,72046,0
+72047,des Érables / Giffard,  45.388301, -73.944471,4,72047,0
+72048,des Érables / du Port-Joli,  45.386981, -73.942541,4,72048,0
+72049,des Érables / du Port-Joli,  45.387015, -73.942767,4,72049,0
+72050,des Érables / des Hêtres,  45.389258, -73.945530,4,72050,0
+72051,des Érables / des Hêtres,  45.389237, -73.945752,4,72051,0
+72052,des Érables / 25e Avenue,  45.389694, -73.947395,4,72052,0
+72053,des Érables / 25e Avenue,  45.389675, -73.947610,4,72053,0
+72054,23e Avenue / des Érables,  45.390081, -73.949456,4,72054,0
+72055,des Érables / 23e Avenue,  45.390182, -73.949334,4,72055,0
+72056,23e Avenue / 4e Rue,  45.388464, -73.950354,4,72056,0
+72057,4e Rue / 23e Avenue,  45.388351, -73.950458,4,72057,0
+72058,4e Rue / des Ancolies,  45.389090, -73.953706,4,72058,0
+72059,4e Rue / des Ancolies,  45.389028, -73.954120,4,72059,0
+72060,du Parc / des Fougères,  45.389231, -73.955889,4,72060,0
+72061,Perrot / 10e Avenue,  45.393410, -73.954154,4,72061,0
+72062,10e Avenue / Perrot,  45.393514, -73.954273,4,72062,0
+72063,Perrot / 10e Avenue,  45.393406, -73.954426,4,72063,0
+72064,Perrot / 7e Avenue,  45.394198, -73.956245,4,72064,0
+72065,Perrot / 7e Avenue,  45.394165, -73.956507,4,72065,0
+72066,Grand Boulevard / Saint-Pierre,  45.393165, -73.959460,4,72066,0
+72067,Grand Boulevard / Saint-Pierre,  45.393342, -73.959437,4,72067,0
+72068,Don-Quichotte / devant Carrefour Don-Quichotte,  45.389870, -73.964684,4,72068,0
+72069,Don-Quichotte / face au Carrefour Don-Quichotte,  45.390439, -73.966032,4,72069,0
+72070,Grand Boulevard / 4e Avenue,  45.396158, -73.957789,4,72070,0
+72071,Grand Boulevard / 4e Avenue,  45.396261, -73.958048,4,72071,0
+72072,5e Avenue / Grand Boulevard,  45.395574, -73.957388,4,72072,0
+72073,5e Avenue / Grand Boulevard,  45.395531, -73.957619,4,72073,0
+72074,Aurélien-Séguin / 8e Avenue,  45.396078, -73.953158,4,72074,0
+72075,8e Avenue / Aurélien-Séguin,  45.396175, -73.953292,4,72075,0
+72076,10e Avenue / Aurélien-Séguin,  45.395373, -73.952102,4,72076,0
+72077,Aurélien-Séguin / 10e Avenue,  45.395471, -73.952219,4,72077,0
+72078,Perrot / 23e Avenue,  45.393173, -73.948281,4,72078,0
+72079,Perrot / 23e Avenue,  45.393093, -73.948523,4,72079,0
+72080,27e Avenue / Perrot,  45.392458, -73.945099,4,72080,0
+72081,Perrot / 27e Avenue,  45.392603, -73.945007,4,72081,0
+72082,Perrot / 27e Avenue,  45.392558, -73.945234,4,72082,0
+72083,des Ruisseaux / 27e Avenue,  45.391419, -73.945559,4,72083,0
+72084,27e Avenue / des Ruisseaux,  45.391341, -73.945588,4,72084,0
+72085,des Ruisseaux / face au 145,  45.391343, -73.943341,4,72085,0
+72086,des Ruisseaux / face au 150,  45.391249, -73.943317,4,72086,0
+72087,Datura / des Ruisseaux,  45.391206, -73.939995,4,72087,0
+72088,des Ruisseaux / Datura,  45.391107, -73.940081,4,72088,0
+72089,Datura / Perrot,  45.392242, -73.939372,4,72089,0
+72090,Perrot / Datura,  45.392331, -73.939218,4,72090,0
+72091,Perrot / Datura,  45.392301, -73.939511,4,72091,0
+72092,Perrot / 21e Avenue,  45.393281, -73.950119,4,72092,0
+72093,Perrot / 21e Avenue,  45.393198, -73.950249,4,72093,0
+72094,Don-Quichotte / devant Galeries Don-Quichotte,  45.388323, -73.962643,4,72094,0
+72095,Don-Quichotte / des Rosiers,  45.380524, -73.948004,4,72095,0
+72096,Don-Quichotte / des Rosiers,  45.380640, -73.948559,4,72096,0
+72097,Grand Boulevard / René-Émard,  45.387357, -73.968868,4,72097,0
+72098,René-Émard / Grand Boulevard,  45.387342, -73.968593,4,72098,0
+72099,René-Émard / Lucien-Manning,  45.385806, -73.964492,4,72099,0
+72100,Lucien-Manning / René-Émard,  45.385899, -73.964594,4,72100,0
+72101,Grand Boulevard / Lucien-Manning,  45.387597, -73.967885,4,72101,0
+72102,Lucien-Manning / Grand Boulevard,  45.387605, -73.967542,4,72102,0
+72103,Grand Boulevard / Lucien-Manning,  45.387745, -73.967667,4,72103,0
+72104,Grand Boulevard / Lucien-Manning,  45.387584, -73.967890,4,72104,0
+72105,Lucien-Manning / Grand Boulevard,  45.387502, -73.967653,4,72105,0
+72106,25e Avenue / Boischatel,  45.386133, -73.949106,4,72106,0
+72107,Boischatel / 25e Avenue,  45.386246, -73.949007,4,72107,0
+72108,25e Avenue / des Ormes,  45.384174, -73.950056,4,72108,0
+72109,25e Avenue / des Ormes,  45.384338, -73.950087,4,72109,0
+72110,des Lilas / des Peupliers,  45.381848, -73.949194,4,72110,0
+72111,des Lilas / des Peupliers,  45.381880, -73.949440,4,72111,0
+72112,des Rosiers / des Lilas,  45.380933, -73.948074,4,72112,0
+72113,des Rosiers / des Lilas,  45.380991, -73.948176,4,72113,0
+72114,du Boisé / du Parc,  45.389787, -73.955746,4,72114,0
+72115,Don-Quichotte / de Provence,  45.379638, -73.945992,4,72115,0
+72116,Don-Quichotte / de Provence,  45.379417, -73.946045,4,72116,0
+72117,8e Avenue / 7e Avenue,  45.398607, -73.951376,4,72117,0
+72118,7e Avenue / 8e Avenue,  45.398687, -73.951484,4,72118,0
+72119,5e Avenue / Montée Sagala,  45.399299, -73.953146,4,72119,0
+72120,Montée Sagala / 5e Avenue,  45.399376, -73.952982,4,72120,0
+72121,Grand Boulevard / 1re Avenue,  45.397799, -73.959275,4,72121,0
+72122,1re Avenue / Grand Boulevard,  45.397650, -73.959595,4,72122,0
+72123,5e Avenue / devant le #97,  45.397297, -73.955442,4,72123,0
+72124,5e Avenue / devant le #96,  45.397426, -73.955495,4,72124,0
+72125,du Domaine / Trenet,  45.391419, -73.898400,4,72125,0
+72126,Trenet / du Domaine,  45.393703, -73.898784,4,72126,0
+72127,Alexis-Trottier / du Domaine,  45.394000, -73.900209,4,72127,0
+72128,Alexis-Trottier / Étienne-Trudeau,  45.391315, -73.899603,4,72128,0
+72129,Perrot / 63e Avenue,  45.388856, -73.910145,4,72129,0
+72130,Perrot / 63e Avenue,  45.388751, -73.910922,4,72130,0
+72131,Perrot / face au #1659,  45.372821, -73.887943,4,72131,0
+72132,Perrot / devant le #1659,  45.372754, -73.888125,4,72132,0
+72133,Caza / Promenade Saint-Louis,  45.368836, -73.878162,4,72133,0
+72134,Promenade Saint-Louis / Caza,  45.368890, -73.878329,4,72134,0
+72135,Caza / Carrière,  45.367785, -73.875810,4,72135,0
+72136,Caza / Carrière,  45.367725, -73.876097,4,72136,0
+72137,Caza / Aumais,  45.365985, -73.874749,4,72137,0
+72138,Aumais / Caza,  45.365858, -73.874724,4,72138,0
+72139,Caza / Émile-Nelligan,  45.363336, -73.874553,4,72139,0
+72140,Caza / Émile-Nelligan,  45.363443, -73.874658,4,72140,0
+72141,Caza / Daoust,  45.361964, -73.875471,4,72141,0
+72142,Caza / Daoust,  45.362134, -73.875501,4,72142,0
+72143,Caza / Perrot,  45.360513, -73.877413,4,72143,0
+72144,Caza / Perrot,  45.360695, -73.877473,4,72144,0
+72145,Perrot / Alfred-Pellan,  45.358050, -73.879256,4,72145,0
+72146,Perrot / Alfred-Pellan,  45.357955, -73.879130,4,72146,0
+72147,Perrot / face au Parc des Fauvettes,  45.355808, -73.886141,4,72147,0
+72148,Perrot / devant le Parc des Fauvettes,  45.355749, -73.885645,4,72148,0
+72149,Perrot / devant le #2187,  45.353136, -73.897301,4,72149,0
+72150,Perrot / face au #2180,  45.353033, -73.897349,4,72150,0
+72151,Perrot / Marie-Marthe-Daoust,  45.354600, -73.892460,4,72151,0
+72152,Perrot / Marie-Marthe-Daoust,  45.354408, -73.892550,4,72152,0
+72153,Don-Quichotte / Perrier,  45.378292, -73.931676,4,72153,0
+72154,Don-Quichotte / Perrier,  45.378240, -73.931838,4,72154,0
+72155,Perrot / face au #1473,  45.384616, -73.899479,4,72155,0
+72156,Perrot / devant le #1473,  45.384688, -73.899758,4,72156,0
+72157,Forest / du Pinacle,  45.381000, -73.957393,4,72157,0
+72158,Forest / du Pinacle,  45.381084, -73.957147,4,72158,0
+72159,Perrier / Pascal,  45.383627, -73.928102,4,72159,0
+72160,Perrier / Pascal,  45.383797, -73.928134,4,72160,0
+72161,Forest / Huot,  45.381446, -73.953893,4,72161,0
+72162,Forest / Huot,  45.381610, -73.953854,4,72162,0
+72163,de la Rivelaine / Perrot,  45.389846, -73.930546,4,72163,0
+72164,Perrot / de la Rivelaine,  45.389957, -73.930390,4,72164,0
+72165,Perrot / de la Rivelaine,  45.389922, -73.930747,4,72165,0
+72166,de la Rivelaine / des Roseaux,  45.388158, -73.931383,4,72166,0
+72167,de la Rivelaine / des Roseaux,  45.388309, -73.931385,4,72167,0
+72168,de la Rivelaine / Lucille-Teasdale,  45.386994, -73.933272,4,72168,0
+72169,de la Rivelaine / de la Reine-des-Prés,  45.387147, -73.933173,4,72169,0
+72170,de la Rivelaine / de la Rhapsodie,  45.385573, -73.934420,4,72170,0
+72171,de la Rivelaine / de la Rhapsodie,  45.385746, -73.934458,4,72171,0
+72172,Alexis-Trottier / de la Passe,  45.392661, -73.899825,4,72172,0
+72173,Don-Quichotte / Alfred-Laliberté,  45.365559, -73.871704,4,72173,0
+72174,Don-Quichotte / Alfred-Laliberté,  45.365401, -73.871764,4,72174,0
+72175,Jordi-Bonet / Don-Quichotte,  45.366787, -73.868366,4,72175,0
+72176,Don-Quichotte / Jordi-Bonet,  45.366667, -73.868261,4,72176,0
+72177,Jordi-Bonet / Pauline-Julien,  45.368769, -73.870564,4,72177,0
+72178,Jordi-Bonet / Pauline-Julien,  45.368802, -73.870829,4,72178,0
+72179,Jordi-Bonet / Promenade Saint-Louis,  45.370811, -73.872477,4,72179,0
+72180,Promenade Saint-Louis / Jordi-Bonet,  45.370785, -73.872673,4,72180,0
+72181,Don-Quichotte / de la Rivelaine,  45.378880, -73.937982,4,72181,0
+72182,Don-Quichotte / de la Rivelaine,  45.378775, -73.938202,4,72182,0
+72183,Promenade Saint-Louis / Kay,  45.370556, -73.874689,4,72183,0
+72184,Promenade Saint-Louis / Kay,  45.370640, -73.874706,4,72184,0
+72185,Aumais / Perrot,  45.365385, -73.878740,4,72185,0
+72186,Aumais / Perrot,  45.365279, -73.878540,4,72186,0
+72187,Don-Quichotte / Rouleau,  45.378908, -73.941883,4,72187,0
+72188,Don-Quichotte / Rouleau,  45.378830, -73.941875,4,72188,0
+72189,Don-Quichotte / 22e Avenue,  45.384427, -73.954960,4,72189,0
+72190,Don-Quichotte / 22e Avenue,  45.384162, -73.955048,4,72190,0
+72191,Perrot / de l'Église,  45.350923, -73.902599,4,72191,0
+72192,Perrot / de l'Église,  45.350844, -73.902664,4,72192,0
+72193,Saint-Joseph / Virginie-Roy,  45.383659, -73.924983,4,72193,0
+72194,Saint-Joseph / Virginie-Roy,  45.383935, -73.925025,4,72194,0
+72195,Perrier / Picasso,  45.382228, -73.928771,4,72195,0
+72196,Perrier / Picasso,  45.382371, -73.928802,4,72196,0
+72197,Perrier / Pothier,  45.381161, -73.929367,4,72197,0
+72198,Perrier / Pothier,  45.381342, -73.929342,4,72198,0
+72199,Perrier / Michel-McNabb,  45.380434, -73.930642,4,72199,0
+72200,Michel-McNabb / Perrier,  45.380376, -73.930774,4,72200,0
+72201,Michel-McNabb / Jean-Paul-Lemieux,  45.381174, -73.931640,4,72201,0
+72202,Michel-McNabb / Jean-Paul-Lemieux,  45.381256, -73.931890,4,72202,0
+72203,Estelle-Mauffette / Léo-Ayotte,  45.379308, -73.933865,4,72203,0
+72204,Estelle-Mauffette / Léo-Ayotte,  45.379417, -73.933738,4,72204,0
+72205,de la Rivelaine / Francois-Rapin,  45.381992, -73.936530,4,72205,0
+72206,Francois-Rapin / de la Rivelaine,  45.381973, -73.936695,4,72206,0
+72207,de la Rivelaine / Marie-Rollet,  45.383623, -73.935367,4,72207,0
+72208,de la Rivelaine / Marie-Rollet,  45.383803, -73.935414,4,72208,0
+72209,Perrot / 144e Avenue,  45.351761, -73.906383,4,72209,0
+72210,Perrot / 144e Avenue,  45.351731, -73.906522,4,72210,0
+72211,de la Rivelaine / Virginie-Roy,  45.384826, -73.934817,4,72211,0
+72212,Virginie-Roy / de la Rivelaine,  45.384912, -73.934953,4,72212,0
+72213,Virginie-Roy / Rémillard,  45.385710, -73.937404,4,72213,0
+72214,Virginie-Roy / Rémillard,  45.385561, -73.937677,4,72214,0
+72215,Virginie-Roy / Rhéaume,  45.386459, -73.940523,4,72215,0
+72216,Virginie-Roy / Rhéaume,  45.386319, -73.940875,4,72216,0
+72217,Don-Quichotte / Forest,  45.382989, -73.952973,4,72217,0
+72218,Perrot / Robillard,  45.391156, -73.937054,4,72218,0
+72219,Perrot / 40e Avenue,  45.390303, -73.934441,4,72219,0
+72220,Perrot / Renaud,  45.390369, -73.935222,4,72220,0
+72221,Perrot / Jean-Paul-Lemieux,  45.389607, -73.928702,4,72221,0
+72222,Perrot / Jean-Paul-Lemieux,  45.389436, -73.929041,4,72222,0
+72223,Perrot / Pasteur,  45.389200, -73.926770,4,72223,0
+72224,Perrot / Pasteur,  45.389090, -73.926601,4,72224,0
+72225,Perrot / 53e Avenue,  45.388481, -73.920031,4,72225,0
+72226,Perrot / 53e Avenue,  45.388456, -73.920304,4,72226,0
+72227,Perrot / 60e Avenue,  45.388991, -73.912472,4,72227,0
+72228,Perrot / 60e Avenue,  45.388809, -73.912585,4,72228,0
+72229,Perrot / 56e Avenue,  45.388166, -73.917535,4,72229,0
+72230,Perrot / 56e Avenue,  45.388000, -73.917871,4,72230,0
+72231,Perrot / devant le #1334,  45.388937, -73.907849,4,72231,0
+72232,Perrot / devant le #1331,  45.388855, -73.907965,4,72232,0
+72233,du Domaine / Perrot,  45.389178, -73.902283,4,72233,0
+72234,du Domaine / Perrot,  45.389255, -73.902351,4,72234,0
+72235,du Domaine / Perrot,  45.389246, -73.902376,4,72235,0
+72236,du Domaine / Perrot,  45.389187, -73.902281,4,72236,0
+72237,Perrot / 146e Avenue,  45.352749, -73.909020,4,72237,0
+72238,Perrot / 146e Avenue,  45.352678, -73.909045,4,72238,0
+72239,Perrot / 100e Avenue,  45.370106, -73.883460,4,72239,0
+72240,Perrot / 100e Avenue,  45.369922, -73.883383,4,72240,0
+72241,Perrot / 87e Avenue,  45.376197, -73.892283,4,72241,0
+72242,Perrot / 87e Avenue,  45.376121, -73.892427,4,72242,0
+72243,Perrot / 81e Avenue,  45.380144, -73.896153,4,72243,0
+72244,Perrot / 81e Avenue,  45.380086, -73.896302,4,72244,0
+72245,Don-Quichotte / Iberville,  45.377843, -73.929604,4,72245,0
+72246,Don-Quichotte / Iberville,  45.377707, -73.929686,4,72246,0
+72247,Perrot / 150e Avenue,  45.353834, -73.912725,4,72247,0
+72248,Perrot / 150e Avenue,  45.353788, -73.912872,4,72248,0
+72249,Antoine-De La Fresnaye / Virginie-Roy,  45.383194, -73.922911,4,72249,0
+72250,Antoine-De La Fresnaye / Virginie-Roy,  45.383148, -73.923045,4,72250,0
+72251,Francoise-Cuillerier / Charles-Le Moyne,  45.382061, -73.924935,4,72251,0
+72252,Francoise-Cuillerier / Charles-Le Moyne,  45.382329, -73.925081,4,72252,0
+72253,Francoise-Cuillerier / Hubert-Leduc,  45.379085, -73.926526,4,72253,0
+72254,Hubert-Leduc / Francoise-Cuillerier,  45.378986, -73.926597,4,72254,0
+72255,Virginie-Roy / Jean-Paul-Lemieux,  45.385026, -73.929675,4,72255,0
+72256,Virginie-Roy / Jean-Paul-Lemieux,  45.384870, -73.930004,4,72256,0
+72257,Rouleau / Rester,  45.380682, -73.940895,4,72257,0
+72258,Rouleau / Rester,  45.380831, -73.940975,4,72258,0
+72259,Rouleau / Francois-Rapin,  45.382817, -73.939896,4,72259,0
+72260,Francois-Rapin / Rouleau,  45.382931, -73.939784,4,72260,0
+72261,Roger-Maillet / Lucien-Thériault,  45.387057, -73.921562,4,72261,0
+72262,Roger-Maillet / Lucien-Thériault,  45.387234, -73.921594,4,72262,0
+72263,Saint-Joseph / Perrot,  45.388963, -73.922486,4,72263,0
+72264,Perrot / Saint-Joseph,  45.389045, -73.922468,4,72264,0
+72265,Lucien-Thériault / Sylvio-Leduc,  45.384894, -73.923600,4,72265,0
+72266,Sylvio-Leduc / Lucien-Thériault,  45.385007, -73.923510,4,72266,0
+72267,Antoine-De La Fresnaye / Lucien-Thériault,  45.383916, -73.922505,4,72267,0
+72268,Lucien-Thériault / Antoine-De La Fresnaye,  45.383995, -73.922618,4,72268,0
+72269,Pasteur / Virginie-Roy,  45.384369, -73.926752,4,72269,0
+72270,Pasteur / Virginie-Roy,  45.384587, -73.926505,4,72270,0
+72271,Pasteur / Parmentier,  45.386033, -73.926005,4,72271,0
+72272,Pasteur / Parmentier,  45.386110, -73.926189,4,72272,0
+72273,Pasteur / Ponsard,  45.387109, -73.926994,4,72273,0
+72274,Pasteur / Ponsard,  45.387146, -73.927242,4,72274,0
+72275,Pasteur / Paré,  45.388324, -73.926987,4,72275,0
+72276,Pasteur / Paré,  45.388459, -73.927048,4,72276,0
+72277,Perrot / 38e Avenue,  45.391120, -73.936712,4,72277,0
+72278,Perrot / Saint-Joseph,  45.356172, -73.918606,4,72278,0
+72279,Saint-Joseph / Perrot,  45.356326, -73.918656,4,72279,0
+72280,Auto-Plaza / Brunswick (centre Fairview),  45.466676, -73.833175,2,72280,0
+72281,Auto-Plaza / Brunswick (centre Fairview),  45.466567, -73.833016,2,72281,0
+72282,23e Avenue / Olympique,  45.363394, -73.988085,4,72282,0
+72283,Olympique / 23e Avenue,  45.363340, -73.988217,4,72283,0
+72284,de l'Île / du Suroît,  45.367312, -73.982779,4,72284,0
+72285,de l'Île / du Suroît,  45.367466, -73.981860,4,72285,0
+72286,Olympique / Huneault,  45.364905, -73.989534,4,72286,0
+72287,Olympique / Huneault,  45.364991, -73.989812,4,72287,0
+72288,Pincourt / 5e Avenue,  45.386183, -73.971517,4,72288,0
+72289,Pincourt / 5e Avenue,  45.386303, -73.972244,4,72289,0
+72290,Pincourt / 5e Avenue,  45.386301, -73.972212,4,72290,0
+72291,Pincourt / du Versant,  45.382072, -73.965758,4,72291,0
+72292,Pincourt / de la Plaine,  45.382208, -73.965957,4,72292,0
+72293,Forest / Noyer,  45.377923, -73.975697,4,72293,0
+72294,Forest / Noyer,  45.377814, -73.975877,4,72294,0
+72295,Frontenac / Montcalm,  45.381351, -73.983204,4,72295,0
+72296,Montcalm / Frontenac,  45.381458, -73.983226,4,72296,0
+72297,des Orioles / Renaissance,  45.380427, -73.977811,4,72297,0
+72298,des Orioles / Renaissance,  45.380297, -73.977995,4,72298,0
+72299,des Roitelets / des Orioles,  45.381265, -73.976151,4,72299,0
+72300,des Orioles / des Roitelets,  45.381214, -73.976279,4,72300,0
+72301,Renaissance / des Roitelets,  45.380401, -73.974984,4,72301,0
+72302,des Roitelets / Renaissance,  45.380354, -73.975140,4,72302,0
+72303,Renaissance / des Bruants,  45.381341, -73.973477,4,72303,0
+72304,Renaissance / des Bruants,  45.381198, -73.973459,4,72304,0
+72305,Renaissance / Radisson,  45.383809, -73.973600,4,72305,0
+72306,Kendall / Radisson,  45.383904, -73.973803,4,72306,0
+72307,Olympique / du Sous-Bois,  45.367275, -73.991031,4,72307,0
+72308,Olympique / du Sous-Bois,  45.367435, -73.991229,4,72308,0
+72309,Cardinal-Léger /devant le #107 (Metro),  45.382942, -73.992336,4,72309,0
+72310,Cardinal-Léger / devant le Maxi & Cie,  45.384737, -73.992894,4,72310,0
+72311,Olympique / Lussier,  45.371387, -73.992910,4,72311,0
+72312,Olympique / Lussier,  45.371544, -73.992887,4,72312,0
+72313,Lussier / Bellevue,  45.372289, -73.989467,4,72313,0
+72314,Lussier / Bellevue,  45.372162, -73.989679,4,72314,0
+72315,Shamrock / Northcote,  45.379131, -73.984980,4,72315,0
+72316,Northcote / Shamrock,  45.379275, -73.984976,4,72316,0
+72317,Cardinal-Léger / 7e Avenue,  45.380265, -73.991195,4,72317,0
+72318,Cardinal-Léger / de l'Île,  45.366295, -73.984535,4,72318,0
+72319,de l'Île / Cardinal-Léger,  45.366487, -73.984482,4,72319,0
+72320,Cardinal-Léger / de l'Île,  45.366431, -73.984699,4,72320,0
+72321,de l'Île / des Merisiers,  45.373882, -73.978270,4,72321,0
+72322,de l'Île / des Merisiers,  45.374027, -73.978389,4,72322,0
+72323,des Merisiers / de l'Île,  45.373916, -73.978418,4,72323,0
+72324,Cardinal-Léger / Lussier,  45.372750, -73.987637,4,72324,0
+72325,Lussier / Cardinal-Léger,  45.372595, -73.987625,4,72325,0
+72326,Forest / de la Plaine,  45.379983, -73.969151,4,72326,0
+72327,Forest / de la Vallée,  45.379786, -73.969223,4,72327,0
+72328,du Traversier / face au #1900 (Patrick Morin),  45.387093, -73.985951,4,72328,0
+72329,du Traversier / devant le  #1900 (Patrick Morin),  45.386873, -73.985819,4,72329,0
+72330,des Buissons / des Merisiers,  45.372609, -73.979536,4,72330,0
+72331,des Merisiers / des Buissons,  45.372748, -73.979500,4,72331,0
+72332,Faubourg de l'Île / devant l'entrée #4,  45.383788, -73.995573,4,72332,0
+72333,Cardinal-Léger / Forest,  45.373531, -73.987846,4,72333,0
+72334,Cardinal-Léger / Forest,  45.373654, -73.988059,4,72334,0
+72335,Joseph-Laflèche / devant le #49,  45.383074, -73.996045,4,72335,0
+72336,Cardinal-Léger / Monseigneur-Langlois,  45.375257, -73.988652,4,72336,0
+72337,Cardinal-Léger / Monseigneur-Langlois,  45.375380, -73.988897,4,72337,0
+72338,Régent / Forest,  45.375958, -73.981319,4,72338,0
+72339,Forest / Régent,  45.375930, -73.981506,4,72339,0
+72340,Cardinal-Léger / 8e Avenue,  45.379427, -73.990568,4,72340,0
+72341,Cardinal-Léger / 5e Avenue,  45.381872, -73.991663,4,72341,0
+72342,Cardinal-Léger / 5e Avenue,  45.381805, -73.991869,4,72342,0
+72343,Gare Pincourt / Terrasse-Vaudreuil,  45.387962, -73.991601,4,72343,0
+72344,du Traversier / Cardinal-Léger,  45.385480, -73.992596,4,72344,0
+72345,du Traversier / Cardinal-Léger,  45.385277, -73.992551,4,72345,0
+72346,Régent / Marcotte,  45.372822, -73.980873,4,72346,0
+72347,Régent / Marcotte,  45.372950, -73.981325,4,72347,0
+72348,Cardinal-Léger / devant le Parc Trotter,  45.377479, -73.989628,4,72348,0
+72349,Cardinal-Léger / face au Parc Trotter,  45.377472, -73.989814,4,72349,0
+72350,Cardinal-Léger / devant le #106 (Tabagie Pincourt),  45.382983, -73.992195,4,72350,0
+72351,Cardinal-Léger / devant le Pharmaprix,  45.384687, -73.993240,4,72351,0
+72352,Cardinal-Léger / des Frênes,  45.362879, -73.984184,4,72352,0
+72354,44e Avenue / Duhamel,  45.356677, -73.976072,4,72354,0
+72355,44e Avenue / Duhamel,  45.356668, -73.976168,4,72355,0
+72356,44e Avenue / 3e Avenue,  45.359926, -73.977394,4,72356,0
+72357,3e Avenue / 44e Avenue,  45.359943, -73.977547,4,72357,0
+72358,3e Avenue / Cardinal-Léger,  45.358286, -73.981424,4,72358,0
+72359,Cardinal-Léger / 3e Avenue,  45.358252, -73.981694,4,72359,0
+72362,de l'Île / Forest,  45.377395, -73.978608,4,72362,0
+72363,Forest / de l'Île,  45.377501, -73.978571,4,72363,0
+72364,de l'Île / Forest,  45.377537, -73.978771,4,72364,0
+72365,Forest / de l'Île,  45.377397, -73.978824,4,72365,0
+72366,Forest / Shamrock,  45.375171, -73.982960,4,72366,0
+72367,Shamrock / Forest,  45.375136, -73.983103,4,72367,0
+72368,Shamrock / Bayview,  45.377722, -73.984339,4,72368,0
+72369,Shamrock / Bayview,  45.377878, -73.984554,4,72369,0
+72370,de l'Île / du Suroît,  45.369052, -73.979280,4,72370,0
+72371,du Suroît / de l'Île,  45.369190, -73.979156,4,72371,0
+72372,de l'Île / du Suroît,  45.369281, -73.979370,4,72372,0
+72373,de l'Île / du Suroît,  45.369049, -73.979284,4,72373,0
+72374,Forest / Pincourt,  45.381236, -73.965389,4,72374,0
+72375,Pincourt / Forest,  45.381239, -73.965581,4,72375,0
+72376,Forest / Pincourt,  45.381089, -73.965468,4,72376,0
+72377,Forest / Racine,  45.378364, -73.973433,4,72377,0
+72378,Forest / Racine,  45.378243, -73.973657,4,72378,0
+72379,Forest / devant le #550,  45.381633, -73.961458,4,72379,0
+72380,Forest / de la Cime,  45.381565, -73.961496,4,72380,0
+72381,Forest / de la Falaise,  45.379340, -73.969961,4,72381,0
+72382,Forest / de la Falaise,  45.378862, -73.970524,4,72382,0
+72383,de l'Île / Northcote,  45.380785, -73.978782,4,72383,0
+72384,de l'Île / Northcote,  45.380950, -73.978882,4,72384,0
+72385,Northcote / de l'Île,  45.380828, -73.978940,4,72385,0
+72386,de l'Île / Montcalm,  45.382291, -73.978472,4,72386,0
+72387,Montcalm / de l'Île,  45.382335, -73.978678,4,72387,0
+72388,Montfort / Dumas,  45.383560, -73.977788,4,72388,0
+72389,Dumas / Montfort,  45.383463, -73.977781,4,72389,0
+72390,Montfort / du Souvenir,  45.384699, -73.977130,4,72390,0
+72391,Montfort / du Souvenir,  45.384582, -73.977267,4,72391,0
+72392,Kendall / Montfort,  45.385247, -73.974300,4,72392,0
+72393,Montfort / Kendall,  45.385262, -73.974468,4,72393,0
+72394,de l'Île / 5e Avenue,  45.384764, -73.979401,4,72394,0
+72395,de l'Île / 5e Avenue,  45.384679, -73.979501,4,72395,0
+72396,Cardinal-Léger / du Boisé-des-Chênes,  45.369462, -73.985955,4,72396,0
+72397,Cardinal-Léger / du Boisé-des-Chênes,  45.369667, -73.986202,4,72397,0
+72398,Olympique / 17e Avenue,  45.369801, -73.992182,4,72398,0
+72399,Olympique / 17e Avenue,  45.369936, -73.992413,4,72399,0
+72400,Northcote / Frontenac,  45.380118, -73.982046,4,72400,0
+72401,Frontenac / Northcote,  45.380098, -73.982176,4,72401,0
+72402,Northcote / Frontenac,  45.379984, -73.982094,4,72402,0
+72403,du Suroît / des Pommetiers,  45.368404, -73.975473,4,72403,0
+72404,du Suroît / des Pommetiers,  45.368421, -73.975660,4,72404,0
+72405,du Suroît / des Lauriers,  45.365296, -73.976194,4,72405,0
+72406,du Suroît / des Lauriers,  45.365136, -73.976336,4,72406,0
+72407,du Suroît / des Genévriers,  45.365011, -73.979783,4,72407,0
+72408,du Suroît / des Genévriers,  45.365083, -73.980077,4,72408,0
+72409,Cardinal-Léger / 23e Avenue,  45.365061, -73.984293,4,72409,0
+72410,23e Avenue / Cardinal-Léger,  45.364930, -73.984258,4,72410,0
+72411,Montée Lavigne / devant le #101 (Esso),  45.461346, -74.226698,8,72411,0
+72412,Montée Lavigne / devant le #98 (Petro Canada),  45.461335, -74.227207,8,72412,0
+72413,Saint-Jean-Baptiste Est / devant le Métro,  45.479708, -74.288651,8,72413,0
+72414,Saint-Jean-Baptiste Est / face au Dairy Queen,  45.479406, -74.289881,8,72414,0
+72415,Saint-Viateur / du Boisé-des-Franciscaines,  45.476685, -74.300283,8,72415,0
+72416,Saint-Viateur / du Boisé-des-Franciscaines,  45.476687, -74.300107,8,72416,0
+72419,de la Coopérative / J.-Hyacinthe-Leduc,  45.482697, -74.297066,8,72419,0
+72420,de la Coopérative / J.-Hyacinthe-Leduc,  45.482444, -74.297536,8,72420,0
+72421,Saint-Antoine / de la Coopérative,  45.482361, -74.301342,8,72421,0
+72422,de la Coopérative / Saint-Antoine,  45.482416, -74.301399,8,72422,0
+72423,Saint-Viateur / Saint-Jean-Baptiste Est,  45.479121, -74.300317,8,72423,0
+72424,Saint-Viateur / Saint-Jean-Baptiste Est,  45.479324, -74.300539,8,72424,0
+72425,de l'Hôtel-de-Ville / Gérard-Chicoine,  45.476086, -74.302279,8,72425,0
+72426,de l'Hôtel-de-Ville / Gérard-Chicoine,  45.476008, -74.302339,8,72426,0
+72427,de l'Hôtel-de-Ville / Saint-Pierre,  45.476311, -74.304618,8,72427,0
+72428,de l'Hôtel-de-Ville / Saint-Pierre,  45.476140, -74.304754,8,72428,0
+72429,Saint-Pierre / de la Banque,  45.477971, -74.302679,8,72429,0
+72430,Saint-Pierre / de la Banque,  45.478136, -74.302714,8,72430,0
+72431,Saint-François / Saint-Jean-Baptiste Ouest,  45.479952, -74.305399,8,72431,0
+72432,Saint-François / Saint-Jean-Baptiste,  45.479925, -74.305153,8,72432,0
+72433,Joly / Saint-François,  45.478631, -74.309910,8,72433,0
+72434,Joly / Aimé-Aubry,  45.479827, -74.312364,8,72434,0
+72435,Bussière / Joly,  45.480040, -74.315165,8,72435,0
+72436,Bussière / Edgar-Séguin,  45.478924, -74.314049,8,72436,0
+72437,Bussière / Saint-François,  45.478027, -74.312258,8,72437,0
+72438,Saint-François / Simon-Pierre-Tremblay,  45.478520, -74.308281,8,72438,0
+72439,J.-Marc-Séguin / Saint-François,  45.483239, -74.302465,8,72439,0
+72440,J.-Marc-Séguin / Saint-François,  45.483259, -74.302561,8,72440,0
+72441,Séguin / devant le #26 (Fleury Michon),  45.485374, -74.306624,8,72441,0
+72442,Séguin / face au #26 (Fleury Michon),  45.485089, -74.306929,8,72442,0
+72443,J.-Marc-Séguin / Saint-Jean-Baptiste Ouest,  45.486689, -74.309629,8,72443,0
+72444,J.-Marc-Séguin / Saint-Jean-Baptiste Ouest,  45.486439, -74.309822,8,72444,0
+72445,de la Coopérative / Saint-Jean-Baptiste Est,  45.479599, -74.291956,8,72445,0
+72446,de la Coopérative / Saint-Jean-Baptiste Est,  45.479608, -74.292306,8,72446,0
+72447,Sainte-Anne / Lalonde,  45.403054, -73.949646,3,72447,0
+72448,Terminus Macdonald,  45.403548, -73.941309,3,72448,0
+72449,Terminus Macdonald,  45.403568, -73.941343,3,72449,0
+72450,Saint-Pierre / passage piétonnier,  45.405790, -73.950817,3,72450,0
+72451,du Collège / Saint-Pierre,  45.406365, -73.951067,3,72451,0
+72452,rue Poultry Cottages / face à la Ferme Macdonald,  45.413955, -73.939836,3,72452,0
+72453,John Abbott College,  45.406939, -73.940924,3,72453,0
+72454,rue Poultry Cottages / face à la Ferme Macdonald,  45.413696, -73.939451,3,72454,0
+72455,boul. Côte-Vertu / rue Beaulac,  45.495330, -73.706193,1,72455,0
+72456,boul. Côte-Vertu / rue Beaulac,  45.495852, -73.706150,2,72456,0
+72457,Terminus Côte-Vertu,  45.513436, -73.682980,1,72457,0
+72458,Terminus Côte-Vertu,  45.513405, -73.682942,1,72458,0
+72459,Yearling / Croissant Cavaletti,  45.427872, -74.158933,6,72459,0
+72460,côte St-Charles / face au #2760 (Mon Village),  45.436538, -74.172645,6,72460,0
+72461,côte St-Charles / devant le #2760 (Mon Village),  45.437069, -74.173203,6,72461,0
+72462,Master / Carriage Way,  45.430165, -74.162625,6,72462,0
+72463,Master / Carriage Way,  45.430076, -74.162803,6,72463,0
+72464,Yearling / Master,  45.429367, -74.160061,6,72464,0
+72465,Master / Yearling,  45.429416, -74.160216,6,72465,0
+72466,Yearling / de Bay Meadow,  45.428004, -74.159378,6,72466,0
+72467,Yearling / Pine Run,  45.426451, -74.157130,6,72467,0
+72468,Yearling / Pine Run,  45.426449, -74.157198,6,72468,0
+72469,Yearling / Stallion,  45.426136, -74.153373,6,72469,0
+72470,Yearling / Stallion,  45.426002, -74.153446,6,72470,0
+72471,Côte Saint-Charles / Harwood,  45.445706, -74.167857,6,72471,0
+72472,Côte Saint-Charles / Harwood,  45.446392, -74.167632,6,72472,0
+72473,Harwood / Côte Saint-Charles,  45.445934, -74.168204,6,72473,0
+72474,Yearling / du Bordelais,  45.426705, -74.149625,6,72474,0
+72475,Yearling / du Bordelais,  45.426636, -74.149794,6,72475,0
+72476,des Sables / Croissant du Sablier,  45.424535, -74.148143,6,72476,0
+72477,du Bordelais / du Conservatoire,  45.418469, -74.151435,6,72477,0
+72478,du Bordelais / du Conservatoire,  45.418696, -74.151743,6,72478,0
+72479,du Bordelais / Chanterel,  45.414630, -74.151030,6,72479,0
+72480,du Bordelais / Chanterel,  45.414857, -74.151358,6,72480,0
+72481,du Bordelais / du Bordeaux,  45.411769, -74.153376,6,72481,0
+72482,du Bordelais / du Bordeaux,  45.412074, -74.153381,6,72482,0
+72483,du Bordelais / Sainte-Élisabeth,  45.410987, -74.153976,6,72483,0
+72484,du Bordelais / Sainte-Élisabeth,  45.411334, -74.154224,6,72484,0
+72485,du Bordelais / des Oliviers,  45.407786, -74.155001,6,72485,0
+72486,du Bordelais / du Sauvignon,  45.407978, -74.155109,6,72486,0
+72487,du Bordelais / Place du Bordelais,  45.405423, -74.155930,6,72487,0
+72488,du Bordelais / du Muscadet,  45.405479, -74.156062,6,72488,0
+72489,Sainte-Angélique / du Bordelais,  45.401520, -74.156154,6,72489,0
+72490,du Bordelais / Sainte-Angélique,  45.401380, -74.156373,6,72490,0
+72491,Sainte-Angélique / des Cascades,  45.401827, -74.153352,6,72491,0
+72492,Sainte-Angélique / des Cascades,  45.401577, -74.153379,6,72492,0
+72493,Sainte-Angélique / Rozon,  45.401403, -74.149732,6,72493,0
+72494,Sainte-Angélique / Rozon,  45.401199, -74.150176,6,72494,0
+72495,Sainte-Angélique / Michel,  45.400936, -74.146386,6,72495,0
+72496,Sainte-Angélique / Michel,  45.400813, -74.146670,6,72496,0
+72497,Sainte-Angélique / Bédard,  45.400136, -74.140147,6,72497,0
+72498,Sainte-Angélique / Bédard,  45.400092, -74.140288,6,72498,0
+72499,Sainte-Angélique / des Marguerites,  45.399704, -74.135675,6,72499,0
+72500,Sainte-Angélique / des Marguerites,  45.399497, -74.136113,6,72500,0
+72501,Sainte-Angélique / Leroux,  45.399145, -74.131767,6,72501,0
+72502,Sainte-Angélique / Leroux,  45.399107, -74.131874,6,72502,0
+72503,Sainte-Angélique / Daniel,  45.398514, -74.128414,6,72503,0
+72504,Master / Croissant  Chestnut,  45.433473, -74.169213,6,72504,0
+72505,Master / Croissant  Chestnut,  45.433510, -74.169393,6,72505,0
+72506,Sainte-Angélique / des Cèdres,  45.398666, -74.127632,6,72506,0
+72507,Brazeau / Sainte-Angélique,  45.397132, -74.123753,6,72507,0
+72508,Brazeau / Sainte-Angélique,  45.396994, -74.123297,6,72508,0
+72509,du Printemps / Brazeau,  45.399622, -74.118414,6,72509,0
+72510,Brazeau / du Printemps,  45.399568, -74.118559,6,72510,0
+72511,des Semences / du Printemps,  45.398557, -74.116932,6,72511,0
+72512,du Printemps / des Semences,  45.398555, -74.117080,6,72512,0
+72513,des Semences / Champêtre,  45.397117, -74.116094,6,72513,0
+72514,Champêtre / des Semences,  45.396978, -74.115995,6,72514,0
+72515,Champêtre / du Sous-Bois,  45.396142, -74.117953,6,72515,0
+72516,Champêtre / du Sous-Bois,  45.395919, -74.118004,6,72516,0
+72517,Champêtre / du Sous-Bois,  45.395275, -74.120480,6,72517,0
+72518,Champêtre / du Sous-Bois,  45.395025, -74.120541,6,72518,0
+72519,Sainte-Angélique / Albert-Beaulne,  45.392724, -74.119436,6,72519,0
+72520,Sainte-Angélique / Gosselin,  45.392741, -74.119555,6,72520,0
+72521,Sainte-Angélique / du Grand-Pré,  45.390529, -74.117091,6,72521,0
+72522,Sainte-Angélique / Aberdeen,  45.390554, -74.117349,6,72522,0
+72523,Frontenac / Sainte-Angélique,  45.383054, -74.109275,6,72523,0
+72524,Sainte-Angélique / des Libellules,  45.382960, -74.109542,6,72524,0
+72525,Montcalm / Frontenac,  45.384028, -74.106779,6,72525,0
+72526,Frontenac / Montcalm,  45.383968, -74.107071,6,72526,0
+72527,Radisson / Montcalm,  45.383350, -74.106100,6,72527,0
+72528,Montcalm / Radisson,  45.383292, -74.106230,6,72528,0
+72529,Éric / Radisson,  45.385701, -74.101319,6,72529,0
+72530,Radisson / Éric,  45.385654, -74.101428,6,72530,0
+72531,Dutchy / Croissant  Amy,  45.386387, -74.098144,6,72531,0
+72532,Dutchy / Croissant  Amy,  45.386162, -74.098212,6,72532,0
+72533,Dutchy / Saint-Louis,  45.387458, -74.095346,6,72533,0
+72534,Dutchy / Saint-Louis,  45.387573, -74.095457,6,72534,0
+72535,Saint-Louis / Duhamel,  45.385015, -74.092590,6,72535,0
+72536,Saint-Louis / Duhamel,  45.385055, -74.092795,6,72536,0
+72537,Saint-Louis / de la Cité-des-Jeunes,  45.383037, -74.090817,6,72537,0
+72538,Saint-Louis / de la Cité-des-Jeunes,  45.383146, -74.090563,6,72538,0
+72539,Master / du Polo Drive,  45.432440, -74.167062,6,72539,0
+72540,côte St-Charles / devant le #2662 (Ultramar),  45.434600, -74.174410,6,72540,0
+72541,côte St-Charles / devant le #2681 (Tim Horton's),  45.434531, -74.174204,6,72541,0
+72542,des Sables / Yearling,  45.425362, -74.146487,6,72542,0
+72543,Yearling / des Sables,  45.425492, -74.146685,6,72543,0
+72544,du Bordelais / Sandmere,  45.419941, -74.152130,6,72544,0
+72545,du Bordelais / Sandmere,  45.419815, -74.152393,6,72545,0
+72546,Master / Huntsmen,  45.432100, -74.165403,6,72546,0
+72547,des Sables / Croissant  du Sablier,  45.424181, -74.148342,6,72547,0
+72548,Master / du Kentucky,  45.431637, -74.164398,6,72548,0
+72549,Master / du Kentucky,  45.431635, -74.164529,6,72549,0
+72550,Pie-XII / Trudeau,  45.372617, -74.026466,5,72550,0
+72551,Pie-XII / Trudeau,  45.372812, -74.026563,5,72551,0
+72552,Valois / 1re Avenue,  45.383161, -74.019128,5,72552,0
+72553,Valois / 1re Avenue,  45.383388, -74.018970,5,72553,0
+72554,du Bicentenaire / Paul-Gérin-Lajoie,  45.391648, -74.024696,5,72554,0
+72555,Paul-Gérin-Lajoie / du Bicentenaire,  45.391573, -74.024821,5,72555,0
+72556,Lefebvre / Béique,  45.389899, -74.021840,5,72556,0
+72557,Béique / Lefebvre,  45.389933, -74.021753,5,72557,0
+72558,Béique / Querbes,  45.388671, -74.020496,5,72558,0
+72559,Béique / Querbes,  45.388742, -74.020749,5,72559,0
+72560,des Loisirs / Béique,  45.387477, -74.019281,5,72560,0
+72561,Béique / des Loisirs,  45.387437, -74.019451,5,72561,0
+72562,des Loisirs / devant le parc Ste-Trinité,  45.388358, -74.017223,5,72562,0
+72563,des Loisirs / face au parc Ste-Trinité,  45.388451, -74.017212,5,72563,0
+72564,des Loisirs / Saint-Charles,  45.389291, -74.015343,5,72564,0
+72565,Saint-Charles / des Loisirs,  45.389379, -74.015080,5,72565,0
+72566,Jean-Jacques-Bertrand / Jean-Lesage,  45.412360, -74.066222,5,72566,0
+72567,Jean-Jacques-Bertrand / Jean-Lesage,  45.412200, -74.066241,5,72567,0
+72568,Jean-Jacques-Bertrand / Alexandre-Taschereau,  45.413530, -74.064942,5,72568,0
+72569,René-Lévesque / Jean-Jacques-Bertrand,  45.414015, -74.063926,5,72569,0
+72570,Jean-Jacques-Bertrand / René-Lévesque,  45.413961, -74.064134,5,72570,0
+72571,Napoléon-Parent / Larivée,  45.416905, -74.058217,5,72571,0
+72572,Larivée / Napoléon-Parent,  45.417000, -74.058105,5,72572,0
+72573,Dutrisac / de la Cité-des-Jeunes,  45.404273, -74.037594,5,72573,0
+72574,Boileau / de la Cité-des-Jeunes,  45.403372, -74.038110,5,72574,0
+72575,Boileau / de la Cité-des-Jeunes,  45.403476, -74.038511,5,72575,0
+72576,Boileau / Lartigue,  45.403038, -74.041284,5,72576,0
+72577,Jean-Lesage / Daniel-Johnson,  45.410004, -74.064380,5,72577,0
+72578,Jean-Lesage / Daniel-Johnson,  45.409987, -74.064536,5,72578,0
+72579,Jean-Lesage / Alexandre-Taschereau,  45.410343, -74.065166,5,72579,0
+72580,Jean-Lesage / Alexandre-Taschereau,  45.410327, -74.065391,5,72580,0
+72581,Jean-Lesage / Jean-Jacques-Bertrand,  45.410951, -74.066978,5,72581,0
+72582,Jean-Jacques-Bertrand / Jean-Lesage,  45.411037, -74.067102,5,72582,0
+72583,Boileau / Lartigue,  45.402859, -74.041381,5,72583,0
+72584,Montée Cadieux / Boily,  45.414542, -74.054442,5,72584,0
+72585,Boily / Montée Cadieux,  45.414497, -74.054634,5,72585,0
+72586,Saint-Charles / devant le tunnel vers Valois,  45.386399, -74.012176,5,72586,0
+72587,Adèle / Saint-Charles,  45.387031, -74.012608,5,72587,0
+72588,Harwood / Acres,  45.443274, -74.146412,6,72588,0
+72589,Harwood / de Normandie,  45.441544, -74.138633,6,72589,0
+72590,Harwood / de Normandie,  45.441507, -74.138929,6,72590,0
+72591,Harwood / des Érables,  45.436516, -74.126191,6,72591,0
+72592,Harwood / des Érables,  45.436609, -74.126500,6,72592,0
+72593,Harwood / de la Seigneurie,  45.434736, -74.122668,6,72593,0
+72594,Harwood / Boisé,  45.434243, -74.121546,6,72594,0
+72595,Harwood / Dooley,  45.443131, -74.145357,6,72595,0
+72596,Jean-Jacques-Bertrand / Alexandre-Taschereau,  45.413701, -74.064874,5,72596,0
+72597,Bourget / du Gouverneur,  45.405515, -74.028836,5,72597,0
+72598,Bourget / du Gouverneur,  45.405815, -74.028697,5,72598,0
+72599,du Gouverneur / Bourget,  45.405744, -74.028834,5,72599,0
+72600,Hardwood / de la Fabrique,  45.383805, -74.010776,5,72600,0
+72601,Chicoine / Saint-Jean-Baptiste,  45.382329, -74.010255,5,72601,0
+72602,Saint-Jean-Baptiste / Chicoine,  45.382472, -74.010182,5,72602,0
+72603,des Narcisses / des Pivoines,  45.386567, -74.029193,5,72603,0
+72604,des Floralies / des Pivoines,  45.388006, -74.031149,5,72604,0
+72605,des Perce-Neige / des Floralies,  45.391250, -74.037586,5,72605,0
+72606,des Floralies / des Perce-Neige,  45.391341, -74.037651,5,72606,0
+72607,Chicoine / De Lotbinière,  45.380600, -74.013890,5,72607,0
+72608,Chicoine / De Lotbinière,  45.380782, -74.013719,5,72608,0
+72609,Chicoine / Bellemare,  45.376513, -74.022276,5,72609,0
+72610,Chicoine / Bellemare,  45.376706, -74.022157,5,72610,0
+72611,Chicoine / Ranger,  45.379055, -74.017036,5,72611,0
+72612,Chicoine / Ranger,  45.379244, -74.016935,5,72612,0
+72613,Ranger / Chicoine,  45.379205, -74.017140,5,72613,0
+72614,Valois / 8e Avenue,  45.378499, -74.028769,5,72614,0
+72615,Valois / 8e Avenue,  45.378701, -74.028696,5,72615,0
+72616,8e Avenue / Valois,  45.378625, -74.028899,5,72616,0
+72617,de la Gare / du Manoir,  45.405160, -74.038955,5,72617,0
+72618,de la Gare / du Manoir,  45.404973, -74.039203,5,72618,0
+72619,Chicoine / devant le passage piétonnier,  45.377770, -74.019689,5,72619,0
+72620,Chicoine / face au passage piétonnier,  45.377849, -74.019778,5,72620,0
+72621,de la Gare / Édouard-Lalonde (CLSC),  45.395401, -74.054398,5,72621,0
+72622,Édouard-Lalonde / de la Gare,  45.396148, -74.053478,5,72622,0
+72623,de la Gare / Édouard-Lalonde,  45.396669, -74.054595,5,72623,0
+72624,Édouard-Lalonde / de la Gare,  45.395970, -74.053496,5,72624,0
+72625,Adélard-Godbout / Lomer-Gouin,  45.413920, -74.062592,5,72625,0
+72626,Adélard-Godbout / Paul-Sauvé,  45.413781, -74.062677,5,72626,0
+72627,Lafleur / des Patriotes,  45.405360, -74.025383,5,72627,0
+72628,Lafleur / des Patriotes,  45.405353, -74.025566,5,72628,0
+72629,Bourget / de la Canardière,  45.412294, -74.023116,5,72629,0
+72630,de la Canardière / des Siffleurs,  45.412599, -74.023862,5,72630,0
+72631,de la Canardière / des Siffleurs,  45.412326, -74.023600,5,72631,0
+72632,de la Canardière / des Morillons,  45.413233, -74.025631,5,72632,0
+72633,de la Canardière / des Morillons,  45.412993, -74.025769,5,72633,0
+72634,de la Canardière / des Siffleurs,  45.411334, -74.028501,5,72634,0
+72635,de la Canardière / des Siffleurs,  45.411491, -74.028493,5,72635,0
+72636,Lavoie / Dutrisac,  45.409248, -74.028993,5,72636,0
+72637,Lavoie / Dutrisac,  45.409253, -74.029215,5,72637,0
+72638,Pie-XII / Brown,  45.374620, -74.024000,5,72638,0
+72639,Brown / Pie-XII,  45.374770, -74.024061,5,72639,0
+72640,Pie-XII / Dicaire,  45.373807, -74.025671,5,72640,0
+72641,Pie-XII / Dicaire,  45.373952, -74.025566,5,72641,0
+72642,Pie-XII / Robert-Goyer,  45.371365, -74.028263,5,72642,0
+72643,Pie-XII / Robert-Goyer,  45.371554, -74.028196,5,72643,0
+72644,des Tuileries / des Abbesses,  45.370407, -74.028524,5,72644,0
+72645,des Abbesses / des Tuileries,  45.370523, -74.028632,5,72645,0
+72646,des Tuileries / de Villandry,  45.369104, -74.031212,5,72646,0
+72647,des Tuileries / de Villandry,  45.369266, -74.031111,5,72647,0
+72648,de Chenonceau / des Tuileries,  45.368138, -74.032708,5,72648,0
+72649,des Tuileries / de Chenonceau,  45.368218, -74.032597,5,72649,0
+72650,Valois / Monette,  45.375068, -74.036047,5,72650,0
+72651,Valois / Monette,  45.375295, -74.035953,5,72651,0
+72652,Archambault / face au #580,  45.381261, -74.029985,5,72652,0
+72653,Archambault / face au passage piétonnier,  45.381342, -74.030070,5,72653,0
+72654,Émile-Bouchard / Aurèle-Joliat,  45.392882, -74.046172,5,72654,0
+72655,Aurèle-Joliat / Émile-Bouchard,  45.392984, -74.046220,5,72655,0
+72656,Émile-Bouchard / Howie-Morenz,  45.391945, -74.045669,5,72656,0
+72657,Émile-Bouchard / Howie-Morenz,  45.391987, -74.045807,5,72657,0
+72658,Émile-Bouchard / Toe-Blake,  45.391214, -74.045300,5,72658,0
+72659,Émile-Bouchard / Toe-Blake,  45.391170, -74.045421,5,72659,0
+72660,Jacques-Plante / Émile-Bouchard,  45.389835, -74.044428,5,72660,0
+72661,Émile-Bouchard / Jacques-Plante,  45.389931, -74.044499,5,72661,0
+72662,Pilon / Lafleur,  45.404700, -74.023721,5,72662,0
+72663,Lafleur / Pilon,  45.404588, -74.023810,5,72663,0
+72664,des Dahlias / des Crocus,  45.387439, -74.032603,5,72664,0
+72665,des Dahlias / des Oeillets,  45.388663, -74.037074,5,72665,0
+72666,des Oeillets / des Dahlias,  45.388676, -74.037240,5,72666,0
+72667,des Oeillets / des Lupins,  45.389288, -74.037000,5,72667,0
+72668,des Lupins / des Oeillets,  45.389366, -74.037125,5,72668,0
+72669,des Lupins / des Perce-Neige,  45.389015, -74.039676,5,72669,0
+72670,des Perce-Neige / des Lupins,  45.388974, -74.039835,5,72670,0
+72671,des Roseraies / des Perce-Neige,  45.390486, -74.038146,5,72671,0
+72672,des Perce-Neige / des Roseraies,  45.390519, -74.038286,5,72672,0
+72673,des Perce-Neige / des Roseraies,  45.390394, -74.038178,5,72673,0
+72674,Ouimet / Karine,  45.395650, -74.035703,5,72674,0
+72675,Ouimet / Karine,  45.395543, -74.035737,5,72675,0
+72676,1e Boulevard / 3e Avenue,  45.390814, -73.994062,,72676,1
+72677,3e Avenue / 1e Boulevard,  45.390451, -73.993666,,72677,1
+72678,1e Boulevard / 7e Avenue,  45.392788, -73.989184,,72678,1
+72679,Ouimet / Florence,  45.398954, -74.043043,5,72679,0
+72680,Ouimet / Florence,  45.398918, -74.043192,5,72680,0
+72681,Émile-Bouchard / Maurice-Richard,  45.390605, -74.044848,5,72681,0
+72682,Émile-Bouchard / Maurice-Richard,  45.390568, -74.044942,5,72682,0
+72683,du Bicentenaire / Lefebvre,  45.389428, -74.023829,5,72683,0
+72684,du Bicentenaire / Lefebvre,  45.389143, -74.023726,5,72684,0
+72685,Paul-Gérin-Lajoie / des Muguets,  45.391221, -74.028878,5,72685,0
+72686,Paul-Gérin-Lajoie / des Muguets,  45.391178, -74.029103,5,72686,0
+72687,Paul-Gérin-Lajoie / Justine-Poirier,  45.392868, -74.031220,5,72687,0
+72688,Paul-Gérin-Lajoie / Justine-Poirier,  45.392995, -74.031379,5,72688,0
+72689,Sainte-Madeleine / Esther-Blondin,  45.400751, -74.029548,5,72689,0
+72690,Esther-Blondin / Sainte-Madeleine,  45.400696, -74.029740,5,72690,0
+72691,Esther-Blondin / Bourget,  45.403287, -74.032181,5,72691,0
+72692,Esther-Blondin / Bourget,  45.403354, -74.032125,5,72692,0
+72693,Bourget / Esther-Blondin,  45.403405, -74.032240,5,72693,0
+72694,Bourget / Esther-Blondin,  45.403374, -74.032097,5,72694,0
+72695,Joseph-Carrier / Adrien-Patenaude,  45.406969, -74.048806,5,72695,0
+72696,Joseph-Carrier / Adrien-Patenaude,  45.407125, -74.048678,5,72696,0
+72697,Joseph-Carrier / Aimé-Vincent,  45.410314, -74.041858,5,72697,0
+72698,Joseph-Carrier / Aimé-Vincent,  45.410424, -74.041936,5,72698,0
+72699,Bourget / Pilon,  45.410072, -74.024849,5,72699,0
+72700,Pilon / Bourget,  45.410166, -74.024721,5,72700,0
+72701,Joseph-Carrier / John-Desjardins,  45.409227, -74.044161,5,72701,0
+72702,Joseph-Carrier / John-Desjardins,  45.409375, -74.044055,5,72702,0
+72703,Joseph-Carrier / F.-X.-Tessier,  45.408071, -74.046488,5,72703,0
+72704,Joseph-Carrier / F.-X.-Tessier,  45.408219, -74.046380,5,72704,0
+72705,Joseph-Carrier / Marie-Curie,  45.406789, -74.050182,5,72705,0
+72706,Marie-Curie / Joseph-Carrier,  45.406746, -74.050340,5,72706,0
+72707,Marie-Curie / devant le #340,  45.408885, -74.052061,5,72707,0
+72708,Marie-Curie / devant le #341,  45.408699, -74.052457,5,72708,0
+72709,Marie-Curie / F.-X.-Tessier,  45.411177, -74.054784,5,72709,0
+72710,Marie-Curie / F.-X.-Tessier,  45.411219, -74.054679,5,72710,0
+72711,de la Gare / face au #3200 (Édifice Harden),  45.405211, -74.042338,5,72711,0
+72712,de la Gare / devant Les Avenues Vaudreuil (Zibo),  45.405517, -74.042451,5,72712,0
+72713,Bourget / Lafleur,  45.406372, -74.028065,5,72713,0
+72714,Lafleur / Bourget,  45.406456, -74.027965,5,72714,0
+72715,Archambault / devant le #496,  45.382605, -74.027254,5,72715,0
+72716,Archambault / devant le #495,  45.382755, -74.027261,5,72716,0
+72717,Bourget / Quévillon,  45.402554, -74.033401,5,72717,0
+72718,Bourget / Quévillon,  45.402713, -74.033370,5,72718,0
+72719,Larivée / Adélard-Godbout,  45.414447, -74.058627,5,72719,0
+72720,Adélard-Godbout / Larivée,  45.414327, -74.058562,5,72720,0
+72721,Adélard-Godbout / devant le #2784,  45.414769, -74.060770,5,72721,0
+72722,Adélard-Godbout / devant le #2783,  45.414684, -74.060807,5,72722,0
+72723,Bourget / Saint-Charles,  45.404118, -74.030826,5,72723,0
+72724,Saint-Charles / Bourget,  45.403707, -74.030688,5,72724,0
+72725,Bourget / Saint-Charles,  45.404317, -74.030776,5,72725,0
+72726,Saint-Charles / Bourget,  45.403531, -74.031113,5,72726,0
+72727,Saint-Charles / face au #1000 (Complexe Future),  45.416257, -74.043350,5,72727,0
+72728,Saint-Charles / devant le #1000 (Complexe Future),  45.416151, -74.043479,5,72728,0
+72729,De Tonnancour / Guillemette,  45.376357, -74.040433,5,72729,0
+72730,Guillemette / Chaput,  45.377071, -74.039027,5,72730,0
+72731,Guillemette / Lachapelle,  45.377644, -74.037430,5,72731,0
+72735,2e Avenue / du Curé-David,  45.383297, -74.022499,5,72735,0
+72736,2e Avenue / du Curé-David,  45.383361, -74.022754,5,72736,0
+72737,Harwood / De Lotbinière,  45.381222, -74.015168,5,72737,0
+72738,Harwood / De Lotbinière,  45.382529, -74.013363,5,72738,0
+72739,de la Cité-des-Jeunes / devant la Plaza Vaudreuil,  45.406841, -74.036358,5,72739,0
+72740,Saint-Charles / Brodeur,  45.387600, -74.013287,5,72740,0
+72741,Brodeur / Saint-Charles,  45.387731, -74.013374,5,72741,0
+72742,Saint-Charles / Brodeur,  45.387674, -74.013544,5,72742,0
+72744,Valois / André-Chartrand,  45.376482, -74.033103,5,72744,0
+72745,Valois / André-Chartrand,  45.376699, -74.032966,5,72745,0
+72746,André-Chartrand / Valois,  45.376665, -74.033199,5,72746,0
+72748,de la Gare / Forbes,  45.401972, -74.049439,5,72748,0
+72749,Forbes / de la Gare,  45.402293, -74.048884,5,72749,0
+72750,de la Gare / Forbes,  45.402812, -74.048828,5,72750,0
+72751,Sainte-Madeleine / Saint-Charles,  45.401037, -74.028521,5,72751,0
+72752,Saint-Charles / Sainte-Madeleine,  45.401076, -74.028300,5,72752,0
+72753,Saint-Charles / Sainte-Madeleine,  45.401152, -74.028610,5,72753,0
+72754,des Crocus / devant le #148,  45.389108, -74.033935,5,72754,0
+72755,des Crocus / des Roseraies,  45.390152, -74.034874,5,72755,0
+72756,Toe-Blake / Émile-Bouchard,  45.393490, -74.049350,5,72756,0
+72757,Émile-Bouchard / Toe-Blake,  45.393569, -74.049519,5,72757,0
+72758,Henry-Ford / des Méandres,  45.386097, -74.051148,5,72758,0
+72759,Henry-Ford / des Méandres,  45.386230, -74.051457,5,72759,0
+72760,des Méandres / du Ruisselet,  45.386552, -74.050411,5,72760,0
+72761,des Méandres / du Ruisselet,  45.386438, -74.050544,5,72761,0
+72762,des Méandres / du Torrent,  45.387015, -74.048837,5,72762,0
+72763,des Méandres / du Torrent,  45.386892, -74.048956,5,72763,0
+72764,des Méandres / devant le  passage piétonnier,  45.387100, -74.046678,5,72764,0
+72765,des Méandres / face au passage piétonnier,  45.387073, -74.046765,5,72765,0
+72766,du Ruisselet / des Méandres,  45.385075, -74.046309,5,72766,0
+72767,des Méandres / du Ruisselet,  45.385052, -74.046438,5,72767,0
+72768,du Ruisselet / des Rapides,  45.385377, -74.044484,5,72768,0
+72769,du Ruisselet / des Rapides,  45.385303, -74.044660,5,72769,0
+72770,du Ruisselet / des Dahlias,  45.386515, -74.042823,5,72770,0
+72771,des Dahlias / du Ruisselet,  45.386618, -74.042857,5,72771,0
+72772,des Amarantes / des Géraniums,  45.386889, -74.040113,5,72772,0
+72773,des Amarantes / des Géraniums,  45.386974, -74.040390,5,72773,0
+72774,des Clématites / des Amarantes,  45.385769, -74.036818,5,72774,0
+72775,des Amarantes / des Clématites,  45.385633, -74.036875,5,72775,0
+72776,des Clématites / des Géraniums,  45.387422, -74.035945,5,72776,0
+72777,des Clématites / des Géraniums,  45.387542, -74.035974,5,72777,0
+72778,Bill-Durnan / Jean-Claude-Tremblay,  45.392865, -74.039392,5,72778,0
+72779,Jean-Claude-Tremblay / Bill-Durnan,  45.392946, -74.039591,5,72779,0
+72780,Lorne-Worsley / Jean-Claude-Tremblay,  45.393462, -74.040019,5,72780,0
+72781,Jean-Claude-Tremblay / Lorne-Worsley,  45.393545, -74.039850,5,72781,0
+72782,Lorne-Worsley / Jean-Claude-Tremblay,  45.394190, -74.043070,5,72782,0
+72783,Lorne-Worsley / Jean-Claude-Tremblay,  45.394191, -74.043314,5,72783,0
+72784,Aurèle-Joliat / Lorne-Worsley,  45.394708, -74.044559,5,72784,0
+72785,Lorne-Worsley / Aurèle-Joliat,  45.394799, -74.044431,5,72785,0
+72786,Aurèle-Joliat / Maurice-Richard,  45.394155, -74.045060,5,72786,0
+72787,Aurèle-Joliat / Maurice-Richard,  45.394288, -74.045057,5,72787,0
+72788,Napoléon-Parent / Larivée,  45.415250, -74.057802,5,72788,0
+72789,Larivée / Napoléon-Parent,  45.415075, -74.057810,5,72789,0
+72790,Aurèle-Joliat / Toe-Blake,  45.393563, -74.045559,5,72790,0
+72791,Aurèle-Joliat / Toe-Blake,  45.393754, -74.045559,5,72791,0
+72792,Lorne-Worsley / devant le #242,  45.393613, -74.041754,5,72792,0
+72793,Lorne-Worsley / devant le #245,  45.393534, -74.041767,5,72793,0
+72794,des Floralies / des Jonquilles,  45.386581, -74.030932,5,72794,0
+72795,Dumberry / des Berges,  45.415090, -74.040036,5,72795,0
+72796,Dumberry / des Berges,  45.415370, -74.039163,5,72796,0
+72797,Dumberry / du Beaujolais,  45.416651, -74.019584,5,72797,0
+72798,Dumberry / du Beaujolais,  45.416513, -74.019926,5,72798,0
+72799,Dumberry / des Chenaux,  45.418444, -74.016547,5,72799,0
+72800,Boily / Larivée,  45.415651, -74.055614,5,72800,0
+72801,Larivée / Boily,  45.415738, -74.055738,5,72801,0
+72802,autoroute 40-O sortie 36 / Dumberry,  45.417129, -74.017009,5,72802,0
+72803,Dumberry / face au #21919,  45.415990, -74.023382,5,72803,0
+72804,Dumberry / devant le #21919,  45.416264, -74.023499,5,72804,0
+72805,de la Cité-des-Jeunes / Autoroute 40 Est,  45.416064, -74.016062,5,72805,0
+72806,Harwood / des Sources,  45.457757, -74.206073,6,72806,0
+72807,Harwood / des Sources,  45.457654, -74.206483,6,72807,0
+72808,Harwood / Séguin,  45.456570, -74.202009,6,72808,0
+72809,Harwood / Montée d'Alstonvale,  45.454115, -74.193999,6,72809,0
+72810,Harwood / Montée d'Alstonvale,  45.454019, -74.194439,6,72810,0
+72811,Harwood / Bernard,  45.452740, -74.190200,6,72811,0
+72812,Harwood / Major,  45.452694, -74.190730,6,72812,0
+72813,Harwood / de Val-des-Pins,  45.450830, -74.185557,6,72813,0
+72814,Harwood / Cambridge,  45.450859, -74.184913,6,72814,0
+72815,Harwood / des Dunes,  45.456516, -74.201477,6,72815,0
+72816,Harwood / devant le Pétro-Canada,  45.430194, -74.111210,6,72816,0
+72817,Harwood / devant le Centre d'achats Hudson,  45.427616, -74.109337,6,72817,0
+72818,Saint-Charles / Adam,  45.416862, -74.049953,5,72818,0
+72819,Saint-Charles / Adam,  45.416719, -74.049957,5,72819,0
+72820,Dutrisac / au passage piétonnier,  45.405090, -74.034923,5,72820,0
+72821,Dutrisac / au passage piétonnier,  45.405188, -74.035023,5,72821,0
+72822,Valois / De Tonnancour,  45.373966, -74.038356,5,72822,0
+72823,Valois / De Tonnancour,  45.374227, -74.038185,5,72823,0
+72824,Saint-Charles / Dumberry,  45.414101, -74.040826,5,72824,0
+72825,Saint-Charles / Dumberry,  45.414412, -74.041957,5,72825,0
+72826,Saint-Charles / Dutrisac,  45.405789, -74.033038,5,72826,0
+72827,Saint-Charles / Dutrisac,  45.405846, -74.032916,5,72827,0
+72828,Joseph-Carrier / devant la Place Carrier,  45.411585, -74.040289,5,72828,0
+72829,Joseph-Carrier / devant le #111,  45.411147, -74.040473,5,72829,0
+72831,Valois / face au tunnel vers Saint-Charles,  45.386078, -74.011826,5,72831,0
+72832,Charbonneau / Valois,  45.385560, -74.011371,5,72832,0
+72833,Charbonneau / Valois,  45.385560, -74.011368,5,72833,0
+72835,De Tonnancour / Desmarchais,  45.374851, -74.038892,5,72835,0
+72837,Chopin / André-Chartrand,  45.379414, -74.035432,5,72837,0
+72838,André-Chartrand / du Moulin,  45.377752, -74.034135,5,72838,0
+72839,Jeannotte / Bourget,  45.396985, -74.030660,5,72839,0
+72840,Jeannotte / Bourget,  45.396957, -74.031038,5,72840,0
+72841,Harwood / des Saules,  45.433572, -74.118867,6,72841,0
+72842,Harwood / des Saules,  45.433363, -74.118706,6,72842,0
+72843,de la Gare / devant le Métro,  45.393205, -74.054897,5,72843,0
+72844,de la Gare / devant le A&W,  45.390806, -74.054820,5,72844,0
+72845,Jacques-Plante / Maurice-Richard,  45.390835, -74.048799,5,72845,0
+72846,Jacques-Plante / Maurice-Richard,  45.391069, -74.048713,5,72846,0
+72847,Jacques-Plante / Toe-Blake,  45.391321, -74.048062,5,72847,0
+72848,Toe-Blake / Jacques-Plante,  45.391434, -74.048112,5,72848,0
+72849,de la Cité-des-Jeunes / Jeannotte,  45.396243, -74.032357,5,72849,0
+72850,Jeannotte / de la Cité-des-Jeunes,  45.396398, -74.032328,5,72850,0
+72851,des Dahlias / des Nénuphars,  45.387144, -74.041896,5,72851,0
+72852,des Dahlias / des Nénuphars,  45.387008, -74.041988,5,72852,0
+72853,Bourget / Lavoie,  45.408246, -74.026567,5,72853,0
+72854,Lavoie / Bourget,  45.408163, -74.026682,5,72854,0
+72855,des Sarcelles / des Becs-Scie,  45.412356, -74.021754,5,72855,0
+72856,des Becs-Scie / des Sarcelles,  45.414298, -74.018642,5,72856,0
+72857,des Sarcelles / devant le #2050,  45.415100, -74.016923,5,72857,0
+72858,Ouimet / de la Cité-des-Jeunes,  45.394971, -74.034088,5,72858,0
+72859,Ouimet / de la Cité-des-Jeunes,  45.394829, -74.034068,5,72859,0
+72860,Bourget / de la Cité-des-Jeunes,  45.414686, -74.022940,5,72860,0
+72861,Pilon / devant le #454,  45.409093, -74.022280,5,72861,0
+72862,Pilon / devant le #455,  45.409016, -74.022400,5,72862,0
+72863,Pilon / devant le #382,  45.406170, -74.022279,5,72863,0
+72864,Pilon / face au #382,  45.406283, -74.022345,5,72864,0
+72865,Jeannotte / devant l'Aréna de Vaudreuil,  45.397663, -74.028974,5,72865,0
+72866,Jeannotte / devant l'École Saint-Michel,  45.398002, -74.029037,5,72866,0
+72867,Ouimet / Leclerc,  45.396333, -74.037215,5,72867,0
+72868,Ouimet / Leclerc,  45.396197, -74.037245,5,72868,0
+72871,Marier / De Tonnancour,  45.380665, -74.045482,5,72871,0
+72872,Marier / De Tonnancour,  45.380507, -74.045648,5,72872,0
+72873,Marier / Schubert,  45.381711, -74.043013,5,72873,0
+72874,Marier / Schubert,  45.381576, -74.043096,5,72874,0
+72875,Marier / devant le #1041,  45.382394, -74.041652,5,72875,0
+72876,Marier / devant le #1040,  45.382280, -74.041650,5,72876,0
+72878,Ouimet / Briand,  45.398211, -74.041397,5,72878,0
+72879,Briand / Ouimet,  45.398297, -74.041483,5,72879,0
+72880,Ouimet / Briand,  45.398230, -74.041582,5,72880,0
+72881,8e Avenue / devant le #185,  45.380494, -74.030207,5,72881,0
+72882,8e Avenue / devant le #192,  45.380549, -74.030630,5,72882,0
+72883,Marier / Bellini,  45.382738, -74.039463,5,72883,0
+72884,Marier / Beethoven,  45.382603, -74.039574,5,72884,0
+72885,Marier / André-Chartrand,  45.383357, -74.038079,5,72885,0
+72886,Marier / André-Chartrand,  45.383069, -74.038562,5,72886,0
+72887,Marier / des Tilleuls,  45.384411, -74.032351,5,72887,0
+72888,Marier / des Merisiers,  45.384263, -74.032433,5,72888,0
+72889,Marier / des Noisetiers,  45.384742, -74.029990,5,72889,0
+72890,Marier / des Noisetiers,  45.384635, -74.030188,5,72890,0
+72891,Marier / des Merisiers,  45.384857, -74.027026,5,72891,0
+72892,Marier / des Merisiers,  45.384771, -74.027207,5,72892,0
+72893,2e Avenue / Marier,  45.384963, -74.023977,5,72893,0
+72894,Marier / 2e Avenue,  45.384998, -74.024110,5,72894,0
+72895,Pinault / Ouimet,  45.399610, -74.044816,5,72895,0
+72896,Ouimet / Pinault,  45.399682, -74.044704,5,72896,0
+72897,Valois / Loyola-Schmidt,  45.373349, -74.039649,5,72897,0
+72898,Valois / Loyola-Schmidt,  45.373596, -74.039456,5,72898,0
+72899,Harwood / devant la Caisse Desjardins,  45.382874, -74.011792,5,72899,0
+72901,F.-X.-Tessier  / face au #4000,  45.409483, -74.062001,5,72901,0
+72902,F.-X.-Tessier  / devant le #4000,  45.409359, -74.062259,5,72902,0
+72903,de la Cité-des-Jeunes / devant le Holiday Inn,  45.412496, -74.030799,5,72903,0
+72904,de la Cité-des-Jeunes / devant le #21,  45.414706, -74.025231,5,72904,0
+72905,rue Becs-Scie / face au passage piétonnier,  45.411966, -74.020406,5,72905,0
+72906,Saint-Charles / Sainte-Angélique,  45.399995, -74.027187,5,72906,0
+72907,Saint-Charles / Sainte-Angélique,  45.399992, -74.027196,5,72907,0
+72908,Saint-Charles / Sainte-Angélique,  45.399792, -74.027349,5,72908,0
+72909,Dutrisac / Saint-Charles,  45.406245, -74.032521,5,72909,0
+72910,Dutrisac / Saint-Charles,  45.406362, -74.032550,5,72910,0
+72911,Boileau / Forbes,  45.400309, -74.047290,5,72911,0
+72912,Forbes / Boileau,  45.400377, -74.047098,5,72912,0
+72913,Boileau / Forbes,  45.400498, -74.047095,5,72913,0
+72914,de la Cité-des-Jeunes / devant l'Équipeur,  45.406157, -74.037366,5,72914,0
+72915,F.-X.-Tessier  / face au #3825,  45.410418, -74.056276,5,72915,0
+72916,F.-X.-Tessier  / devant le #3825,  45.410567, -74.056407,5,72916,0
+72917,de la Fabrique / devant l'École Papillon-Bleu,  45.383959, -74.012260,5,72917,0
+72918,Larivée / Marquis,  45.416662, -74.055937,5,72918,0
+72919,Larivée / Marquis,  45.416647, -74.056161,5,72919,0
+72920,Chicoine / Rang Saint-Antoine,  45.365534, -74.035577,5,72920,0
+72921,Rang Saint-Antoine / Chicoine,  45.365492, -74.035774,5,72921,0
+72922,Valois / 4e Avenue,  45.380504, -74.024549,5,72922,0
+72923,Valois / 4e Avenue,  45.380671, -74.024509,5,72923,0
+72924,4e Avenue / Valois,  45.380643, -74.024689,5,72924,0
+72925,4e Avenue / Valois,  45.380678, -74.024512,5,72925,0
+72926,Rang Saint-Antoine / Harwood,  45.369632, -74.039610,5,72926,0
+72927,Rang Saint-Antoine / Harwood,  45.369580, -74.039727,5,72927,0
+72928,Durocher / Bourget,  45.401068, -74.034421,5,72928,0
+72929,Bourget / Durocher,  45.401155, -74.034373,5,72929,0
+72930,Bourget / Durocher,  45.401154, -74.034370,5,72930,0
+72931,Briand / Lartigue,  45.401015, -74.038578,5,72931,0
+72932,Briand / Lartigue,  45.401112, -74.038528,5,72932,0
+72933,Valois / 2e Avenue,  45.382042, -74.021456,5,72933,0
+72934,Valois / 2e Avenue,  45.382124, -74.021534,5,72934,0
+72935,Valois / 2e Avenue,  45.382178, -74.021405,5,72935,0
+72936,2e Avenue / Valois,  45.382145, -74.021551,5,72936,0
+72937,de la Cité-des-Jeunes / Briand,  45.401760, -74.036665,5,72937,0
+72938,de la Cité-des-Jeunes / Briand,  45.401793, -74.037082,5,72938,0
+72939,des Floralies / des Lys,  45.389822, -74.031999,5,72939,0
+72940,des Floralies / des Iris,  45.390511, -74.033567,5,72940,0
+72941,des Floralies / des Perce-Neige,  45.391053, -74.035690,5,72941,0
+72942,des Floralies / de la Cité-des-Jeunes,  45.392201, -74.038418,5,72942,0
+72943,de la Cité-des-Jeunes / des Floralies,  45.392157, -74.038528,5,72943,0
+72944,de la Cité-des-Jeunes / Marc-Aurèle-Fortin,  45.393486, -74.035642,5,72944,0
+72945,de la Cité-des-Jeunes / Marc-Aurèle-Fortin,  45.393771, -74.035387,5,72945,0
+72946,Gare Dorion,  45.386603, -74.008327,5,72946,0
+72947,Ouimet / Isabelle,  45.397128, -74.038912,5,72947,0
+72948,Ouimet / Isabelle,  45.397173, -74.039334,5,72948,0
+72949,des Pivoines / des Narcisses,  45.387930, -74.027836,5,72949,0
+72950,des Pivoines / devant le #2623,  45.388500, -74.029389,5,72950,0
+72951,Briand / Bastien,  45.400144, -74.039709,5,72951,0
+72952,Briand / Bastien,  45.400230, -74.039706,5,72952,0
+72953,Boul. Perrot / Boul. Saint-Joseph,  45.388972, -73.922640,4,72953,0
+72954,Virginie-Roy / Pasteur,  45.384316, -73.926683,4,72954,0
+72955,Virginie-Roy / de la Rivelaine,  45.385098, -73.934663,4,72955,0
+72956,25e Avenue / Boischatel,  45.386297, -73.949179,4,72956,0
+72957,25e Avenue / des Érables,  45.389594, -73.947469,4,72957,0
+72958,Virginie-Roy /  Perrier,  45.384374, -73.927896,4,72958,0
+72960,de la Gare / devant le Onze de la Gare,  45.403405, -74.046511,5,72960,1
+72961,de la Gare / face au Onze de la Gare,  45.403856, -74.046632,5,72961,1
+72962,3e Avenue / 42e Avenue,  45.359297, -73.979419,4,72962,1
+72963,3e Avenue / 42e Avenue,  45.358953, -73.979570,4,72963,1
+72966,Émile-Bouchard / Phil-Goyette,  45.394639, -74.051186,5,72966,1
+72967,Émile-Bouchard / Phil-Goyette,  45.394628, -74.051729,5,72967,1
+72968,Saint-Charles / Joseph-Carrier,  45.411676, -74.039125,5,72968,1
+72969,Virginie-Roy / Saint-Joseph,  45.383685, -73.925291,4,72969,1
+72970,Harwood / du Meunier,  45.371478, -74.035970,5,72970,0
+72971,Harwood / du Meunier,  45.371290, -74.036099,5,72971,0
+72972,Harwood / du Meunier,  45.373012, -74.032444,5,72972,0
+72973,Harwood / Harwood,  45.373202, -74.032319,5,72973,0
+72975,1e Boulevard / 7e Avenue,  45.392249, -73.989347,,72975,1
+72977,Cameron / Cavagnal,  45.448425, -74.147586,6,72977,1
+72978,Terminus Vaudreuil Quai 2,  45.399193, -74.050852,5,72978,1
+72979,Terminus Vaudreuil Quai 3,  45.399364, -74.051203,5,72979,1
+72980,Terminus Vaudreuil Quai 4,  45.399477, -74.051468,5,72980,1
+72981,Terminus Vaudreuil Quai 5,  45.399629, -74.051754,5,72981,1
+72982,Terminus Vaudreuil Quai 6,  45.400057, -74.051520,5,72982,1
+72983,Terminus Vaudreuil Quai 7,  45.399957, -74.051321,5,72983,1
+72984,Terminus Vaudreuil Quai 8,  45.399819, -74.051022,5,72984,1
+72985,Terminus Vaudreuil Quai 9,  45.399691, -74.050763,5,72985,1
+72986,Terminus Vaudreuil Quai 10,  45.399545, -74.050431,5,72986,1
+72987,Terminus Vaudreuil Quai 11,  45.399756, -74.050870,5,72987,1
+72988,Terminus Vaudreuil Quai 12,  45.399895, -74.051171,5,72988,1
+72989,Terminus Vaudreuil Quai 13,  45.400032, -74.051448,5,72989,1
+72990,Cégep Gérald-Godin,  45.483439, -73.868561,3,72990,1
+72991,Saint-Jean / Shakespeare,  45.480223, -73.842243,3,72991,1
+72992,Saint-Jean / Roger-Pilon,  45.480163, -73.841698,3,72992,1
+72993,Dumberry / Besner,  45.415758, -74.037677,5,72993,1
+72994,Dumberry / Besner,  45.415665, -74.037887,5,72994,1
+72995,44e Avenue / 2e Boulevard,  45.357896, -73.976632,5,72995,1
+72996,44e Avenue / 2e Boulevard,  45.357754, -73.976428,5,72996,1
+72997,Gare Île-Perrot Quai 2,  45.396066, -73.963786,4,72997,1
+72998,Gare Île-Perrot Quai 1,  45.396030, -73.963836,4,72998,1

@@ -1,0 +1,15 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,MRCLASSO,1,Repentigny secteur Nord - Cégep,3,1F1F1F,FFFFFF
+100,MRCLASSO,100,L'Assomption-Repentigny-Charlemagne-Montréal,3,1F1F1F,FFFFFF
+11,MRCLASSO,11,Repentigny secteur Le Gardeur - Cégep,3,1F1F1F,FFFFFF
+14,MRCLASSO,14,L'Assomption - Repentigny-Le Gardeur - Charlemagne,3,1F1F1F,FFFFFF
+15,MRCLASSO,15,Repentigny secteur sud (rue Notre-Dame),3,1F1F1F,FFFFFF
+2,MRCLASSO,2,Repentigny - Saint-Sulpice - Lavaltrie,3,1F1F1F,FFFFFF
+200,MRCLASSO,200,Express Repentigny - Montréal,3,1F1F1F,FFFFFF
+300,MRCLASSO,300,Repentigny - Montréal via Notre-Dame,3,1F1F1F,FFFFFF
+400,MRCLASSO,400,Repentigny - Montréal via Sherbrooke,3,1F1F1F,FFFFFF
+5,MRCLASSO,5,Navette gare Repentigny,3,1F1F1F,FFFFFF
+6,MRCLASSO,6,L'Épiphanie - L'Assomption,3,1F1F1F,FFFFFF
+8,MRCLASSO,8,Repentigny secteur Centre - Cégep,3,1F1F1F,FFFFFF
+9,MRCLASSO,9,Charlemagne - CHPLG - Terrebonne,3,1F1F1F,FFFFFF
+T3,MRCLASSO,T3,Taxibus-Repentigny-de la Savane (sur réservation),1501,1F1F1F,FFFFFF

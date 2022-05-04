@@ -1,0 +1,428 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+74464,Terminus Panama temporaire Quai 11,  45.466050, -73.470511,3,74464,1
+74529,Robert-Bourassa / William,  45.497412, -73.558424,1,74529,0
+74550,Terminus Panama temporaire Quai 14,  45.465687, -73.470234,3,74550,0
+74701,Robert-Bourassa / Ottawa,  45.496329, -73.557851,1,74701,0
+75001,ch. St-Jean / boul. de Palerme,  45.408960, -73.473001,4,75001,1
+75002,ch. St-Jean / boul. des Champs-Fleuris,  45.408893, -73.472333,4,75002,1
+75003,avenue de la Belle-Dame / rue du Vice-Roi II,  45.402074, -73.466463,4,75003,1
+75004,avenue de la Belle-Dame / rue du Vice-Roi II,  45.401849, -73.466363,4,75004,1
+75005,boul. Taschereau devant le #1000,  45.407371, -73.497422,4,75005,1
+75006,Taschereau / Matte,  45.435278, -73.475778,3,75006,1
+75007,Taschereau / Matte,  45.434185, -73.477394,3,75007,1
+75010,Matte / Illinois,  45.431654, -73.467789,,75010,1
+75011,Matte / civique 3700,  45.430232, -73.462876,3,75011,1
+75012,Matte / civique 3900,  45.428370, -73.458857,3,75012,1
+75013,du Quartier / Place de Java,  45.429352, -73.454987,3,75013,1
+75017,Taschereau / de Rome,  45.454576, -73.465740,3,75017,0
+75018,Taschereau / de Rome,  45.454858, -73.465159,3,75018,0
+75020,De Gaulle Sud / Perrier,  45.369181, -73.489874,5,75020,0
+75021,des Ormes Ouest / Édouard-VII,  45.358415, -73.478541,5,75021,0
+75022,De Gaulle Sud / Perrier,  45.369014, -73.489764,5,75022,0
+75023,Leduc / Allée de la Place,  45.440838, -73.438822,3,75023,1
+75025,Granger / des Ormes Ouest,  45.357291, -73.478440,5,75025,0
+75026,Granger / Mercier,  45.356122, -73.480509,5,75026,0
+75027,Mercier / Granger,  45.355968, -73.480407,5,75027,0
+75028,Granger / des Ormes Ouest,  45.357377, -73.478278,5,75028,0
+75029,des Ormes Ouest / Édouard-VII,  45.358288, -73.478194,5,75029,0
+75030,Terminus Longueuil porte 23,  45.523610, -73.522245,3,75030,0
+75031,Cégep Édouard-Montpetit,  45.536625, -73.495638,3,75031,0
+75032,Terminus Panama temporaire Quai 14,  45.465765, -73.469865,3,75032,0
+75033,Leduc / Allée Dix30,  45.442046, -73.437240,3,75033,1
+75034,Leduc / Allée des Lumières,  45.443885, -73.437194,3,75034,1
+75035,Cégep Édouard-Montpetit,  45.536801, -73.495870,3,75035,0
+75037,de Chambly / Saint-Charles Ouest,  45.540544, -73.507864,3,75037,0
+75038,de Chambly / Saint-Charles Est,  45.540865, -73.507986,3,75038,0
+75039,Roland-Therrien / d'Auteuil,  45.548627, -73.495801,3,75039,0
+75040,Roland-Therrien / d'Auteuil,  45.547697, -73.495263,3,75040,0
+75041,Saint-François-Xavier / Place Mercier,  45.396782, -73.529697,5,75041,0
+75042,Terminus Panama temporaire Quai 14,  45.465723, -73.470149,3,75042,0
+75043,ch. St-José / avenue Augustin,  45.391694, -73.495714,4,75043,0
+75044,du Quartier / Allée Dix30,  45.443112, -73.439878,3,75044,1
+75045,de Jaffa / Champlain,  45.392471, -73.528123,5,75045,0
+75046,Saint-François-Xavier / de Jaffa,  45.391856, -73.532795,5,75046,0
+75047,de la Gatineau / Saint-François-Xavier,  45.386882, -73.532502,5,75047,0
+75048,de la Gatineau / de Genève,  45.386776, -73.530187,5,75048,0
+75049,de Genève / Haendel,  45.382650, -73.527460,5,75049,0
+75050,du Quartier / de Rome,  45.440813, -73.442343,3,75050,1
+75051,Montcalm Sud / de Barcelone,  45.390189, -73.512817,5,75051,0
+75052,Montcalm Sud / d'Auteuil,  45.387629, -73.507759,5,75052,0
+75053,Papineau / de Picardie,  45.399471, -73.505890,5,75053,0
+75055,Montcalm Sud / devant le Centre Frank-Vocino,  45.390772, -73.513285,5,75055,0
+75056,d'Auteuil / d'Anjou,  45.389371, -73.504600,5,75056,0
+75057,boul. de l'Industrie / rue Léon-Bloy ouest,  45.403524, -73.507927,4,75057,0
+75058,d'Auteuil / devant le Club de Golf Candiac,  45.389909, -73.501432,5,75058,0
+75059,Montcalm Sud / Place Berlioz,  45.385247, -73.506330,5,75059,0
+75060,Haendel / Place Halifax (2),  45.389156, -73.518377,5,75060,0
+75061,de l'Industrie / d'Ibéria,  45.397528, -73.509177,5,75061,0
+75062,de l'Industrie / d'Ibéria,  45.397799, -73.509225,5,75062,0
+75063,Jean-Leman / de Bercy,  45.382375, -73.511447,5,75063,0
+75064,Jean-Leman / devant le #54,  45.381676, -73.509818,5,75064,0
+75065,de Barcelone / de Bercy,  45.384297, -73.513260,5,75065,0
+75066,de Barcelone / Place de Bohême,  45.386277, -73.513963,5,75066,0
+75067,d'Auteuil / d'Adélaïde,  45.390087, -73.499151,5,75067,0
+75068,Montcalm Sud / Asselin (2),  45.382780, -73.506296,5,75068,0
+75069,d'Auteuil / Augustin,  45.391457, -73.495720,5,75069,0
+75070,d'Auteuil / Montcalm Sud,  45.387772, -73.507700,5,75070,0
+75072,de Jaffa / Jackson,  45.392600, -73.529816,5,75072,0
+75073,Saint-François-Xavier / de Monaco,  45.390339, -73.532728,5,75073,0
+75074,de Genève / Goethe,  45.385225, -73.529734,5,75074,0
+75076,Haendel / devant le Complexe Roméo-V.-Patenaude,  45.384102, -73.524806,5,75076,0
+75077,du Quartier / Place de Java,  45.429638, -73.455021,3,75077,1
+75078,de l'Industrie / face au #172,  45.394647, -73.511799,5,75078,0
+75079,de l'Industrie / devant le #170,  45.394759, -73.511961,5,75079,0
+75080,Matte / Civique 4105,  45.428722, -73.458977,3,75080,1
+75081,d'Auteuil / face au Club de Golf Candiac,  45.390032, -73.501464,5,75081,0
+75082,d'Auteuil / d'Adélaïde,  45.390236, -73.498900,5,75082,0
+75083,Place de Chambord / Jean-Leman,  45.380539, -73.507790,5,75083,0
+75084,Jean-Leman / Montcalm Sud,  45.380910, -73.508213,5,75084,0
+75085,d'Auteuil / d'Anjou,  45.389619, -73.504348,5,75085,0
+75086,Matte / Civique 3755,  45.430490, -73.463183,3,75086,1
+75088,de Barcelone / Place de Bretagne,  45.388292, -73.513535,5,75088,0
+75089,Montcalm Nord / face à l'Hôtel de Ville,  45.394824, -73.518423,5,75089,0
+75090,Montcalm Nord / face au #108,  45.396910, -73.519981,5,75090,0
+75091,Montcalm Nord / d'Inverness,  45.398579, -73.521364,5,75091,0
+75092,Champlain / Place Jason,  45.395176, -73.528301,5,75092,0
+75094,Jean-Leman / de Barcelone,  45.382625, -73.513270,5,75094,0
+75096,Place de Chambord / Champagne,  45.379199, -73.508854,5,75096,0
+75097,du Dauphiné / Jean-Leman,  45.378597, -73.503635,5,75097,0
+75101,de Barcelone / Montcalm Sud,  45.390024, -73.512548,5,75101,0
+75103,de l'Industrie / Montcalm Nord,  45.392173, -73.515011,5,75103,0
+75104,de l'Industrie / Montcalm Nord,  45.392263, -73.515121,5,75104,0
+75106,Montcalm Nord / Marie-Victorin,  45.400104, -73.523124,5,75106,0
+75108,Saint-François-Xavier / Marie-Victorin,  45.398179, -73.527275,5,75108,0
+75110,rue Perras / rue du Parc-des-Érables,  45.406017, -73.469751,4,75110,0
+75111,rue du Parc-des-Érables / rue de la Providence,  45.406933, -73.471319,4,75111,0
+75112,rue du Parc-des-Érables / boul. de Palerme,  45.407885, -73.473396,4,75112,0
+75115,boul. des Champs-Fleuris / rue Mirabel,  45.413609, -73.467745,4,75115,0
+75116,boul. des Champs-Fleuris / rue Mirabel,  45.413461, -73.467787,4,75116,0
+75117,boul. des Champs-Fleuris / rue de l'Iris,  45.414309, -73.465694,4,75117,0
+75118,boul. des Champs-Fleuris / rue de l'Iris,  45.414099, -73.465856,4,75118,0
+75119,boul. de la Magdeleine / boul. des Champs-Fleuris,  45.414814, -73.464198,4,75119,0
+75120,boul. des Champs-Fleuris / boul. de la Magdeleine,  45.414676, -73.464174,4,75120,0
+75121,boul. de la Magdeleine / rue des Goélands,  45.417026, -73.466339,4,75121,0
+75122,boul. de la Magdeleine / rue des Goélands,  45.416809, -73.466585,4,75122,0
+75123,boul. de la Magdeleine / rue des Violettes,  45.416417, -73.468967,4,75123,0
+75124,boul. de la Magdeleine / rue des Violettes,  45.416163, -73.468989,4,75124,0
+75125,boul. de la Magdeleine / boul. des Prés-Verts,  45.415409, -73.471982,4,75125,0
+75126,boul. de la Magdeleine / boul. des Prés-Verts,  45.415104, -73.472172,4,75126,0
+75129,boul. de la Magdeleine / rue du Muguet,  45.414429, -73.474882,4,75129,0
+75130,boul. de la Magdeleine / rue du Muguet,  45.414174, -73.474931,4,75130,0
+75131,ch. St-Jean / boul. de la Mennais,  45.413765, -73.482865,4,75131,0
+75132,ch. St-Jean / boul. de la Mennais,  45.413502, -73.482659,4,75132,0
+75133,ch. St-Jean / avenue du Maire,  45.414783, -73.484935,4,75133,0
+75134,ch. St-Jean / avenue du Maire,  45.414871, -73.485502,4,75134,0
+75135,avenue du Maire / rue Ernest-Rochette,  45.417033, -73.475401,4,75135,0
+75136,rue Ernest-Rochette / rue Francois-Le-Ber,  45.418458, -73.478400,4,75136,0
+75137,rue Ernest-Rochette / rue Patrick-McGee,  45.417108, -73.482044,4,75137,0
+75138,rue Ernest-Rochette / place Alexandre,  45.417653, -73.485595,4,75138,0
+75140,Stationnement incitatif La Prairie Quai 1,  45.426265, -73.481250,4,75140,0
+75141,ch. St-Jean / ch. de la Bataille,  45.389333, -73.403692,5,75141,0
+75149,boul. Taschereau / rue St-Henri,  45.413980, -73.490956,4,75149,0
+75150,rue Notre-Dame / rue St-Henri,  45.415604, -73.494666,4,75150,0
+75152,boul. Taschereau / rue Dufort,  45.410016, -73.495115,4,75152,0
+75154,rue Notre-Dame / rue St-Henri,  45.415545, -73.494960,4,75154,0
+75155,rue Notre-Dame / rue St-Charles,  45.416881, -73.493398,4,75155,0
+75156,boul. Salaberry / boul. Taschereau,  45.407909, -73.497939,4,75156,0
+75157,boul. Salaberry / rue Desjardins,  45.408203, -73.502499,4,75157,0
+75158,boul. Salaberry / rue Desjardins,  45.408081, -73.502681,4,75158,0
+75159,ch. St-Jean / rang St-Raphaël,  45.394026, -73.429066,5,75159,0
+75160,rue Notre-Dame / rue St-Charles,  45.417074, -73.493444,4,75160,0
+75161,boul. de l'Industrie / boul. Salaberry,  45.408159, -73.506376,4,75161,0
+75162,boul. de l'Industrie / boul. Salaberry,  45.408112, -73.506606,4,75162,0
+75163,rue Longtin / rue Houde,  45.411478, -73.495053,4,75163,0
+75165,ch. St-José / boul. Pompidou,  45.393203, -73.493853,4,75165,0
+75166,rue Longtin / rue Houde,  45.411518, -73.494778,4,75166,0
+75167,boul. Taschereau / rue Longtin,  45.411264, -73.493940,4,75167,0
+75168,boul. Taschereau / rue Longtin,  45.410916, -73.493781,4,75168,0
+75169,rue Longtin / rue Notre-Dame,  45.412811, -73.497248,4,75169,0
+75170,rue Notre-Dame / rue Longtin,  45.412806, -73.497529,4,75170,0
+75171,ch. St-Jean / boul. Taschereau,  45.416198, -73.487765,4,75171,0
+75172,ch. St-Jean / boul. Taschereau,  45.416268, -73.488465,4,75172,0
+75174,boul. Taschereau / ch. St-Jean,  45.416337, -73.488726,4,75174,0
+75175,boul. Taschereau / ch. St-Jean,  45.416726, -73.488795,4,75175,0
+75177,Voie de service 15-132 / boul. Salaberry,  45.408161, -73.505312,4,75177,0
+75180,boul. Taschereau / avenue Balmoral,  45.420216, -73.486280,4,75180,0
+75181,boul. Taschereau / avenue Balmoral,  45.420532, -73.485604,4,75181,0
+75182,rue Notre-Dame / ch. St-Jean,  45.418245, -73.492122,4,75182,0
+75183,avenue Balmoral / rue Notre-Dame,  45.421016, -73.490290,4,75183,0
+75184,rue Bernier / rue Industrielle,  45.400589, -73.496766,4,75184,0
+75185,avenue du Maire / rue P.-É.-Lamarche,  45.416043, -73.479488,4,75185,0
+75186,boul. des Champs-Fleuris / ch. St-Jean,  45.409381, -73.472056,4,75186,0
+75187,boul. des Champs-Fleuris / ch. St-Jean,  45.409420, -73.472415,4,75187,0
+75189,boul. de Palerme / ch. St-Jean,  45.408696, -73.473085,4,75189,0
+75191,boul. de Palerme / rue Pierre-Lefebvre,  45.407475, -73.474177,4,75191,0
+75192,rue Industrielle / rue Bernier,  45.400834, -73.496867,4,75192,0
+75193,ch. St-José / rue Industrielle,  45.403098, -73.494729,4,75193,0
+75194,boul. Taschereau / rue Conrad-Pelletier,  45.401865, -73.501445,4,75194,0
+75195,boul. Taschereau / rue Léon-Bloy est,  45.400899, -73.502674,4,75195,0
+75196,rue Bernier / ch. St-José,  45.398650, -73.492178,4,75196,0
+75198,boul. Taschereau / avenue Papineau,  45.398995, -73.505076,5,75198,0
+75200,ch. St-Jean / face aux Cours du Grand-Boisé,  45.406586, -73.467748,4,75200,0
+75201,ch. St-Jean / face au 1975,  45.406666, -73.467483,4,75201,0
+75202,rue Notre-Dame / ruelle des Glacières,  45.418485, -73.492142,4,75202,0
+75203,rue Industrielle / ch. St-José,  45.402948, -73.494618,4,75203,0
+75204,ch. St-José / rue Bernier,  45.398765, -73.492159,4,75204,0
+75205,ch. St-Jean / boul. de la Magdeleine,  45.411972, -73.478993,4,75205,0
+75206,boul. de la Magdeleine / ch. St-Jean,  45.412264, -73.479178,4,75206,0
+75207,ch. St-Jean / boul. de la Magdeleine,  45.411949, -73.479316,4,75207,0
+75208,boul. de la Magdeleine / ch. St-Jean,  45.412056, -73.478956,4,75208,0
+75211,boul. des Champs-Fleuris / boul. des Prés-Verts,  45.412533, -73.469809,4,75211,0
+75213,avenue Balmoral / rue Notre-Dame,  45.420905, -73.490435,4,75213,0
+75214,boul. Taschereau / rue St-Charles,  45.415487, -73.489959,4,75214,0
+75216,boul. Taschereau / rue St-Charles,  45.415175, -73.489829,4,75216,0
+75217,boul. Taschereau / rue Brossard,  45.412906, -73.492394,4,75217,0
+75218,boul. Taschereau / rue Brossard,  45.412664, -73.492187,4,75218,0
+75219,boul. Taschereau / rue Lavoie,  45.408878, -73.496152,4,75219,0
+75220,boul. Salaberry / rue Rouillier,  45.408087, -73.499878,4,75220,0
+75221,boul. Salaberry / rue Rouillier,  45.407947, -73.500102,4,75221,0
+75222,boul. de l'Industrie / rue Mayer,  45.405014, -73.507652,4,75222,0
+75223,rue Longtin / boul. Taschereau,  45.411083, -73.494113,4,75223,0
+75224,boul. de l'Industrie / rue Mayer,  45.405229, -73.507783,4,75224,0
+75226,ch. St-Jean / rue Abel,  45.410654, -73.476146,4,75226,0
+75227,ch. St-Jean / rue Abel,  45.410600, -73.476410,4,75227,0
+75228,boul. Salaberry / rue Houde,  45.408186, -73.504751,4,75228,0
+75230,boul. Salaberry / rue Houde,  45.408315, -73.504575,4,75230,0
+75231,rue Notre-Dame / face à piscine municipale,  45.414203, -73.495929,4,75231,0
+75232,rue Notre-Dame / face à piscine municipale,  45.414400, -73.496056,4,75232,0
+75234,avenue Balmoral / rue Bellevue,  45.423772, -73.488669,4,75234,0
+75235,avenue Balmoral / rue Beaulac,  45.424969, -73.485934,4,75235,0
+75236,avenue Balmoral / rue Beaulac,  45.425233, -73.486054,4,75236,0
+75237,ch. St-José / rue Léopold-Perron,  45.396639, -73.491682,4,75237,0
+75239,boul. St-José / boul. Salaberry,  45.407644, -73.503834,4,75239,0
+75241,boul. St-José / face à l'école La Magdeleine,  45.405894, -73.499864,4,75241,0
+75242,boul. de Palerme / rue Paradis,  45.405838, -73.474335,4,75242,0
+75243,voie de service 15-132 / rue Conrad-Pelletier,  45.404440, -73.507061,4,75243,0
+75244,boul. St-José / boul. Salaberry,  45.407912, -73.503566,4,75244,0
+75245,boul. St-José / boul. Taschereau,  45.405485, -73.497396,4,75245,0
+75246,boul. St-José / rue de la Commune,  45.406173, -73.499669,4,75246,0
+75247,avenue Balmoral / rue Beaumont,  45.423172, -73.491329,4,75247,0
+75248,avenue Balmoral / place Beausoleil,  45.423359, -73.491450,4,75248,0
+75249,avenue Balmoral / rue Beaumont,  45.423677, -73.489016,4,75249,0
+75251,De Palerme (arrêt suivant la rue Perron),  45.403000, -73.473488,4,75251,0
+75252,boul. de Palerme / rue Perras,  45.403783, -73.473740,4,75252,0
+75254,rue Perras / face au 115,  45.404724, -73.471429,4,75254,0
+75257,Gare Candiac,  45.360664, -73.514646,5,75257,0
+75258,de Ségovie / de Sardaigne,  45.370396, -73.508104,5,75258,0
+75259,de la Seine / Jean-Leman,  45.368580, -73.507026,5,75259,0
+75261,Terminus Centre-Ville Porte 15,  45.498082, -73.565996,1,75261,0
+75262,Terminus Mansfield (Mansfield/St-Antoine) - Quai 2,  45.498417, -73.564220,1,75262,0
+75263,Terminus Centre-Ville Porte 14,  45.498109, -73.565956,1,75263,0
+75265,Sanguinet / Édouard-VII,  45.370260, -73.483675,5,75265,0
+75266,Sanguinet / des Catalpas,  45.374625, -73.494722,5,75266,0
+75267,Sanguinet / des Catalpas,  45.374578, -73.494867,5,75267,0
+75268,Sanguinet / des Aubépines,  45.373133, -73.491853,5,75268,0
+75269,Sanguinet / des Aubépines,  45.373125, -73.492108,5,75269,0
+75270,Sanguinet / Jean,  45.372566, -73.490815,5,75270,0
+75271,Sanguinet / Stéphane,  45.372536, -73.490983,5,75271,0
+75272,Édouard-VII / Sanguinet,  45.370206, -73.483121,5,75272,0
+75273,Perron / Lavallée,  45.355977, -73.478850,5,75273,0
+75274,Perron / Lavallée,  45.355773, -73.478906,5,75274,0
+75275,Montée Saint-Claude / Rang Saint-Marc,  45.351266, -73.469411,5,75275,0
+75276,Rang Saint-Marc / Montée Saint-Claude,  45.351194, -73.469630,5,75276,0
+75277,Montée Saint-Claude / devant le #55,  45.352606, -73.466461,5,75277,0
+75278,Montée Saint-Claude / devant le #46,  45.352566, -73.466259,5,75278,0
+75279,Édouard-VII / de la Rive (2),  45.364319, -73.483110,5,75279,0
+75280,Édouard-VII / de la Rive (1),  45.364206, -73.482788,5,75280,0
+75281,De Gaulle Sud / José,  45.368090, -73.490285,5,75281,0
+75282,Édouard-VII / face à l'Église Saint-Philippe,  45.354008, -73.475063,5,75282,0
+75283,Édouard-VII / devant l'Église Saint-Philippe,  45.353956, -73.475278,5,75283,0
+75284,Édouard-VII / devant la Bibliothèque,  45.361222, -73.480721,5,75284,0
+75285,Édouard-VII / Croissant du Parc,  45.362150, -73.482178,5,75285,0
+75286,Benoît / Lucien,  45.373575, -73.477422,5,75286,0
+75287,Benoît / Lucien,  45.373478, -73.477285,5,75287,0
+75288,Édouard-VII / de la Rive (2),  45.365650, -73.483131,5,75288,0
+75289,Édouard-VII / de la Rive (1),  45.365872, -73.483485,5,75289,0
+75291,José / De Gaulle Sud,  45.367973, -73.490469,5,75291,0
+75292,Édouard-VII / Rang Saint-Joseph Nord,  45.380356, -73.479079,5,75292,0
+75293,Édouard-VII / Rang Saint-Joseph Nord,  45.380258, -73.478896,5,75293,0
+75294,Lucien / Édouard-VII,  45.375488, -73.481224,5,75294,0
+75295,Édouard-VII / Lucien,  45.375395, -73.481323,5,75295,0
+75296,Fourestier / Édouard-VII,  45.385170, -73.474573,5,75296,0
+75297,Perron / Édouard-VII,  45.356856, -73.476696,5,75297,0
+75298,Édouard-VII / Fourestier,  45.385069, -73.474499,5,75298,0
+75299,Édouard-VII / Montée Monette,  45.352849, -73.474228,5,75299,0
+75300,Édouard-VII / Montée Monette,  45.352817, -73.474392,5,75300,0
+75301,Édouard-VII / Perron,  45.356930, -73.476546,5,75301,0
+75303,Édouard-VII / des Noyers,  45.359759, -73.479322,5,75303,0
+75304,Édouard-VII / des Noyers,  45.359671, -73.479553,5,75304,0
+75305,Foucreault / devant le #80,  45.352577, -73.480070,5,75305,0
+75310,Édouard-VII / devant le #1775,  45.374138, -73.482949,5,75310,0
+75311,Édouard-VII / face au #1775,  45.374091, -73.483311,5,75311,0
+75317,Foucreault / face au #10,  45.353367, -73.478273,5,75317,0
+75318,Rang Saint-Marc / Montée Monette,  45.353222, -73.471356,5,75318,0
+75319,Montée Monette / Rang Saint-Marc,  45.353088, -73.471804,5,75319,0
+75320,Rathé / Montée Saint-Claude,  45.360311, -73.448141,5,75320,0
+75321,Montée Saint-Claude / Rathé,  45.360224, -73.448348,5,75321,0
+75322,Montée Saint-Claude / Saint-Pierre (1),  45.359700, -73.449836,5,75322,0
+75323,Montée Saint-Claude / Saint-Pierre (2),  45.359501, -73.449992,5,75323,0
+75324,Jean-Leman / Charlemagne,  45.375410, -73.504394,5,75324,0
+75325,Saint-Claude / Saint-Pierre,  45.358374, -73.453669,5,75325,0
+75326,Saint-Claude / Saint-Pierre,  45.358234, -73.453692,5,75326,0
+75327,Montée Saint-Claude / Fernande,  45.357293, -73.455853,5,75327,0
+75328,Montée Saint-Claude / Fernande,  45.357056, -73.456177,5,75328,0
+75329,Montée Saint-Claude / Hébert,  45.356008, -73.459189,5,75329,0
+75330,Montée Saint-Claude / Hébert,  45.355860, -73.459240,5,75330,0
+75331,Édouard-VII / Foucreault,  45.355025, -73.475440,5,75331,0
+75332,ch. St-Jean / ch. Fontarabie,  45.396739, -73.446624,5,75332,0
+75333,Édouard-VII / Foucreault,  45.354955, -73.475217,5,75333,0
+75334,ch. St-Jean / rang Lafrenière,  45.391507, -73.417276,5,75334,0
+75335,ch. St-Jean / rue Monette,  45.389907, -73.410766,5,75335,0
+75337,place Johanne / face au 7265,  45.387756, -73.391726,5,75337,0
+75338,place Johanne / face au 7355,  45.387232, -73.387583,5,75338,0
+75339,place Johanne / face au 7520,  45.386499, -73.389770,5,75339,0
+75340,ch. St-Jean / ch. Fontarabie,  45.396579, -73.446601,5,75340,0
+75341,ch. St-Jean / rang St-Raphaël,  45.393880, -73.429912,5,75341,0
+75342,ch. St-Jean / rang Lafrenière,  45.391394, -73.417300,5,75342,0
+75343,ch. St-Jean / rue Monette,  45.389819, -73.410929,5,75343,0
+75344,ch. St-Jean / ch. de la Bataille,  45.389248, -73.404097,5,75344,0
+75346,place Johanne / ch. St-Jean,  45.387584, -73.395642,5,75346,0
+75347,place Johanne / ch. St-Jean,  45.387587, -73.395479,5,75347,0
+75349,Haendel / des Flandres,  45.383919, -73.525047,5,75349,0
+75367,Paul-Gauguin / Liberté,  45.373149, -73.526418,5,75367,0
+75372,Jean-Leman / Montcalm Sud,  45.380763, -73.507804,5,75372,0
+75375,des Flandres / Frontenac,  45.382615, -73.521185,5,75375,0
+75376,Frontenac / des Flandres,  45.379505, -73.521552,5,75376,0
+75377,des Flandres / Fouquet,  45.378973, -73.524433,5,75377,0
+75378,Fouquet / Flaubert,  45.380531, -73.525681,5,75378,0
+75379,Fouquet / des Flandres,  45.382720, -73.523128,5,75379,0
+75380,Saint-François-Xavier / Haendel,  45.384197, -73.534209,5,75380,0
+75384,Haendel / Georges,  45.380716, -73.530856,5,75384,0
+75385,Haendel / Georges,  45.380742, -73.531258,5,75385,0
+75386,Haendel / Saint-François-Xavier,  45.384299, -73.534088,5,75386,0
+75387,Paul-Gauguin / devant le #20,  45.376438, -73.529747,5,75387,0
+75388,rue Rosaire-Circé / place Dancose,  45.415757, -73.484641,4,75388,0
+75389,boul. de l'Industrie / rue Léon-Bloy,  45.403488, -73.508128,4,75389,0
+75390,rue Ernest-Rochette / rue Patrick-McGee,  45.416953, -73.482107,4,75390,0
+75391,rue Ernest-Rochette / rue Francois-Le-Ber,  45.418396, -73.478657,4,75391,0
+75392,rue Ernest-Rochette / avenue du Maire,  45.417211, -73.475380,4,75392,0
+75393,avenue du Maire / rue P.-É.-Lamarche,  45.416214, -73.479406,4,75393,0
+75394,avenue du Maire / rue Rosaire-Circe,  45.415326, -73.484668,4,75394,0
+75395,boul. des Champs-Fleuris / boul. des Prés-Verts,  45.412845, -73.469825,4,75395,0
+75396,boul. de Palerme / rue du Parc-des-Érables,  45.408000, -73.473709,4,75396,0
+75397,boul. de Palerme / rue Perron,  45.403035, -73.473505,4,75397,0
+75398,avenue de la Briqueterie / ch. St-José,  45.398772, -73.491986,4,75398,0
+75399,boul. Taschereau / rue Lavoie,  45.408598, -73.495889,4,75399,0
+75400,boul. Taschereau / rue Dufort,  45.409730, -73.494868,4,75400,0
+75402,boul. Taschereau / rue St-Henri,  45.414269, -73.491101,4,75402,0
+75403,Haendel / Place Halifax (1),  45.386324, -73.521527,5,75403,0
+75404,boul. Taschereau / boul. St-José,  45.406136, -73.498235,4,75404,0
+75405,avenue Jacques-Martin / rue Benoît-Charlebois I,  45.392013, -73.481703,4,75405,0
+75406,avenue Jacques-Martin / boul. Pompidou,  45.390053, -73.486357,4,75406,0
+75407,boul. Pompidou / rue du Périgord,  45.391151, -73.489580,4,75407,0
+75408,boul. Pompidou / ch. St-José,  45.393131, -73.493598,4,75408,0
+75409,ch. St-José / rue Samuel-de-Champlain,  45.396511, -73.491452,4,75409,0
+75410,avenue de la Briqueterie / rue de la Rose-des-Sabl,  45.399060, -73.489634,4,75410,0
+75411,avenue de la Briqueterie / rue de l'Argile,  45.397341, -73.486445,4,75411,0
+75413,rue Jean-Baptiste-Varin / rue Denise Lemaistre,  45.398774, -73.481237,4,75413,0
+75414,boul. de Palerme / rue Paradis,  45.405758, -73.473968,4,75414,0
+75415,boul. de Palerme / rue du Parc-des-Érables,  45.407780, -73.473508,4,75415,0
+75416,boul. de Palerme / ch. St-Jean,  45.408809, -73.472569,4,75416,0
+75417,rue Jean-Baptiste-Varin / rue Denise-Lemaistre,  45.398978, -73.481276,4,75417,0
+75418,rue Jean-Baptiste-Varin / avenue de la Briqueterie,  45.396441, -73.483803,4,75418,0
+75419,avenue de la Briqueterie / rue de l'Argile,  45.397263, -73.486103,4,75419,0
+75421,boul. Pompidou / rue du Périgord,  45.391110, -73.489811,4,75421,0
+75423,avenue Jacques-Martin / rue Benoît-Charlebois I,  45.392000, -73.481170,4,75423,0
+75424,ch. St-José / boul. Pompidou,  45.392987, -73.493905,4,75424,0
+75425,ch. St-José / avenue de la Briqueterie,  45.398631, -73.491977,4,75425,0
+75430,avenue Jacques-Martin / rue Benoît-Charlebois II,  45.391887, -73.483669,4,75430,0
+75431,avenue Jacques-Martin / rue Benoît-Charlebois II,  45.391739, -73.483896,4,75431,0
+75432,boul. Pompidou / rue Perrier,  45.392001, -73.491265,4,75432,0
+75433,boul. Pompidou / rue Perrier,  45.391866, -73.491471,4,75433,0
+75434,avenue de la Briqueterie / rue de la Tadoussac,  45.396240, -73.483823,4,75434,0
+75435,avenue de la Briqueterie / rue de la Bélize,  45.399277, -73.489372,4,75435,0
+75436,boul. Pompidou / avenue Jacques-Martin,  45.389906, -73.486458,4,75436,0
+75437,avenue de la Briqueterie / ch. St-José,  45.398766, -73.491098,4,75437,0
+75438,Paul-Gauguin / Liberté,  45.375724, -73.530706,5,75438,0
+75439,Paul-Gauguin / Liberté,  45.373008, -73.526253,5,75439,0
+75440,Liberté / devant le #315,  45.370341, -73.521206,5,75440,0
+75441,Liberté / devant le #330,  45.370326, -73.520882,5,75441,0
+75442,Liberté / Radisson,  45.376565, -73.533002,5,75442,0
+75443,Liberté / Radisson,  45.376473, -73.532482,5,75443,0
+75444,Liberté / Saint-François-Xavier,  45.377833, -73.535574,5,75444,0
+75445,Liberté / Saint-François-Xavier,  45.378014, -73.535634,5,75445,0
+75446,Paul-Gauguin / Fouquet,  45.376021, -73.527914,5,75446,0
+75447,Paul-Gauguin / Fouquet,  45.376073, -73.527726,5,75447,0
+75448,Montcalm Sud / Jean-Leman,  45.380767, -73.507562,5,75448,0
+75449,Montcalm Sud / Asselin (2),  45.384629, -73.506050,5,75449,0
+75451,Montcalm Sud / Asselin (1),  45.382558, -73.506143,5,75451,0
+75453,Montcalm Sud / d'Auteuil,  45.387669, -73.507540,5,75453,0
+75455,de Barcelone / Place de Bohême,  45.386403, -73.514124,5,75455,0
+75457,de Barcelone / Place de Bretagne,  45.388436, -73.513694,5,75457,0
+75458,de Barcelone / Jean-Leman,  45.382726, -73.513488,5,75458,0
+75459,de Barcelone / Baffin,  45.384482, -73.513539,5,75459,0
+75460,Montcalm Sud / de Barcelone,  45.390147, -73.512447,5,75460,0
+75461,de l'Industrie / devant le #100,  45.402033, -73.508434,5,75461,1
+75467,boul. de Palerme / rue Pinsonneault,  45.402888, -73.473097,4,75467,0
+75469,rue Jean-Baptiste-Varin / boul. de Palerme,  45.400783, -73.475175,4,75469,0
+75470,boul. de Palerme / rue Jean-Baptiste-Varin,  45.400909, -73.475012,4,75470,0
+75471,rue Jean-Baptiste-Varin / rue Pierre-Falcon,  45.400251, -73.479581,4,75471,0
+75472,rue Jean-Baptiste-Varin / rue Pierre-Falcon,  45.399984, -73.479594,4,75472,0
+75473,Rue Longtin / Rue Notre-Dame,  45.412657, -73.497389,4,75473,0
+75474,boul. des Prés-Verts/rue de la Reine-des-Prés,  45.411336, -73.467511,4,75474,0
+75475,boul. des Prés-Verts/rue des Glaïeuls,  45.409186, -73.463350,4,75475,0
+75476,boul. des Prés Verts / feu de circulation,  45.406189, -73.463068,4,75476,0
+75477,Rue Saint-Henri / Rue Notre-Dame,  45.415746, -73.494762,4,75477,0
+75482,Place de Chambord / Calvin,  45.379884, -73.514105,5,75482,0
+75487,du Dauphiné / de Dijon,  45.377599, -73.500187,5,75487,0
+75489,de Deauville / Delacroix,  45.380691, -73.496718,5,75489,0
+75490,de Deauville / Duberger,  45.382893, -73.496170,5,75490,0
+75491,de Deauville / Dagobert,  45.384554, -73.493233,5,75491,0
+75492,de Deauville / de Douvrin,  45.383716, -73.489936,5,75492,0
+75493,de Deauville / de Domérat,  45.381105, -73.488785,5,75493,0
+75494,de Deauville / Duceppe,  45.380198, -73.492118,5,75494,0
+75495,de Deauville / du Danube,  45.382428, -73.487960,5,75495,0
+75496,de Deauville / Dozois,  45.378496, -73.495241,5,75496,0
+75498,de Dompierre / Jean-Leman,  45.377153, -73.503640,5,75498,0
+75500,Jean-Leman / Charlemagne,  45.375349, -73.504745,5,75500,0
+75502,Charlemagne / de Chantilly,  45.375557, -73.505708,5,75502,0
+75503,Jean-Leman / Champagne,  45.378559, -73.504315,5,75503,0
+75504,Jean-Leman / du Dauphiné,  45.378500, -73.503927,5,75504,0
+75508,Charlemagne / du Calvados,  45.376786, -73.509216,5,75508,0
+75510,Charlemagne / de Chablis,  45.377775, -73.514968,5,75510,0
+75512,Charlemagne / Place de Chambord,  45.381027, -73.513922,5,75512,0
+75514,de Dompierre / du Dauphiné,  45.376238, -73.497732,5,75514,0
+75518,de Dompierre / de Dijon,  45.376414, -73.501005,5,75518,0
+75520,Place de Chambord / devant le #58,  45.377622, -73.511586,5,75520,0
+75530,Jean-Leman / de Sardaigne,  45.370479, -73.506422,5,75530,0
+75531,Jean-Leman / de la Seine,  45.368902, -73.506870,5,75531,0
+75532,Jean-Leman / de Syracuse,  45.366983, -73.507513,5,75532,0
+75533,Jean-Leman / de Syracuse,  45.366864, -73.507384,5,75533,0
+75534,Jean-Leman / de la Seine,  45.368675, -73.506773,5,75534,0
+75535,Jean-Leman / de Sardaigne,  45.369932, -73.506304,5,75535,0
+75537,Place de Chambord / Jean-Leman,  45.382446, -73.513358,5,75537,0
+75538,Jean-Leman / de Bercy,  45.382279, -73.511684,5,75538,0
+75539,Jean-Leman / devant le #47,  45.381527, -73.509971,5,75539,0
+75550,boul. de Palerme / rue du Croissant-Perlé,  45.397012, -73.473386,4,75550,0
+75551,boul. de Palerme / avenue de la Belle-Dame,  45.396795, -73.470636,4,75551,0
+75552,avenue de la Belle-Dame / rue du Petit-Coliade,  45.398351, -73.469278,4,75552,0
+75553,avenue de la Belle-Dame / rue du Vice-Roi I,  45.400762, -73.467443,4,75553,0
+75560,de la Sarcelle / devant la SAQ,  45.372401, -73.509551,5,75560,0
+75561,de Strasbourg / face au Walmart,  45.370863, -73.513129,5,75561,0
+75562,de Strasbourg / devant le Costco,  45.370557, -73.515758,5,75562,0
+75563,de Sardaigne / de Strasbourg,  45.368936, -73.512052,5,75563,0
+75564,de Sardaigne / de Ségovie,  45.370398, -73.508183,5,75564,0
+75573,Rue Longtin / Rue Lamarre,  45.412628, -73.497680,4,75573,0
+75574,Rue Saint-Laurent / Rue Longtin,  45.413526, -73.499278,4,75574,0
+75575,Rue Saint-Laurent (Centre Guy-Dupré),  45.415208, -73.497781,4,75575,0
+75576,Rue Saint-Laurent / Rue Saint-Henri,  45.416507, -73.496615,4,75576,0
+75577,Rue Notre-Dame / Rue Saint-Henri,  45.415871, -73.494627,4,75577,0
+75578,rue Longtin / rue Saint-Laurent,  45.413421, -73.499113,4,75578,0
+75579,Rue Saint-Laurent / Opp. contre Guy-Dupré,  45.415119, -73.497642,4,75579,0
+75580,Rue Saint-Laurent / Rue Saint-Henri,  45.416486, -73.496396,4,75580,0
+75600,boul. de Palerme / rue du Croissant-Perlé,  45.397138, -73.473113,4,75600,0
+75601,avenue de la Belle-Dame / boul. de Palerme,  45.397017, -73.470542,4,75601,0
+75602,avenue de la Belle-Dame / rue du Monarque,  45.398500, -73.469342,4,75602,0
+75603,avenue de la Belle-Dame / rue du Damier-Argenté,  45.400923, -73.467495,4,75603,0
+75640,Stationnement Incitatif Candiac - Quai Taxi,  45.393444, -73.516703,5,75640,0
+75641,Stationnement Incitatif Candiac - Quai 1,  45.393390, -73.517084,5,75641,0
+75642,Stationnement Incitatif Candiac - Quai 2,  45.393408, -73.516909,5,75642,0
+75643,Stationnement Incitatif Candiac - Quai 3,  45.393426, -73.516712,5,75643,0
+75644,Stationnement Incitatif Candiac - Quai 4,  45.393456, -73.516439,5,75644,0
+75645,Stationnement Incitatif Candiac - Quai 5,  45.393491, -73.516224,5,75645,0
+75647,Stationnement incitatif La Prairie Quai 2,  45.426217, -73.481056,4,75647,1
+75648,Stationnement incitatif La Prairie Quai 3,  45.425881, -73.480795,4,75648,1
+75649,Stationnement incitatif La Prairie Quai 4,  45.425948, -73.480553,4,75649,1
+75650,Stationnement incitatif La Prairie Quai 5,  45.425880, -73.480308,4,75650,1
+75651,Stationnement Incitatif La Prairie - Quai Taxi,  45.426105, -73.480613,4,75651,1
+75652,Av Jean-Baptiste-Varin / Rue Médard-Hébert,  45.397672, -73.482877,4,75652,1

@@ -1,0 +1,89 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+100,CITLA,100,Saint-Jérôme - secteur Bellefeuille sud,3,1F1F1F,FFFFFF
+101,CITLA,101,Saint-Jérôme - secteur Saint-Antoine,3,1F1F1F,FFFFFF
+102,CITLA,102,Saint-Jérôme - secteur Lafontaine,3,1F1F1F,FFFFFF
+103,CITLA,103,Saint-Jérôme - secteur Centre,3,1F1F1F,FFFFFF
+105,CITLA,105,Saint-Jérôme - secteur Bellefeuille nord,3,1F1F1F,FFFFFF
+107,CITLA,107,Saint-Jérôme - Bellefeuille sud (Lajeunesse),3,1F1F1F,FFFFFF
+11,CITLA,11,Laval - Rosemère - Sainte-Thérèse,3,1F1F1F,FFFFFF
+12,CITLA,12,Bois-des-Filion - Gare Rosemère,3,1F1F1F,FFFFFF
+15,CITLA,15,Rosemère - Gare Rosemère,3,1F1F1F,FFFFFF
+17,CITLA,17,Terrebonne - Gare Rosemère,3,1F1F1F,FFFFFF
+20,CITLA,20,Terrebonne ouest - Gare Rosemère,3,1F1F1F,FFFFFF
+22,CITLA,22,Bois-des-Filion - Sainte-Thérèse,3,1F1F1F,FFFFFF
+2201,CITLA,2201,PST - Rosemère,3,1F1F1F,FFFFFF
+2202,CITLA,2202,PST - Rosemère,3,1F1F1F,FFFFFF
+2203,CITLA,2203,PST - Bois-des-Filion,3,1F1F1F,FFFFFF
+2204,CITLA,2204,RN - Rosemère,3,1F1F1F,FFFFFF
+23,CITLA,23,Sainte-Anne-des-Plaines - Sainte-Thérèse,3,1F1F1F,FFFFFF
+24,CITLA,24,Sainte-Anne-des-Plaines - Laval (métro Cartier),3,1F1F1F,FFFFFF
+27,CITLA,27,Lorraine - Sainte-Thérèse,3,1F1F1F,FFFFFF
+2701,CITLA,2701,PST - Loraine,3,1F1F1F,FFFFFF
+2702,CITLA,2702,RN - Bois-des-Filion,3,1F1F1F,FFFFFF
+2704,CITLA,2704,RN - Lorraine,3,1F1F1F,FFFFFF
+2706,CITLA,2706,RN - Lorraine,3,1F1F1F,FFFFFF
+2707,CITLA,2707,RN - Lorraine,3,1F1F1F,FFFFFF
+28,CITLA,28,Terrebonne - Laval (métro Cartier),3,1F1F1F,FFFFFF
+404,CITLA,404,Service Express Centre-Ville/Deux-Montagnes,3,1F1F1F,FFFFFF
+496,CITLA,496,Navette Deux-Montagnes - Sunnybrooke,3,1F1F1F,FFFFFF
+498,CITLA,498,St-Eustache - Ste-Dorothée - Centre-ville,3,1F1F1F,FFFFFF
+499,CITLA,499,Service Express Côte-Vertu / Deux-Montagnes,3,1F1F1F,FFFFFF
+5004,CITLA,5004,PST - Rosemère,3,1F1F1F,FFFFFF
+51,CITLA,51,Boisbriand Nord vers Boisbriand Sud,3,1F1F1F,FFFFFF
+5101,CITLA,5101,JJR - Boisbriand secteur Chateauneuf,3,1F1F1F,FFFFFF
+5102,CITLA,5102,JJR - Boisbriand secteur Chateauneuf,3,1F1F1F,FFFFFF
+52,CITLA,52,Boisbriand Sud vers Boisbriand Nord,3,1F1F1F,FFFFFF
+5201,CITLA,5201,JJR - Boisbriand secteur Curé-Boivin,3,1F1F1F,FFFFFF
+5202,CITLA,5202,JJR - Boisbriand secteur Curé-Boivin,3,1F1F1F,FFFFFF
+5203,CITLA,5203,RN - Sainte-Thérèse,3,1F1F1F,FFFFFF
+59,CITLA,59,Boisbriand - Laval (métro Montmorency),3,1F1F1F,FFFFFF
+5901,CITLA,5901,PST - Mirabel,3,1F1F1F,FFFFFF
+60,CITLA,60,Sainte-Thérèse,3,1F1F1F,FFFFFF
+6003,CITLA,6003,RN - Blainville - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6006,CITLA,6006,PST - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6007,CITLA,6007,PST - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6008,CITLA,6008,RN - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6009,CITLA,6009,RN - Blainville,3,1F1F1F,FFFFFF
+61,CITLA,61,Sainte-Thérèse - secteur Bas Sainte-Thérèse,3,1F1F1F,FFFFFF
+62,CITLA,62,Sainte-Thérèse - secteur des Mille-Îles,3,1F1F1F,FFFFFF
+6201,CITLA,6201,PST - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6202,CITLA,6202,PST - Sainte-Thérèse,3,1F1F1F,FFFFFF
+6203,CITLA,6203,PST - Sainte-Thérèse,3,1F1F1F,FFFFFF
+71,CITLA,71,Blainville - secteur est,3,1F1F1F,FFFFFF
+72,CITLA,72,Blainville - secteur ouest,3,1F1F1F,FFFFFF
+73,CITLA,73,Blainville - secteur Fontainebleau,3,1F1F1F,FFFFFF
+7301,CITLA,7301,PST - Blainville,3,1F1F1F,FFFFFF
+7302,CITLA,7302,PST - Rosemère - Blainville,3,1F1F1F,FFFFFF
+7303,CITLA,7303,PST - Blainville,3,1F1F1F,FFFFFF
+7304,CITLA,7304,RN - Blainville,3,1F1F1F,FFFFFF
+74,CITLA,74,Blainville - secteur Fontainebleau,3,1F1F1F,FFFFFF
+744,CITLA,744,Express d'Oka,3,1F1F1F,FFFFFF
+8,CITLA,8,Saint-Eustache - Laval (métro Montmorency),3,1F1F1F,FFFFFF
+80,CITLA,80,Saint-Eustache - Pointe-Calumet,3,1F1F1F,FFFFFF
+81,CITLA,81,Saint-Eustache - Pointe-Calumet,3,1F1F1F,FFFFFF
+88,CITLA,88,Saint-Eustache - Sainte-Thérèse,3,1F1F1F,FFFFFF
+89,CITLA,89,Saint-Eustache - secteur Dubois,3,1F1F1F,FFFFFF
+9,CITLA,9,Saint-Jérôme - Laval,3,1F1F1F,FFFFFF
+90,CITLA,90,Saint-Eustache - Arthur-Sauvé et Industriel,3,1F1F1F,FFFFFF
+904,CITLA,904,Gare Deux-Montagnes - Grand-Moulin,3,1F1F1F,FFFFFF
+91,CITLA,91,Saint-Eustache - secteur est (Saint-Laurent),3,1F1F1F,FFFFFF
+92,CITLA,92,Saint-Eustache - secteur centre,3,1F1F1F,FFFFFF
+93,CITLA,93,Saint-Eustache - Deux-Montagnes,3,1F1F1F,FFFFFF
+T100,CITLA,T100,Saint-Jérôme - Bellefeuille sud (sur réservation),1501,1F1F1F,FFFFFF
+T101,CITLA,T101,Saint-Jérôme - Saint-Antoine (sur réservation),1501,1F1F1F,FFFFFF
+T102,CITLA,T102,Saint-Jérôme - Lafontaine (sur réservation),1501,1F1F1F,FFFFFF
+T103,CITLA,T103,Saint-Jérôme - Centre (sur réservation),1501,1F1F1F,FFFFFF
+T105,CITLA,T105,Saint-Jérôme - Bellefeuille nord (sur réservation),1501,1F1F1F,FFFFFF
+T107,CITLA,T107,Saint-Jérôme - Bellefeuille sud (sur réservation),1501,1F1F1F,FFFFFF
+T12,CITLA,T12,Bois-des-Filion - Gare Rosemère (sur réservation),1501,1F1F1F,FFFFFF
+T15,CITLA,T15,Rosemère - Gare Rosemère (sur réservation),1501,1F1F1F,FFFFFF
+T17,CITLA,T17,Terrebonne - Gare Rosemère (sur réservation),1501,1F1F1F,FFFFFF
+T20,CITLA,T20,Terrebonne ouest - Gare Rosemère (sur réservation),1501,1F1F1F,FFFFFF
+T21,CITLA,T21,Taxibus - Institut Archambault,1501,1F1F1F,FFFFFF
+T23,CITLA,T23,Sainte-Anne-des-Plaines - Ste-Thérèse (réservation,1501,1F1F1F,FFFFFF
+T25,CITLA,T25,Ste-Anne-des-Plaines -Terrebonne (sur réservation),1501,1F1F1F,FFFFFF
+T53,CITLA,T53,Boisbriand S vers Boisbriand N (sur réservation),1501,1F1F1F,FFFFFF
+T60,CITLA,T60,Sainte-Thérèse (sur réservation),1501,1F1F1F,FFFFFF
+T71,CITLA,T71,Blainville - secteur est (sur réservation),1501,1F1F1F,FFFFFF
+T72,CITLA,T72,Blainville - secteur ouest (sur réservation),1501,1F1F1F,FFFFFF
+T74,CITLA,T74,Blainville - Fontainebleau (sur réservation),1501,1F1F1F,FFFFFF

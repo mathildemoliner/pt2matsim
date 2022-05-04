@@ -1,0 +1,822 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+84125,Montée des Pionniers / Pierre-Le Gardeur,  45.718186, -73.511228,5,84125,0
+84795,Saint-Charles / du Grand-Pic,  45.713298, -73.498420,5,84795,0
+84830,des Migrateurs / du Bruant,  45.716615, -73.503607,5,84830,0
+85016,Supercentre Walmart Lachenaie,  45.718156, -73.501804,5,85016,0
+85078,Terminus Radisson,  45.589483, -73.539382,2,85078,0
+85080,Montée des Pionniers / de la Croisée,  45.727750, -73.508365,5,85080,0
+85086,Hôpital Pierre-Le Gardeur,  45.723879, -73.508005,5,85086,0
+85087,Montée des Pionniers / Lucille-Teasdale,  45.726046, -73.508003,5,85087,0
+85089,Montée des Pionniers / Pierre-Laporte,  45.709948, -73.512333,5,85089,0
+85253,Montée des Pionniers / face au Costco,  45.721294, -73.508301,5,85253,0
+85776,Montée des Pionniers / des Fleurs,  45.712928, -73.512270,5,85776,0
+87000,de l'Ange-Gardien Nord / Pierrot Ouest,  45.855052, -73.435655,7,87000,0
+87001,Adhémar-Raynault / Éthier,  45.890843, -73.428881,7,87001,0
+87002,de l'Ange-Gardien Nord / de l'Anémone,  45.849919, -73.428636,7,87002,0
+87004,de l'Ange-Gardien Nord / Gilbert,  45.848345, -73.426498,7,87004,0
+87005,de l'Ange-Gardien Nord / Turgeon,  45.846518, -73.424023,7,87005,0
+87006,de l'Ange-Gardien Nord / Vaillant,  45.845270, -73.422311,7,87006,0
+87007,de l'Ange-Gardien Nord / Montreuil,  45.843580, -73.420021,7,87007,0
+87008,de l'Ange-Gardien Nord / Michel,  45.840776, -73.416201,7,87008,0
+87009,de l'Ange-Gardien Nord / Rang Point-du-Jour Nord,  45.839844, -73.414939,7,87009,0
+87010,de l'Ange-Gardien Nord / du Golf,  45.836761, -73.413703,7,87010,0
+87011,de l'Ange-Gardien / Barret,  45.834010, -73.416663,7,87011,0
+87012,de l'Ange-Gardien / Meilleur,  45.832200, -73.418482,7,87012,0
+87013,de l'Ange-Gardien / Dorval,  45.829668, -73.420903,7,87013,0
+87014,de l'Ange-Gardien / Notre-Dame,  45.826868, -73.424871,7,87014,0
+87015,de l'Ange-Gardien / face au Centre d'hébergement,  45.825219, -73.426097,7,87015,0
+87016,1251 rue Notre-Dame,  45.882915, -73.279097,8,87016,0
+87017,de l'Ange-Gardien / Forest,  45.822740, -73.430241,7,87017,0
+87018,de l'Ange-Gardien / Hector-Papin,  45.821494, -73.432652,7,87018,0
+87019,Thibodeau / Labonté,  45.899689, -73.425609,7,87019,0
+87020,Labonté / Paré,  45.901438, -73.427888,7,87020,0
+87021,Ouellet / Gareau,  45.901418, -73.429287,7,87021,0
+87022,Gareau / de l'Ange-Gardien Nord,  45.900421, -73.430948,7,87022,0
+87023,Saint-Étienne / de l'Ange-Gardien,  45.813489, -73.428251,7,87023,0
+87024,Saint-Étienne / de l'Ange-Gardien,  45.812077, -73.429752,7,87024,0
+87025,Rg du Bas-L'Assomption Nord / Mtée de l'Épiphanie,  45.807396, -73.435173,7,87025,0
+87026,Mtée de l'Épiphanie / Rg du Bas-L'Assomption Sud,  45.804475, -73.433237,6,87026,0
+87027,Louis-P.-Picard / devant l'École Félix-Leclerc,  45.791487, -73.410837,6,87027,0
+87028,Iberville / Jacques-Cousteau,  45.785369, -73.411029,6,87028,0
+87029,Iberville / Contrecoeur,  45.783347, -73.412869,6,87029,0
+87030,Iberville / Rembrandt,  45.782033, -73.414080,6,87030,0
+87031,Iberville / Philippe-Goulet,  45.779638, -73.416274,6,87031,0
+87032,Iberville / Noiseux,  45.777978, -73.417793,6,87032,0
+87033,Noiseux / de Navaronne,  45.778600, -73.420414,6,87033,0
+87034,Noiseux / de Norvège,  45.778227, -73.422725,6,87034,0
+87035,Noiseux / devant le civique #1057,  45.777853, -73.424807,6,87035,0
+87036,Noiseux / Néron,  45.776303, -73.426340,6,87036,0
+87037,Noiseux / Norbert,  45.774327, -73.427843,6,87037,0
+87038,Noiseux / Beauchesne,  45.772886, -73.427569,6,87038,0
+87039,Beauchesne / Sirois,  45.771811, -73.430994,6,87039,0
+87040,Beauchesne / Sorel,  45.770122, -73.432653,6,87040,0
+87041,Beauchesne / Sanguinet,  45.768976, -73.433700,6,87041,0
+87042,Beauchesne / Sinclair,  45.767179, -73.435325,6,87042,0
+87048,Basile-Routhier / de Toulouse,  45.779469, -73.435752,6,87048,0
+87049,Basile-Routhier / des Champs-Élysées,  45.776261, -73.439615,6,87049,0
+87050,Basile-Routhier / de Bruyères,  45.775112, -73.442898,6,87050,0
+87051,Basile-Routhier / De Coubertin,  45.773924, -73.444659,6,87051,0
+87052,Basile-Routhier / Delacroix,  45.772766, -73.445152,6,87052,0
+87053,Basile-Routhier / Baudelaire,  45.770793, -73.445091,6,87053,0
+87054,Basile-Routhier / Valmont,  45.768270, -73.445927,6,87054,0
+87055,Basile-Routhier / de Boisbriand,  45.765051, -73.447411,6,87055,0
+87056,Basile-Routhier / de Bécancour,  45.763586, -73.448146,6,87056,0
+87057,Basile-Routhier / Beaubien,  45.762442, -73.449719,6,87057,0
+87058,Basile-Routhier / Beaupré,  45.761419, -73.452315,6,87058,0
+87059,Basile-Routhier / Industriel,  45.759469, -73.454100,6,87059,0
+87060,Industriel / de L'Assomption,  45.759949, -73.455274,6,87060,0
+87061,de L'Assomption / de Percé,  45.755536, -73.458894,6,87061,0
+87062,de L'Assomption / Papineau,  45.754699, -73.460003,6,87062,0
+87063,de L'Assomption / Paradis,  45.753758, -73.460990,6,87063,0
+87064,de L'Assomption / de la Traverse,  45.752459, -73.462131,6,87064,0
+87065,de L'Assomption / Brien,  45.749801, -73.465061,5,87065,0
+87066,Brien / devant le CHSLD des Deux-Rives,  45.749053, -73.464731,5,87066,0
+87067,Brien / devant l'Aubainerie,  45.747931, -73.463141,5,87067,0
+87068,Brien / Marquis,  45.747172, -73.461640,5,87068,0
+87069,Leclerc / Brien,  45.744615, -73.454081,6,87069,0
+87071,Brien / Marquis,  45.747206, -73.461420,5,87071,0
+87072,de L'Assomption / de La Rochelle,  45.748471, -73.467410,5,87072,0
+87073,de La Rochelle / Lesage,  45.746274, -73.466726,5,87073,0
+87074,de La Rochelle / Gauthier,  45.744654, -73.468096,5,87074,0
+87075,de La Rochelle / Marquis,  45.742909, -73.469668,5,87075,0
+87076,de La Rochelle / Latour,  45.741710, -73.470720,5,87076,0
+87077,de La Rochelle / Lavigne,  45.740003, -73.471120,5,87077,0
+87078,de La Rochelle / Cherrier,  45.733477, -73.467942,5,87078,0
+87079,Cherrier / Leduc,  45.734127, -73.472953,5,87079,0
+87080,Champigny / De Gaulle,  45.733982, -73.475115,5,87080,0
+87081,Champigny / Lemieux,  45.732186, -73.475557,5,87081,0
+87082,Champigny / Colonia,  45.729758, -73.476205,5,87082,0
+87083,Champigny / Benjamin-Moreau,  45.728579, -73.475903,5,87083,0
+87084,Champigny / de La Rochelle,  45.727439, -73.473253,5,87084,0
+87085,de La Rochelle / Laforest,  45.725126, -73.475904,5,87085,0
+87086,de La Rochelle / Morel,  45.723693, -73.477532,5,87086,0
+87087,de La Rochelle / Mireault,  45.722620, -73.478702,5,87087,0
+87088,de La Rochelle / de L'Assomption,  45.721137, -73.479662,5,87088,0
+87089,de L'Assomption / Claude-David,  45.719651, -73.479919,5,87089,0
+87090,Brien / face au 225,  45.748313, -73.463501,5,87090,1
+87092,Iberville / Jacques-Plante,  45.787793, -73.408860,6,87092,0
+87095,des Rivières / de la Ouareau,  45.784128, -73.435200,6,87095,0
+87096,Basile-Routhier / des Outaouais,  45.782108, -73.433471,6,87096,0
+87098,des Rivières / de la Mingan,  45.785571, -73.437688,6,87098,0
+87100,Notre-Dame / Notre-Dame-des-Champs,  45.714858, -73.474550,5,87100,0
+87101,Notre-Dame-des-Champs / des Érables,  45.715397, -73.476009,5,87101,0
+87102,Notre-Dame-des-Champs / de L'Assomption,  45.717542, -73.480020,5,87102,0
+87103,de L'Assomption / de La Rochelle,  45.721019, -73.479678,5,87103,0
+87104,de La Rochelle / Mireault,  45.722468, -73.478613,5,87104,0
+87105,de La Rochelle / Morel,  45.723551, -73.477500,5,87105,0
+87106,de La Rochelle / Laforest,  45.724986, -73.475875,5,87106,0
+87107,de La Rochelle / Champigny,  45.727383, -73.473113,5,87107,0
+87108,Champigny / Benjamin-Moreau,  45.728598, -73.475674,5,87108,0
+87109,Champigny / Colonia,  45.729622, -73.476086,5,87109,0
+87110,Champigny / Lemieux,  45.732060, -73.475441,5,87110,0
+87111,Champigny / De Gaulle,  45.733834, -73.475000,5,87111,0
+87112,Cherrier / Leduc,  45.734060, -73.473151,5,87112,0
+87113,Cherrier / de La Rochelle,  45.733363, -73.469040,5,87113,0
+87114,de La Rochelle / Lavigne,  45.739905, -73.470937,5,87114,0
+87115,de La Rochelle / Latour,  45.741576, -73.470646,5,87115,0
+87116,de La Rochelle / Marquis,  45.742768, -73.469623,5,87116,0
+87117,de La Rochelle / Gauthier,  45.744517, -73.468050,5,87117,0
+87118,de La Rochelle / Lesage,  45.746140, -73.466640,5,87118,0
+87119,de La Rochelle / de L'Assomption,  45.748380, -73.467332,5,87119,0
+87120,de L'Assomption / Brien,  45.749392, -73.465423,5,87120,0
+87121,Brien / de L'Assomption,  45.749526, -73.465196,5,87121,0
+87122,de L'Assomption / de la Traverse,  45.752344, -73.462084,6,87122,0
+87123,de L'Assomption / Paradis,  45.753560, -73.461011,6,87123,0
+87124,de L'Assomption / Papineau,  45.754582, -73.459974,6,87124,0
+87125,de L'Assomption / Préfontaine,  45.757050, -73.456821,6,87125,0
+87126,de L'Assomption / Industriel,  45.759863, -73.455321,6,87126,0
+87127,Basile-Routhier / Bach,  45.759927, -73.453508,6,87127,0
+87128,Basile-Routhier / Beaupré,  45.761311, -73.452290,6,87128,0
+87129,Basile-Routhier / Beaubien,  45.762334, -73.449751,6,87129,0
+87130,Basile-Routhier / de Bécancour,  45.763506, -73.448071,6,87130,0
+87131,Basile-Routhier / de Boisbriand,  45.764967, -73.447289,6,87131,0
+87132,Basile-Routhier / Valmont,  45.767775, -73.446117,6,87132,0
+87133,de Saint-Sulpice / Point-du-Jour Sud,  45.834655, -73.410813,7,87133,1
+87134,de Saint-Sulpice / du Bas-de-L'Assomption Sud,  45.834676, -73.411317,7,87134,1
+87135,Beauchesne / Sinclair,  45.767039, -73.435298,6,87135,0
+87136,Beauchesne / Sanguinet,  45.768854, -73.433669,6,87136,0
+87137,Beauchesne / Sorel,  45.769998, -73.432613,6,87137,0
+87138,Beauchesne / Sirois,  45.771691, -73.431021,6,87138,0
+87139,Beauchesne / Noiseux,  45.772802, -73.427512,6,87139,0
+87140,Noiseux / Norbert,  45.774235, -73.427692,6,87140,0
+87141,Noiseux / Néron,  45.776183, -73.426304,6,87141,0
+87142,Noiseux / devant le civique #1044,  45.777825, -73.424798,6,87142,0
+87143,Noiseux / de Norvège,  45.778126, -73.422814,6,87143,0
+87144,Noiseux / de Navaronne,  45.778499, -73.420489,6,87144,0
+87145,Noiseux / Iberville,  45.777885, -73.417880,6,87145,0
+87146,Basile-Routhier / de Bruyères,  45.775615, -73.441476,6,87146,0
+87147,Iberville / Rembrandt,  45.781813, -73.413934,6,87147,0
+87148,Iberville / de Valcourt,  45.783148, -73.412718,6,87148,0
+87149,Iberville / Jacques-Cousteau,  45.785105, -73.410930,6,87149,0
+87150,Louis-P.-Picard / face à l'École Félix-Leclerc,  45.791489, -73.410782,6,87150,0
+87151,Mtée de l'Épiphanie / Rg du Bas-L'Assomption Sud,  45.804506, -73.433102,6,87151,0
+87152,Rg Bas-L'Assomption Nord / devant le civique #905,  45.807364, -73.435015,7,87152,0
+87153,Clermont / du Lac,  45.898261, -73.427837,7,87153,0
+87154,Adhémar-Raynault / devant le civique #2568,  45.892289, -73.427734,7,87154,0
+87155,Adhémar-Raynault / Bourque,  45.894164, -73.427286,7,87155,0
+87156,Adhémar-Raynault / Clermont,  45.896005, -73.429851,7,87156,0
+87157,de l'Ange-Gardien / Place Thérèse,  45.893319, -73.433180,7,87157,0
+87158,de l'Ange-Gardien / Adhémar-Raynault,  45.889318, -73.431541,7,87158,0
+87159,de l'Ange-Gardien / Forest,  45.822741, -73.430157,7,87159,0
+87160,de l'Ange-Gardien / Marguerite-Bourgeoys,  45.823656, -73.428012,7,87160,0
+87161,de l'Ange-Gardien / devant le Centre d'hébergement,  45.825198, -73.426064,7,87161,0
+87162,de l'Ange-Gardien / Notre-Dame,  45.826922, -73.424646,7,87162,0
+87163,de l'Ange-Gardien / Dorval,  45.829467, -73.420956,7,87163,0
+87164,de l'Ange-Gardien / Meilleur,  45.832017, -73.418468,7,87164,0
+87165,de l'Ange-Gardien / Barret,  45.833869, -73.416640,7,87165,0
+87166,de l'Ange-Gardien / Montée de Saint-Sulpice,  45.836476, -73.413696,7,87166,0
+87167,de l'Ange-Gardien Nord / Rang Point-du-Jour Nord,  45.839629, -73.414477,7,87167,0
+87168,de l'Ange-Gardien Nord / Michel,  45.840844, -73.416110,7,87168,0
+87169,de l'Ange-Gardien Nord / Montreuil,  45.843713, -73.419994,7,87169,0
+87170,de l'Ange-Gardien Nord / Vaillant,  45.845352, -73.422238,7,87170,0
+87171,de l'Ange-Gardien Nord / Martel,  45.846762, -73.424137,7,87171,0
+87172,de l'Ange-Gardien Nord / Gilbert,  45.848385, -73.426352,7,87172,0
+87173,de l'Ange-Gardien Nord / des Pins,  45.849315, -73.427616,7,87173,0
+87174,de l'Ange-Gardien Nord / Bertrand,  45.850055, -73.428627,7,87174,0
+87175,de l'Ange-Gardien Nord / Saint-Jean Est,  45.853289, -73.433034,7,87175,0
+87176,Iberville / Jacques-Plante,  45.787471, -73.408746,6,87176,0
+87177,Iberville / devant le CHSLD Émile McDuff,  45.788192, -73.408086,6,87177,0
+87178,de l'Ange-Gardien Nord / devant le civique #2185,  45.876826, -73.438005,7,87178,0
+87179,de l'Ange-Gardien Nord / face au civique #2185,  45.876891, -73.438113,7,87179,0
+87184,Basile-Routhier / Baudelaire,  45.770705, -73.444822,6,87184,0
+87185,Basile-Routhier / Delacroix,  45.772683, -73.444890,6,87185,0
+87186,Basile-Routhier / Coubertin,  45.773769, -73.444476,6,87186,0
+87187,Basile-Routhier / de Bruyères,  45.774846, -73.442973,6,87187,0
+87188,Basile-Routhier / de Lisbonne,  45.775385, -73.441482,6,87188,0
+87189,Basile-Routhier / des Champs-Élysées,  45.776026, -73.439633,6,87189,0
+87190,Basile-Routhier / de Toulouse,  45.779262, -73.435607,6,87190,0
+87191,Basile-Routhier / des Outaouais,  45.781436, -73.433728,6,87191,0
+87192,des Rivières / de la Ouareau,  45.784093, -73.434991,6,87192,0
+87193,des Rivières / de la Mingan,  45.785610, -73.437496,6,87193,0
+87194,des Rivières / de L'Assomption,  45.786403, -73.439431,6,87194,0
+87195,de L'Assomption / des Rivières,  45.786469, -73.439556,6,87195,0
+87196,Basile-Routhier / Monet,  45.769170, -73.445270,6,87196,0
+87197,Basile-Routhier / Monet,  45.769039, -73.445054,6,87197,0
+87200,Jacques-Plante / devant l'École Félix-Leclerc,  45.792010, -73.412717,6,87200,0
+87201,Iberville / Laurentien,  45.776564, -73.419090,6,87201,0
+87202,Iberville / Roberval,  45.774320, -73.421132,6,87202,0
+87203,Iberville / Beauchesne,  45.771494, -73.423706,6,87203,0
+87204,Iberville / Soucy,  45.769796, -73.425238,6,87204,0
+87205,Iberville / Gravel,  45.767170, -73.427640,6,87205,0
+87206,Iberville / Sigouin,  45.764906, -73.429721,6,87206,0
+87207,Iberville / Valmont,  45.763288, -73.431190,6,87207,0
+87208,Iberville / Prud'homme,  45.760186, -73.434022,6,87208,0
+87209,Iberville / Langlois,  45.758440, -73.435594,6,87209,0
+87210,Iberville / du Curé-Martineau,  45.756794, -73.437119,6,87210,0
+87211,Iberville / Industriel,  45.753378, -73.440233,6,87211,0
+87212,Iberville / de Normandie,  45.751835, -73.441650,6,87212,0
+87213,Iberville / Laroche,  45.749945, -73.443370,6,87213,0
+87214,Iberville / Landreville,  45.748249, -73.444923,6,87214,0
+87215,Iberville / Laurier,  45.746512, -73.446503,6,87215,0
+87216,Iberville / Richelieu,  45.744400, -73.448422,6,87216,0
+87217,Iberville / Gilbert,  45.743320, -73.449440,6,87217,0
+87218,Brien / devant l'épicerie Super C,  45.742834, -73.451163,5,87218,0
+87219,Brien / devant le Tim Horton's,  45.743856, -73.453559,5,87219,0
+87220,Terminus Repentigny (Quai 1),  45.746195, -73.453053,6,87220,0
+87221,Brien / devant le civique #86,  45.743614, -73.453574,5,87221,0
+87222,Brien / devant l'Arena Repentigny,  45.742978, -73.452091,5,87222,0
+87223,Brien / Robillard,  45.741444, -73.448503,5,87223,0
+87224,Brien / Notre-Dame,  45.740148, -73.445487,5,87224,0
+87225,Notre-Dame / Allée des Artistes,  45.738006, -73.447593,5,87225,0
+87226,Notre-Dame / Sarto,  45.734676, -73.451000,5,87226,0
+87227,Notre-Dame / de l'Aqueduc,  45.732391, -73.453809,5,87227,0
+87228,Notre-Dame / Cherrier,  45.729646, -73.456282,5,87228,0
+87229,Notre-Dame / D'Argenson,  45.727135, -73.457598,5,87229,0
+87230,Notre-Dame / Lévesque,  45.725071, -73.458699,5,87230,0
+87231,Notre-Dame / Jean-Talon,  45.723661, -73.459977,5,87231,0
+87232,Notre-Dame / Bonaventure,  45.722504, -73.461524,5,87232,0
+87233,Notre-Dame / du Bord-de-l'Eau,  45.720842, -73.464333,5,87233,0
+87234,Notre-Dame / Iberville,  45.718715, -73.468020,5,87234,0
+87235,Notre-Dame / Claude-David,  45.716731, -73.471125,5,87235,0
+87236,Notre-Dame / Robert-Lussier,  45.731297, -73.455071,5,87236,0
+87290,Iberville / Cherrier,  45.731170, -73.460418,5,87290,0
+87300,Notre-Dame / Notre-Dame-des-Champs,  45.714538, -73.474591,5,87300,0
+87301,Notre-Dame / Claude-David,  45.716574, -73.471221,5,87301,0
+87302,Iberville / Fonteneau,  45.719151, -73.469030,5,87302,0
+87303,Iberville / devant le civique #182,  45.719870, -73.470435,5,87303,0
+87304,Iberville / Laforest,  45.721729, -73.468967,5,87304,0
+87305,Iberville / Lemoyne,  45.723399, -73.467304,5,87305,0
+87306,Iberville / Jean-Talon,  45.725828, -73.465064,5,87306,0
+87307,Iberville / de la Concorde,  45.728454, -73.462674,5,87307,0
+87308,Iberville / Cherrier,  45.731087, -73.460308,5,87308,0
+87309,Iberville / de l'Aqueduc,  45.734060, -73.457600,5,87309,0
+87310,Iberville / Lucie,  45.735805, -73.455965,5,87310,0
+87311,Iberville / Devault,  45.737447, -73.454472,5,87311,0
+87312,Iberville / Aubert,  45.739886, -73.452263,5,87312,0
+87313,Iberville / Gilbert,  45.742914, -73.449454,6,87313,0
+87314,Iberville / Richelieu,  45.744136, -73.448312,6,87314,0
+87315,Iberville / Laurier,  45.746293, -73.446365,6,87315,0
+87316,Iberville / Landreville,  45.748041, -73.444773,6,87316,0
+87317,Iberville / Montcalm,  45.749654, -73.443301,6,87317,0
+87318,Iberville / Denis,  45.752129, -73.441044,6,87318,0
+87319,Iberville / Industriel,  45.753134, -73.440116,6,87319,0
+87320,Iberville / Jacques-Cartier,  45.754934, -73.438467,6,87320,0
+87321,Iberville / du Curé-Martineau,  45.756584, -73.436961,6,87321,0
+87322,Iberville / Alain,  45.757893, -73.435769,6,87322,0
+87323,Iberville / Prud'homme,  45.759961, -73.433880,6,87323,0
+87324,Iberville / Valmont,  45.763012, -73.431099,6,87324,0
+87325,Iberville / Clemenceau,  45.764831, -73.429436,6,87325,0
+87326,Iberville / Gravel,  45.766959, -73.427483,6,87326,0
+87327,Iberville / Soucy,  45.769614, -73.425078,6,87327,0
+87328,Iberville / Beauchesne,  45.771283, -73.423549,6,87328,0
+87329,Iberville / Roberval,  45.774100, -73.420955,6,87329,0
+87330,Iberville / Laurentien,  45.776351, -73.418917,6,87330,0
+87331,Iberville / Noiseux,  45.777782, -73.417610,6,87331,0
+87332,Iberville / Jacques-Cartier,  45.755181, -73.438587,6,87332,1
+87401,Notre-Dame / Leblanc,  45.848242, -73.486362,8,87401,0
+87402,Béram / Route 341,  45.859790, -73.508307,8,87402,0
+87403,Route 341 / du Centaure,  45.848464, -73.493346,8,87403,0
+87404,Notre-Dame / Saint-Louis,  45.847788, -73.489354,8,87404,0
+87405,Notre-Dame / Leblanc,  45.848427, -73.486696,8,87405,0
+87406,Notre-Dame / du Couvent,  45.849150, -73.485002,8,87406,0
+87407,Notre-Dame / de l'Hôtel-de-Ville,  45.849832, -73.483993,8,87407,0
+87408,Notre-Dame / 4e Avenue,  45.851804, -73.481069,8,87408,0
+87409,Notre-Dame / 1re Avenue,  45.853506, -73.478569,8,87409,0
+87410,Rang de l'Achigan / Bouchard,  45.825559, -73.439516,7,87410,0
+87411,Rang de l'Achigan / Tardif,  45.822713, -73.432279,7,87411,0
+87412,Route 341 / Notre-Dame,  45.846971, -73.492584,8,87412,0
+87413,Rang de l'Achigan / Tardif,  45.822733, -73.432195,7,87413,0
+87414,Rang de l'Achigan / Bouchard,  45.825557, -73.439489,7,87414,0
+87415,Notre-Dame / 1re Avenue,  45.853586, -73.478554,8,87415,0
+87416,Notre-Dame / 4e Avenue,  45.851824, -73.481069,8,87416,0
+87417,Notre-Dame / de l'Hôtel-de-Ville,  45.850461, -73.483075,8,87417,0
+87418,Notre-Dame / du Couvent,  45.849167, -73.485023,8,87418,0
+87419,Route 341 / de la Licorne,  45.851623, -73.496709,8,87419,0
+87420,Notre-Dame / Saint-Louis,  45.847799, -73.489379,8,87420,0
+87421,Route 341 / du Centaure,  45.848561, -73.493253,8,87421,0
+87422,Angélique  / Bourbonnière,  45.855686, -73.517438,8,87422,0
+87423,Garda / face au 779,  45.867796, -73.521317,8,87423,0
+87425,Garda / Sainte-Thérèse,  45.865587, -73.517988,8,87425,0
+87426,Garda / Lafortune,  45.862909, -73.515083,8,87426,0
+87427,Garda / Sylvestre,  45.861730, -73.512675,8,87427,0
+87428,Garda / Béram,  45.858999, -73.508700,8,87428,0
+87430,Notre-Dame / Coderre,  45.847112, -73.491372,8,87430,0
+87431,1re Avenue  / des Sulpiciens,  45.852437, -73.476319,8,87431,0
+87432,Rang de l'Achigan / devant le Centre Administratif,  45.852646, -73.471140,8,87432,0
+87433,Rang du Bas-de-l'Achigan / Rang Saint-Esprit,  45.852730, -73.460396,8,87433,0
+87434,Rang de l'Achigan / Beauchamp,  45.846608, -73.447497,7,87434,0
+87435,Rang de l'Achigan / des Commissaires,  45.832411, -73.445125,7,87435,0
+87436,Route 341 / de la Licorne,  45.851655, -73.496649,8,87436,0
+87437,Notre-Dame / Coderre,  45.847178, -73.491356,8,87437,0
+87438,1re Avenue / des Sulpiciens,  45.852732, -73.475599,8,87438,0
+87439,Rang de l'Achigan / face au Centre Administratif,  45.852651, -73.471107,8,87439,0
+87440,Rang du Bas-de-l'Achigan / Rang Saint-Esprit,  45.852748, -73.460332,8,87440,0
+87441,Rang de l'Achigan / Beauchamp,  45.846608, -73.447457,7,87441,0
+87442,Rang de l'Achigan / des Commissaires,  45.832403, -73.445095,7,87442,0
+87443,Route 341 / Majeau,  45.850212, -73.495081,8,87443,0
+87444,Angélique / du Soleil,  45.858575, -73.513333,8,87444,0
+87445,Béram / Rte 341,  45.859570, -73.508572,8,87445,0
+87446,Route 341 / Majeau,  45.850304, -73.495324,8,87446,0
+87500,Terminus Repentigny (Quai 3),  45.746751, -73.453492,6,87500,0
+87501,Brien / Alice-Forest,  45.752166, -73.468678,5,87501,0
+87502,Lacombe / Saint-Paul,  45.752450, -73.471540,5,87502,0
+87503,Lacombe / Léveillée,  45.751420, -73.473020,5,87503,0
+87504,Lacombe / Lachapelle,  45.749439, -73.474372,5,87504,0
+87505,Lacombe / Montée des Arsenaux,  45.746933, -73.475793,5,87505,0
+87506,Lacombe / devant le CLSC,  45.744511, -73.479442,5,87506,0
+87507,Lacombe / devant le civique #155,  45.742802, -73.480915,5,87507,0
+87508,Lacombe / des Ermitois,  45.739880, -73.482785,5,87508,0
+87509,Lacombe / Place Mirabelle,  45.738150, -73.483126,5,87509,0
+87510,Lacombe / devant le civique #35,  45.732909, -73.484901,5,87510,0
+87511,Notre-Dame / Saint-Jacques,  45.726721, -73.484245,5,87511,0
+87512,Notre-Dame / Nicoud,  45.724667, -73.483512,5,87512,0
+87513,Notre-Dame / Saint-Antoine,  45.721437, -73.483524,5,87513,0
+87514,Notre-Dame / du Sacré-Cœur,  45.719511, -73.484328,5,87514,0
+87515,Céline-Dion / Notre-Dame,  45.717243, -73.485318,5,87515,0
+87516,Céline-Dion / de l'Île-Vaudry,  45.717318, -73.483369,5,87516,0
+87519,Céline-Dion / des Trésors-de-l'île,  45.717375, -73.483294,5,87519,0
+87521,Céline-Dion / Grenier,  45.720056, -73.489328,5,87521,0
+87522,Lacombe / Aline-Turgeon,  45.734633, -73.484050,5,87522,0
+87523,Céline-Dion / Émile-Despins,  45.721497, -73.491204,5,87523,0
+87524,Notre-Dame / de la Cour-Villeneuve,  45.722484, -73.483284,5,87524,0
+87548,Saint-Paul / Charlotte-Belhumeur,  45.755840, -73.477556,5,87548,0
+87549,Saint-Paul / Charlotte-Belhumeur,  45.755906, -73.477362,5,87549,0
+87550,Émile-Despins / Chopin,  45.720775, -73.492185,5,87550,0
+87551,Céline-Dion / Grenier,  45.719983, -73.489507,5,87551,0
+87552,Céline-Dion / Notre-Dame,  45.717424, -73.485916,5,87552,0
+87553,Notre-Dame-des-Champs / Archambault,  45.717460, -73.480216,5,87553,0
+87554,Notre-Dame-des-Champs / Le Gardeur,  45.715269, -73.476204,5,87554,0
+87555,Claude-David / Notre-Dame,  45.717082, -73.472131,5,87555,0
+87556,Claude-David / Éthier,  45.717800, -73.474488,5,87556,0
+87557,Claude-David / de L'Assomption,  45.719629, -73.479771,5,87557,0
+87558,de L'Assomption / Notre-Dame-des-Champs,  45.717560, -73.480142,5,87558,0
+87559,Notre-Dame / du Sacré-Cœur,  45.719487, -73.484193,5,87559,0
+87560,Notre-Dame / Saint-Antoine,  45.721318, -73.483425,5,87560,0
+87561,Notre-Dame / Nicoud,  45.724664, -73.483353,5,87561,0
+87562,Notre-Dame / Saint-Jacques,  45.726205, -73.483801,5,87562,0
+87563,Lacombe / face au civique #35,  45.733377, -73.484502,5,87563,0
+87564,Lacombe / Place Mirabelle,  45.737988, -73.482934,5,87564,0
+87565,Lacombe / des Ermitois,  45.739763, -73.482653,5,87565,0
+87566,Lacombe / face au civique #155,  45.742761, -73.480756,5,87566,0
+87567,Lacombe / face au civique #193,  45.744527, -73.479170,5,87567,0
+87568,Lacombe / Montée des Arsenaux,  45.746560, -73.476140,5,87568,0
+87569,Lacombe / Lachapelle,  45.749241, -73.474249,5,87569,0
+87570,Lacombe / Léveillée,  45.751350, -73.472852,5,87570,0
+87571,Lacombe / Saint-Paul,  45.752559, -73.471155,5,87571,0
+87572,Brien / Alice-Forest,  45.752716, -73.469539,6,87572,0
+87573,Brien / de L'Assomption,  45.749547, -73.465469,5,87573,0
+87574,Notre-Dame / de la Cour-Villeneuve,  45.722475, -73.483144,5,87574,0
+87576,Lacombe / Aline-Turgeon,  45.734575, -73.483911,5,87576,0
+87577,Gare Repentigny,  45.736025, -73.484399,5,87577,0
+87578,Route 341 / Devant le civique #276 (Tim Horton,  45.793385, -73.413687,5,87578,0
+87579,Route 341 / Face au civique #276 (Tim Hortons),  45.793443, -73.413318,5,87579,0
+87600,Iberville / devant l'Hôtel de ville de Repentigny,  45.741341, -73.451226,5,87600,0
+87601,Aubert / Iberville,  45.740201, -73.452767,5,87601,0
+87602,Gervais / de l'Église,  45.741294, -73.457294,5,87602,0
+87603,Galeries Rive-Nord (Porte 4),  45.741291, -73.459789,5,87603,0
+87604,Gélinas / Godbout,  45.739076, -73.463439,5,87604,0
+87605,Fiset / Fauteux,  45.737322, -73.462910,5,87605,0
+87606,Martigny / Frontenac,  45.735763, -73.463148,5,87606,0
+87607,Martigny / Fortin,  45.733689, -73.465070,5,87607,0
+87608,Martigny / Cherrier,  45.732875, -73.464931,5,87608,0
+87609,Martigny / de la Concorde,  45.730202, -73.466580,5,87609,0
+87610,Martigny / de Bretagne,  45.728269, -73.468324,5,87610,0
+87611,Martigny / Lemoyne,  45.724714, -73.470947,5,87611,0
+87613,Saint-Paul / Salomon-Juneau,  45.757847, -73.481137,5,87613,1
+87614,Saint-Paul / Salomon-Juneau,  45.757531, -73.481050,5,87614,1
+87617,Rang Point-du-Jour Nord / Pierre-LeSueur,  45.842196, -73.413249,7,87617,0
+87618,Rang Point-du-Jour Nord / Jacques-DeGeay,  45.844102, -73.412222,7,87618,0
+87619,Jacques-DeGeay / Latulippe,  45.846869, -73.416248,7,87619,0
+87620,Jacques-DeGeay / Pierre-LeSueur,  45.847366, -73.418376,7,87620,0
+87621,Jacques-DeGeay / Martel,  45.848623, -73.421395,7,87621,0
+87622,Martel / Kay,  45.847717, -73.422843,7,87622,0
+87623,Turgeon / Payette,  45.845277, -73.425131,7,87623,0
+87624,Turgeon / Lafortune,  45.843239, -73.427971,7,87624,0
+87625,Lafortune / Chevalier,  45.842505, -73.427369,7,87625,0
+87626,Lafortune / devant le civique #1046,  45.841089, -73.425396,7,87626,0
+87627,Lafortune / Payette,  45.840102, -73.422411,7,87627,0
+87628,Lafortune / Victor-Bourgeau,  45.840112, -73.420275,7,87628,0
+87629,Lafortune / devant le civique #858,  45.838874, -73.417662,7,87629,0
+87630,du Golf / de l'Ange-Gardien,  45.836596, -73.413782,7,87630,0
+87631,de Pons / du Golf,  45.826438, -73.429937,7,87631,0
+87632,de Pons / devant le civique #530,  45.827965, -73.432216,7,87632,0
+87633,de Pons / Pierre-Duga-De Mons,  45.828641, -73.434695,7,87633,0
+87634,Pierre-Dugua-De Mons / de Cognac,  45.827526, -73.433359,7,87634,0
+87635,Pierre-Dugua-De Mons / de Cognac,  45.827132, -73.434792,7,87635,0
+87636,Pierre-Dugua-De Mons / de la Seugne,  45.827556, -73.436063,7,87636,0
+87637,Pierre-Dugua-De Mons / du Golf,  45.827443, -73.437267,7,87637,0
+87638,du Golf / Bussière,  45.824813, -73.433264,7,87638,0
+87639,du Golf / Perreault,  45.828818, -73.428797,7,87639,0
+87654,Lemoyne / Martigny,  45.724628, -73.470960,5,87654,0
+87655,Martigny / de Bretagne,  45.728135, -73.468287,5,87655,0
+87656,Martigny / de la Concorde,  45.730089, -73.466534,5,87656,0
+87657,Martigny / Cherrier,  45.732723, -73.464724,5,87657,0
+87658,Martigny / Fortin,  45.733574, -73.465010,5,87658,0
+87659,Martigny / Frontenac,  45.735640, -73.463117,5,87659,0
+87660,Fiset / Fauteux,  45.737341, -73.462825,5,87660,0
+87661,Gélinas / Godbout,  45.738981, -73.463411,5,87661,0
+87662,Gélinas / Gervais,  45.741269, -73.461387,5,87662,0
+87663,Lemoyne / Iberville,  45.723447, -73.467509,5,87663,0
+87664,Laforest / Lemoyne,  45.723879, -73.473326,5,87664,0
+87700,Dorval / de l'Ange-Gardien,  45.828929, -73.420214,7,87700,0
+87701,Saint-Étienne / Saint-Joachim,  45.826805, -73.419590,7,87701,0
+87702,Saint-Étienne / Notre-Dame,  45.825394, -73.422101,7,87702,0
+87703,Saint-Étienne / Saint-Jean-Baptiste,  45.824034, -73.424179,7,87703,0
+87704,Saint-Étienne / Forest,  45.818560, -73.424173,7,87704,0
+87705,Saint-Étienne / Hector-Papin,  45.815401, -73.425931,7,87705,0
+87707,du Golf / Montée Cormier,  45.836278, -73.425745,7,87707,0
+87708,Masson / Valmont,  45.765299, -73.437027,6,87708,0
+87709,Masson / Jean-Baptiste-Meilleur,  45.761765, -73.439384,6,87709,0
+87710,Masson / Langlois,  45.760464, -73.440572,6,87710,0
+87711,Masson / du Buisson,  45.758879, -73.442040,6,87711,0
+87712,Masson / Monsabré,  45.756941, -73.443816,6,87712,0
+87713,Masson / devant le civique #623,  45.756135, -73.444569,6,87713,0
+87714,Leclerc / devant le civique #625,  45.754155, -73.444305,6,87714,0
+87715,Leclerc / de Normandie,  45.753309, -73.445061,6,87715,0
+87716,Leclerc / Laroche,  45.751418, -73.446791,6,87716,0
+87717,Leclerc / Landreville,  45.749794, -73.448268,6,87717,0
+87718,Leclerc / Louvain,  45.747536, -73.451532,6,87718,0
+87719,Terminus Repentigny (Quai 2),  45.746352, -73.453409,6,87719,0
+87720,Lacombe / André,  45.753821, -73.469153,6,87720,0
+87721,Lacombe / Lafleur,  45.754285, -73.468287,6,87721,0
+87722,Lacombe / Longpré,  45.754925, -73.466304,6,87722,0
+87723,J.-A.-Paré / Fortier,  45.756789, -73.463911,6,87723,0
+87724,J.-A.-Paré / Urbain,  45.757876, -73.466077,6,87724,0
+87725,J.-A.-Paré / Beauchamp,  45.759120, -73.468355,6,87725,0
+87726,J.-A.-Paré / Laverdière,  45.761281, -73.474690,6,87726,0
+87727,J.-A.-Paré / Bourgeoys,  45.764565, -73.476306,6,87727,0
+87728,J.-A.-Paré / Colbert,  45.766335, -73.476737,6,87728,0
+87729,J.-A.-Paré / Désaunier,  45.767915, -73.477307,6,87729,0
+87730,J.-A.-Paré / le Bourg-Neuf,  45.768093, -73.479036,6,87730,0
+87731,Bourgeoys / le Bourg-Neuf,  45.765259, -73.481527,6,87731,0
+87732,Bourgeoys / Borduas,  45.764540, -73.478999,6,87732,0
+87733,Borduas / face au civique #533,  45.762911, -73.479804,6,87733,0
+87734,Borduas / Bertrand,  45.761570, -73.480719,6,87734,0
+87735,Bertrand / devant le civique #233,  45.760416, -73.478682,6,87735,0
+87736,Bertrand / Laverdière,  45.759236, -73.476298,6,87736,0
+87737,Laverdière / Bourget,  45.758566, -73.477665,6,87737,0
+87738,Laverdière / Rivest,  45.757599, -73.479312,6,87738,0
+87739,Laverdière / Saint-Paul,  45.757129, -73.479802,5,87739,0
+87744,Saint-Paul / Bourque,  45.761834, -73.489389,5,87744,0
+87745,Saint-Paul / de la Presqu'île,  45.764656, -73.496960,5,87745,0
+87746,de la Presqu'île / Roger,  45.762920, -73.499001,5,87746,0
+87747,de la Presqu'île / Jean-Pierre,  45.754641, -73.506820,5,87747,0
+87748,de la Presqu'île / Monique,  45.753316, -73.507286,5,87748,0
+87749,de la Presqu'île / Nathalie,  45.750878, -73.508201,5,87749,0
+87750,de la Presqu'île / des Sapins,  45.736139, -73.501384,5,87750,0
+87751,de la Presqu'île / des Peupliers,  45.734449, -73.499269,5,87751,0
+87752,de la Presqu'île / des Bouleaux,  45.733612, -73.497858,5,87752,0
+87755,des Quarante-Arpents / des Bouleaux,  45.733192, -73.492086,5,87755,0
+87756,Pierre-Le Gardeur / face à la Gare Repentigny,  45.733343, -73.486626,5,87756,0
+87757,Ricard / Lauzé,  45.730827, -73.487354,5,87757,0
+87758,Ricard / Saint-Jacques,  45.728960, -73.489432,5,87758,0
+87759,Ricard / Camille,  45.727209, -73.491439,5,87759,0
+87760,Camille / Carufel,  45.727652, -73.492242,5,87760,0
+87761,Carufel / du Sacré-Cœur,  45.726695, -73.493951,5,87761,0
+87762,du Sacré-Cœur / Ouellette,  45.724885, -73.491517,5,87762,0
+87763,du Sacré-Cœur / Sainte-Thérèse,  45.724118, -73.490474,5,87763,0
+87764,du Sacré-Cœur / Émile-Despins,  45.723096, -73.489089,5,87764,0
+87765,du Sacré-Cœur / Saint-Paul,  45.721008, -73.486192,5,87765,0
+87767,Colbert / devant le civique #121,  45.770526, -73.466829,6,87767,0
+87768,Colbert / Croteau,  45.771951, -73.465976,6,87768,0
+87769,Saint-Paul / Borduas,  45.759020, -73.483643,5,87769,0
+87770,Saint-Paul / le Bourg-Neuf,  45.760640, -73.486946,5,87770,0
+87771,de la Presqu'île / devant le civique #225,  45.758198, -73.504908,5,87771,0
+87772,de la Presqu'île / face au civique #225,  45.758189, -73.504882,5,87772,0
+87773,boul. Lacombe / rue Villandré,  45.763516, -73.457215,6,87773,0
+87774,Villandré / de la Seigneurie,  45.766232, -73.461736,6,87774,0
+87775,de la Seigneurie / Chatel,  45.767642, -73.459686,6,87775,0
+87776,de la Seigneurie / de Chenonceaux,  45.769201, -73.459765,6,87776,0
+87777,de la Seigneurie / de Chantilly,  45.769774, -73.460512,6,87777,0
+87778,Forand / Jean-Duceppe,  45.769385, -73.458925,6,87778,0
+87779,le Bourg-Neuf / Faribault,  45.772687, -73.457420,6,87779,0
+87780,le Bourg-Neuf / Émile-Genest,  45.774308, -73.459479,6,87780,0
+87781,le Bourg-Neuf / Colette,  45.776391, -73.464197,6,87781,0
+87782,le Bourg-Neuf / Robert-Choquette,  45.776960, -73.466184,6,87782,0
+87783,Colbert / le Bourg-Neuf,  45.775412, -73.469642,6,87783,0
+87784,Colbert / Marguerite-Couillard,  45.773885, -73.467723,6,87784,0
+87785,Colbert / Croteau,  45.772104, -73.466088,6,87785,0
+87786,Colbert / Desautels,  45.770911, -73.466820,6,87786,0
+87787,Colbert / de la Paix,  45.768309, -73.469979,6,87787,0
+87788,Colbert / Corbeil,  45.767767, -73.471837,6,87788,0
+87789,Colbert / Copernic,  45.767188, -73.473742,6,87789,0
+87790,Colbert / J.-A.-Paré,  45.766443, -73.476818,6,87790,0
+87791,le Bourg-Neuf / Desparois,  45.770526, -73.475617,6,87791,0
+87792,le Bourg-Neuf / de la Paix,  45.772114, -73.473733,6,87792,0
+87793,de la Paix / Dagenais,  45.769947, -73.471120,6,87793,0
+87794,de la Paix / Colbert,  45.768288, -73.470129,6,87794,0
+87795,de la Presqu'île / face au civique #276,  45.732927, -73.496511,5,87795,0
+87796,de la Presqu'île / des Quarante-Arpents,  45.731929, -73.494623,5,87796,0
+87798,de la Presqu'île / devant le civique #276,  45.732901, -73.496359,5,87798,0
+87799,de la Presqu'île / des Bouleaux,  45.733615, -73.497815,5,87799,0
+87800,du Sacré-Cœur / Saint-Paul,  45.721004, -73.486161,5,87800,0
+87801,du Sacré-Cœur / Émile-Despins,  45.723095, -73.489058,5,87801,0
+87802,du Sacré-Cœur / Sainte-Thérèse,  45.724117, -73.490446,5,87802,0
+87803,du Sacré-Cœur / Ouellette,  45.724885, -73.491490,5,87803,0
+87804,du Sacré-Cœur / Carufel,  45.726678, -73.493836,5,87804,0
+87805,Carufel / Camille,  45.727634, -73.492257,5,87805,0
+87806,Camille / Ricard,  45.727189, -73.491459,5,87806,0
+87807,Ricard / Saint-Jacques,  45.728932, -73.489429,5,87807,0
+87808,Ricard / Lauzé,  45.730798, -73.487341,5,87808,0
+87809,Pierre-Le Gardeur / devant la Gare Repentigny,  45.733342, -73.486583,5,87809,0
+87810,des Quarante-Arpents / des Bouleaux,  45.733222, -73.492085,5,87810,0
+87814,de la Presqu'île / des Peupliers,  45.734459, -73.499171,5,87814,0
+87815,de la Presqu'île / des Sapins,  45.736139, -73.501346,5,87815,0
+87816,de la Presqu'île / Nathalie,  45.750848, -73.508177,5,87816,0
+87817,de la Presqu'île / Monique,  45.753299, -73.507273,5,87817,0
+87818,de la Presqu'île / Jean-Pierre,  45.754620, -73.506806,5,87818,0
+87819,de la Presqu'île / Roger,  45.762891, -73.498994,5,87819,0
+87820,de la Presqu'île / Saint-Paul,  45.764561, -73.497045,5,87820,0
+87821,Saint-Paul / Bourque,  45.761770, -73.489500,5,87821,0
+87822,Saint-Paul / le Bourg-Neuf,  45.760355, -73.486731,5,87822,0
+87827,Saint-Paul / Laverdière,  45.756968, -73.479929,5,87827,0
+87828,Laverdière / Rivest,  45.757467, -73.479306,6,87828,0
+87829,Laverdière / Bourget,  45.758422, -73.477839,6,87829,0
+87830,Laverdière / Bertrand,  45.759150, -73.476189,6,87830,0
+87831,Bertrand / devant le Parc Jean-Claude-Crevier,  45.760468, -73.478540,6,87831,0
+87832,Bertrand / Borduas,  45.761490, -73.480621,6,87832,0
+87833,Borduas / devant le civique #533,  45.762865, -73.479642,6,87833,0
+87834,Borduas / Bourgeoys,  45.764525, -73.478882,6,87834,0
+87835,Bourgeoys / le Bourg-Neuf,  45.765441, -73.481498,6,87835,0
+87836,le Bourg-Neuf / J.-A.-Paré,  45.767884, -73.478693,6,87836,0
+87837,J.-A.-Paré / Désaunier,  45.767785, -73.477575,6,87837,0
+87838,J.-A.-Paré / Colbert,  45.766393, -73.477103,6,87838,0
+87839,J.-A.-Paré / Beaumarchais,  45.764020, -73.476654,6,87839,0
+87840,J.-A.-Paré / Laverdière,  45.761186, -73.475080,6,87840,0
+87841,J.-A.-Paré / Beauchamp,  45.759072, -73.468709,6,87841,0
+87842,J.-A.-Paré / Pierre-Paul,  45.757849, -73.466477,6,87842,0
+87843,J.-A.-Paré / devant le 54,  45.756520, -73.463657,6,87843,0
+87844,Saint-Paul / Borduas,  45.758955, -73.483771,5,87844,0
+87845,Lacombe / Longpré,  45.754961, -73.466365,6,87845,0
+87846,Lacombe / Latendresse,  45.754468, -73.468112,6,87846,0
+87847,Lacombe / de la Place,  45.753988, -73.469236,6,87847,0
+87848,Leclerc / Louvain,  45.747388, -73.451569,6,87848,0
+87849,Leclerc / Landreville,  45.749611, -73.448275,6,87849,0
+87850,Leclerc / Laroche,  45.751297, -73.446760,6,87850,0
+87851,Leclerc / de Normandie,  45.753184, -73.445030,6,87851,0
+87852,Leclerc / Industriel,  45.754674, -73.443670,6,87852,0
+87853,Masson / Monsabré,  45.756830, -73.443771,6,87853,0
+87854,Masson / devant le civique #674,  45.759323, -73.441489,6,87854,0
+87855,Masson / Langlois,  45.760342, -73.440534,6,87855,0
+87856,Masson / Jean-Baptiste-Meilleur,  45.761647, -73.439349,6,87856,0
+87857,Masson / Valmont,  45.765551, -73.436652,6,87857,0
+87858,Saint-Paul / face au civique #3134,  45.765119, -73.499863,5,87858,0
+87862,de l'Ange-Gardien / devant le civique #880,  45.813694, -73.429401,7,87862,0
+87863,de l'Ange-Gardien / Roquebrune,  45.815694, -73.432028,7,87863,0
+87864,de l'Ange-Gardien / face au civique #723,  45.820116, -73.435085,7,87864,0
+87865,de l'Ange-Gardien / Hector-Papin,  45.821328, -73.432722,7,87865,0
+87866,Saint-Paul / devant le civique #3239,  45.768204, -73.509707,5,87866,0
+87867,Saint-Paul / devant le civique #3277,  45.769634, -73.512576,5,87867,0
+87868,Saint-Paul / devant le civique #3329,  45.771460, -73.516098,5,87868,0
+87869,de la Savane / devant le civique #346,  45.775131, -73.514654,6,87869,0
+87870,de la Savane / devant le civique #400,  45.777084, -73.512352,6,87870,0
+87871,de la Savane / devant le civique #482,  45.779290, -73.508581,6,87871,0
+87872,de la Savane / face au civique #505,  45.781189, -73.506254,6,87872,0
+87873,de la Savane / face au civique #585,  45.784800, -73.504135,6,87873,0
+87874,Montée Lebeau / face au civique #2140,  45.780917, -73.493044,6,87874,0
+87875,Montée Lebeau / de la Presqu'île,  45.778251, -73.488963,6,87875,0
+87876,de la Presqu'île / face au civique #502,  45.773872, -73.490755,6,87876,0
+87877,de la Presqu'île / devant le civique #475,  45.769991, -73.492787,6,87877,0
+87878,de la Presqu'île / Saint-Paul,  45.764679, -73.497094,5,87878,0
+87879,Saint-Paul / Pierre-Le Gardeur,  45.754758, -73.475467,5,87879,0
+87880,Saint-Paul / Lacombe,  45.752738, -73.471421,5,87880,0
+87881,Saint-Paul / de la Pruche,  45.753013, -73.471717,5,87881,0
+87882,Saint-Paul / de la Station,  45.754393, -73.474486,5,87882,0
+87883,Saint-Paul / Laverdière,  45.757072, -73.479733,5,87883,0
+87884,J.-A.-Paré / devant le civique #226,  45.762728, -73.476176,6,87884,0
+87885,J.-A.-Paré / devant le Centre Laurent-Venne,  45.762820, -73.476531,6,87885,0
+87901,le Bourg-Neuf / Jean-Duceppe,  45.771243, -73.456002,6,87901,0
+87902,de l'Ange-Gardien Nord / Beaudoin,  45.860422, -73.440601,7,87902,0
+87903,de l'Ange-Gardien Nord / Saint-Jean Ouest,  45.853251, -73.433190,7,87903,0
+87904,de l'Ange-Gardien / devant le civique #723,  45.820036, -73.435260,7,87904,0
+87905,de l'Ange-Gardien / Roquebrune,  45.815693, -73.432212,7,87905,0
+87906,Rg du Bas-de-L'Assomption Nord / du Domaine-Astral,  45.804118, -73.436296,6,87906,0
+87907,Rang du Bas-de-L'Assomption Nord / Godfrind,  45.787878, -73.444330,6,87907,0
+87908,Rang du Bas-de-L'Assomption Nord / Jobin,  45.785676, -73.447339,6,87908,0
+87909,Rang du Bas-de-L'Assomption Nord / Thouin,  45.780306, -73.452021,6,87909,0
+87910,Rg Bas-L'Assomption Nord / face au civique #1980,  45.777207, -73.451712,6,87910,0
+87911,Lacombe / le Bourg-Neuf,  45.770110, -73.452132,6,87911,0
+87912,Lacombe / Chatel,  45.764876, -73.455936,6,87912,0
+87913,Lacombe / de la Paix,  45.762010, -73.458507,6,87913,0
+87914,Lacombe / Hervieux,  45.758460, -73.461042,6,87914,0
+87915,Lacombe / J.-A.-Paré,  45.756459, -73.462896,6,87915,0
+87916,de l'Ange-Gardien Nord / Montée de Sainte-Marie,  45.896387, -73.432206,7,87916,0
+87920,Lacombe / Lafortune,  45.766336, -73.454607,6,87920,0
+87921,Lacombe / Lafortune,  45.766198, -73.454528,6,87921,0
+88001,Lacombe / J.-A.-Paré,  45.756039, -73.463280,6,88001,0
+88002,Lacombe / Hervieux,  45.758612, -73.460808,6,88002,0
+88003,Lacombe / de la Paix,  45.762162, -73.458228,6,88003,0
+88004,Lacombe / face au 607,  45.764433, -73.456135,6,88004,0
+88005,Lacombe / le Bourg-Neuf,  45.768807, -73.452417,6,88005,0
+88006,Rg Bas-L'Assomption Nord / devant le civique #1980,  45.777313, -73.451554,6,88006,0
+88007,Rang du Bas-de-L'Assomption Nord / Thouin,  45.780275, -73.451803,6,88007,0
+88008,Rang du Bas-de-L'Assomption Nord / Filiatrault,  45.785552, -73.447385,6,88008,0
+88009,Rang du Bas-de-L'Assomption Nord / Godfrind,  45.787778, -73.444226,6,88009,0
+88010,Rg du Bas-de-L'Assomption Nord / du Domaine-Astral,  45.804106, -73.436140,6,88010,0
+88011,de l'Ange-Gardien Nord / Beaudoin,  45.860419, -73.440457,7,88011,0
+88013,Adhémar-Raynault / Chevaudier,  45.889690, -73.430706,7,88013,0
+88100,Jean-Duceppe / Jetté,  45.770913, -73.456543,6,88100,0
+88101,Jean-Duceppe / Forand,  45.769482, -73.458782,6,88101,0
+88102,de Chantilly / de la Seignerie,  45.769894, -73.460615,6,88102,0
+88103,de la Seignerie / de de Chenonceaux,  45.769230, -73.460029,6,88103,0
+88104,de la Seignerie / Chatel,  45.767833, -73.459687,6,88104,0
+88105,de la Seignerie / Villandré,  45.766333, -73.461869,6,88105,0
+88109,de la Paix / Arthur-Foucher,  45.767097, -73.468205,6,88109,0
+88110,de la Paix / Colbert,  45.768213, -73.469926,6,88110,0
+88111,de la Paix / Dagenais,  45.769905, -73.470919,6,88111,0
+88112,de la Paix / Gosselin,  45.770433, -73.471289,6,88112,0
+88113,de la Paix / Dagenais,  45.771729, -73.472823,6,88113,0
+88114,de la Paix / le Bourg-Neuf,  45.772194, -73.473633,6,88114,0
+88115,le Bourg-Neuf / Desparois,  45.770814, -73.475720,6,88115,0
+88117,Colbert / Chaplin,  45.766403, -73.476283,6,88117,0
+88118,Colbert / Copernic,  45.767048, -73.473890,6,88118,0
+88119,Colbert / Corbeil,  45.767599, -73.471939,6,88119,0
+88120,Colbert / de la Paix,  45.768193, -73.470069,6,88120,0
+88121,de la Paix / Arthur-Foucher,  45.766978, -73.468284,6,88121,0
+88122,de la Paix / Beauchamp,  45.766384, -73.466771,6,88122,0
+88123,Beauchamp / des Artisans,  45.764274, -73.468098,6,88123,0
+88124,Beauchamp / Hervieux,  45.762928, -73.468947,6,88124,0
+88125,Hervieux / Huguette,  45.761689, -73.466828,6,88125,0
+88126,Hervieux / Nicole,  45.761137, -73.465725,6,88126,0
+88127,Hervieux / Ginette,  45.760096, -73.463616,6,88127,0
+88128,Hervieux / Lacombe,  45.758772, -73.460931,6,88128,0
+88200,Hervieux / Nicole,  45.759450, -73.462006,6,88200,0
+88201,Hervieux / Ginette,  45.760118, -73.463346,6,88201,0
+88202,Hervieux / Nicole,  45.761129, -73.465383,6,88202,0
+88203,Hervieux / Huguette,  45.761693, -73.466521,6,88203,0
+88204,Hervieux / Beauchamp,  45.762823, -73.468728,6,88204,0
+88205,Beauchamp / des Artisans,  45.764072, -73.468065,6,88205,0
+88206,Beauchamp / de la Paix,  45.766279, -73.466619,6,88206,0
+88207,Villandré / Lacombe,  45.763375, -73.457350,6,88207,0
+88208,Colbert / Marguerite-Couillard,  45.773885, -73.467452,6,88208,0
+88209,Colbert / le Bourg-Neuf,  45.775494, -73.469521,6,88209,0
+88210,le Bourg-Neuf / Robert-Choquette,  45.776772, -73.466528,6,88210,0
+88211,le Bourg-Neuf / Colette,  45.776266, -73.464418,6,88211,0
+88212,le Bourg-Neuf / Émile-Genest,  45.774302, -73.459977,6,88212,0
+88213,le Bourg-Neuf / Croissant Françoise-Loranger,  45.772470, -73.457618,6,88213,0
+88214,Jean-Duceppe / le Bourg-Neuf,  45.771119, -73.455926,6,88214,0
+88300,Notre-Dame / Face au civique 868,  45.822730, -73.365717,8,88300,1
+88301,Landreville / devant le civique #105,  45.827409, -73.355178,7,88301,0
+88302,Landreville / des Sulpiciens,  45.828935, -73.358946,7,88302,0
+88303,Landreville / Giguère,  45.830807, -73.363416,7,88303,0
+88304,Émile / Forest,  45.825292, -73.359446,7,88304,0
+88305,Notre-Dame / face au civique #966,  45.824714, -73.361479,7,88305,0
+88306,Notre-Dame / face au civique #764,  45.813671, -73.372564,7,88306,0
+88307,Giguère  / Prud'homme,  45.829563, -73.364690,7,88307,0
+88308,Notre-Dame / Philippe-Goulet,  45.776641, -73.409118,6,88308,0
+88309,Notre-Dame / Félix,  45.775072, -73.410756,6,88309,0
+88310,Notre-Dame / Laurentien,  45.773316, -73.412364,6,88310,0
+88311,Notre-Dame / Riendeau,  45.771580, -73.413929,6,88311,0
+88312,Notre-Dame / Beauchesne,  45.768550, -73.417084,6,88312,0
+88313,Notre-Dame / Carole,  45.766175, -73.419203,6,88313,0
+88314,Notre-Dame / Gravel,  45.764215, -73.420944,6,88314,0
+88315,Notre-Dame / Valmont,  45.761636, -73.423738,6,88315,0
+88316,Notre-Dame / Duquette,  45.759663, -73.425472,6,88316,0
+88317,Notre-Dame / Prud'homme,  45.757645, -73.427228,6,88317,0
+88318,Notre-Dame / Alain,  45.755216, -73.429327,6,88318,0
+88319,Notre-Dame / Lefrançois,  45.752863, -73.431359,6,88319,0
+88320,Notre-Dame / Dorius,  45.751247, -73.432746,6,88320,0
+88321,Notre-Dame / Joffre,  45.748821, -73.435009,6,88321,0
+88322,Notre-Dame / Ritchot,  45.746540, -73.437016,6,88322,0
+88323,Notre-Dame / Jean-Paul-Riopelle,  45.743569, -73.439806,6,88323,0
+88324,Notre-Dame / devant le civique #505,  45.741473, -73.442654,6,88324,0
+88325,Notre-Dame / Brien,  45.740096, -73.445198,5,88325,0
+88326,Brien / Robillard,  45.741636, -73.448598,5,88326,0
+88327,Brien / Iberville,  45.742118, -73.449669,5,88327,0
+88328,Iberville / Devault,  45.737574, -73.454605,5,88328,0
+88329,Iberville / Lucie,  45.735865, -73.456159,5,88329,0
+88330,Iberville / de l'Aqueduc,  45.734143, -73.457697,5,88330,0
+88331,Iberville / de la Concorde,  45.728524, -73.462849,5,88331,0
+88332,Iberville / Charlevoix,  45.725574, -73.465540,5,88332,0
+88333,Iberville / Lemoyne,  45.723484, -73.467403,5,88333,0
+88334,Iberville / Laforest,  45.721830, -73.469061,5,88334,0
+88335,Iberville / Lorange,  45.720461, -73.470606,5,88335,0
+88336,Iberville / Notre-Dame,  45.718458, -73.468478,5,88336,0
+88337,Iberville / Aubert,  45.740038, -73.452369,5,88337,0
+88338,Notre-Dame / Saint-Antoine Nord,  45.884617, -73.277404,8,88338,0
+88339,Notre-Dame / Ostiguy,  45.881344, -73.280394,8,88339,0
+88340,Notre-Dame / Turnbull,  45.878125, -73.284963,8,88340,0
+88341,Notre-Dame / L'Espérance,  45.876619, -73.287087,8,88341,0
+88342,Notre-Dame / Place du Golf,  45.873951, -73.290886,8,88342,0
+88343,Notre-Dame / Levert,  45.871671, -73.294187,8,88343,0
+88344,Notre-Dame / Montée Guy-Mousseau,  45.869310, -73.297823,8,88344,0
+88345,Jacques-Plante / Louis-Philippe-Picard,  45.787122, -73.405828,6,88345,0
+88346,Louis-Philippe-Picard / Rabelais,  45.784818, -73.405064,6,88346,0
+88347,Louis-Philippe-Picard / Notre-Dame,  45.783018, -73.401606,6,88347,0
+88348,Notre-Dame / du Verdier,  45.779799, -73.404704,6,88348,0
+88349,Giguère  / Émile,  45.827902, -73.366178,7,88349,0
+88350,Émile / des Sulpiciens,  45.826484, -73.363188,7,88350,0
+88351,Montée de Saint-Sulpice / devant le civique #104,  45.813483, -73.380451,7,88351,0
+88352,Montée de Saint-Sulpice / devant le civique #133,  45.813591, -73.380372,7,88352,0
+88353,Notre-Dame / face au civique #80,  45.851584, -73.312223,8,88353,0
+88354,Notre-Dame / devant le civique #80,  45.851524, -73.312089,8,88354,0
+88400,Notre-Dame / Iberville,  45.718419, -73.468383,5,88400,0
+88401,Notre-Dame / du Bord-de-l'Eau,  45.721000, -73.463890,5,88401,0
+88402,Notre-Dame / Bonaventure,  45.722424, -73.461517,5,88402,0
+88403,Notre-Dame / Jean-Talon,  45.723587, -73.459965,5,88403,0
+88404,Notre-Dame / Lévesque,  45.724989, -73.458666,5,88404,0
+88405,Notre-Dame / D'Argenson,  45.727046, -73.457555,5,88405,0
+88406,Notre-Dame / Cherrier,  45.729945, -73.456036,5,88406,0
+88407,Notre-Dame / des Émeraudes,  45.731452, -73.454809,5,88407,0
+88408,Notre-Dame / de l'Aqueduc,  45.732406, -73.453672,5,88408,0
+88409,Notre-Dame / Thouin,  45.734474, -73.451107,5,88409,0
+88410,Notre-Dame / Lebel,  45.737740, -73.447743,5,88410,0
+88411,Notre-Dame / Claude,  45.739282, -73.446196,5,88411,0
+88412,Notre-Dame / Rémi,  45.740839, -73.443628,6,88412,0
+88413,Notre-Dame / devant le civique #120,  45.742190, -73.441438,6,88413,0
+88414,Notre-Dame / devant le civique #544,  45.744034, -73.439176,6,88414,0
+88415,Notre-Dame / Ritchot,  45.746296, -73.437121,6,88415,0
+88416,Notre-Dame / Joffre,  45.748871, -73.434753,6,88416,0
+88417,Notre-Dame / Dorius,  45.750953, -73.432898,6,88417,0
+88418,Notre-Dame / Lefrançois,  45.752703, -73.431377,6,88418,0
+88419,Notre-Dame / Bastien,  45.754408, -73.429909,6,88419,0
+88420,Notre-Dame / Prud'homme,  45.757131, -73.427553,6,88420,0
+88421,Notre-Dame / Duquette,  45.759650, -73.425377,6,88421,0
+88422,Notre-Dame / Pierre,  45.761552, -73.423707,6,88422,0
+88423,Notre-Dame / Georges,  45.764085, -73.420959,6,88423,0
+88424,Notre-Dame / Carole,  45.766030, -73.419219,6,88424,0
+88425,Notre-Dame / Beauchesne,  45.768424, -73.417095,6,88425,0
+88426,Notre-Dame / Riendeau,  45.771520, -73.413885,6,88426,0
+88427,Notre-Dame / Laurentien,  45.773276, -73.412282,6,88427,0
+88428,Louis-Philippe-Picard / Rabelais,  45.784817, -73.404730,6,88428,0
+88429,Louis-Philippe-Picard / Jacques-Plante,  45.787160, -73.405548,6,88429,0
+88431,Notre-Dame  / Terrasse Breault,  45.881594, -73.279881,8,88431,0
+88432,Iberville / Philippe-Goulet,  45.779414, -73.416112,6,88432,0
+88433,Notre-Dame / devant le civique #764,  45.813631, -73.372397,7,88433,0
+88434,Notre-Dame / devant le civique #966,  45.824644, -73.361277,7,88434,0
+88435,Notre-Dame / du Verdier,  45.779885, -73.404712,6,88435,0
+88436,Notre-Dame / Devant le civique 868,  45.822718, -73.365511,8,88436,1
+88439,Notre-Dame / devant le civique #504,  45.741391, -73.442654,6,88439,0
+88440,Saint-Antoine Nord / Habel,  45.885305, -73.277454,8,88440,0
+88441,Notre-Dame / Montée Guy-Mousseau,  45.869320, -73.297620,8,88441,0
+88442,Notre-Dame / Douaire-De Bondy,  45.871501, -73.294226,8,88442,0
+88443,Notre-Dame / du Domaine-Caché,  45.873760, -73.290929,8,88443,0
+88444,Notre-Dame / de la Plage,  45.876784, -73.286641,8,88444,0
+88445,Notre-Dame / Turnbull,  45.877979, -73.284961,8,88445,0
+88446,Lacombe / Letellier,  45.730940, -73.485448,5,88446,0
+88447,Notre-Dame / Philippe-Goulet,  45.776487, -73.409179,6,88447,0
+88448,Louis-Philippe-Picard / Notre-Dame,  45.783493, -73.402140,6,88448,0
+88449,Louis-Philippe-Picard / Madeleine-De Verchères,  45.786454, -73.405374,6,88449,0
+88501,Notre-Dame / Hamel,  45.729959, -73.485495,5,88501,0
+88502,Notre-Dame / Hamel,  45.729871, -73.485352,5,88502,0
+88503,Lacombe / devant le civique #9,  45.730820, -73.485313,5,88503,0
+88504,de l'Ange-Gardien / Pierrot Est,  45.854899, -73.435196,7,88504,0
+88570,Sherbrooke / Gouin,  45.697204, -73.491823,3,88570,0
+88571,Sherbrooke / 81e Avenue,  45.690511, -73.497868,3,88571,0
+88572,Sherbrooke / devant la Gare Pointe-aux-Trembles,  45.675774, -73.502899,3,88572,0
+88573,Sherbrooke / 53e Avenue,  45.672187, -73.504105,3,88573,0
+88574,Sherbrooke / De La Rousselière,  45.669565, -73.505209,3,88574,0
+88575,Sherbrooke / 40e Avenue,  45.663691, -73.507173,3,88575,0
+88576,Sherbrooke / 32e Avenue,  45.658573, -73.508947,3,88576,0
+88577,Sherbrooke / du Tricentenaire,  45.653006, -73.510863,3,88577,0
+88578,Sherbrooke / Saint-Jean-Baptiste,  45.643922, -73.513992,3,88578,0
+88579,Sherbrooke / Broadway,  45.633655, -73.516118,3,88579,0
+88580,Sherbrooke / Hector,  45.612582, -73.525821,3,88580,0
+88581,Sherbrooke / Hector,  45.612397, -73.525596,3,88581,0
+88582,Sherbrooke / Broadway,  45.632736, -73.515934,3,88582,0
+88583,Sherbrooke / Saint-Jean-Baptiste,  45.643642, -73.513753,3,88583,0
+88584,Sherbrooke / du Tricentenaire,  45.652576, -73.510646,3,88584,0
+88585,Sherbrooke / 32e Avenue,  45.658278, -73.508671,3,88585,0
+88586,Sherbrooke / 40e Avenue,  45.663492, -73.506880,3,88586,0
+88587,Sherbrooke / De La Rousselière,  45.669071, -73.504884,3,88587,0
+88588,Sherbrooke / 53e Avenue,  45.672100, -73.504057,3,88588,0
+88589,Sherbrooke / face à la Gare Pointe-aux-Trembles,  45.673582, -73.503423,3,88589,0
+88590,Sherbrooke / 81e Avenue,  45.690098, -73.497610,3,88590,0
+88591,Sherbrooke / Gouin,  45.696916, -73.491740,3,88591,0
+88595,Notre-Dame / George-V,  45.611515, -73.510430,3,88595,0
+88597,George-V / Sainte-Claire,  45.612844, -73.518527,3,88597,0
+88598,Notre-Dame / Broadway,  45.630394, -73.497004,3,88598,0
+88599,Notre-Dame / Broadway,  45.630412, -73.497014,3,88599,0
+88608,George-V / Sainte-Claire,  45.612822, -73.518606,3,88608,0
+88609,Notre-Dame / George-V,  45.612065, -73.510066,3,88609,0
+88617,Notre-Dame / 26e Avenue,  45.652087, -73.489421,3,88617,0
+88618,Notre-Dame / 26e Avenue,  45.652101, -73.489456,3,88618,0
+88619,Notre-Dame / du Tricentenaire,  45.648983, -73.487918,3,88619,0
+88620,Notre-Dame / du Tricentenaire,  45.649183, -73.487978,3,88620,0
+88621,Notre-Dame / Saint-Jean-Baptiste,  45.639809, -73.490219,3,88621,0
+88622,Notre-Dame / Saint-Jean-Baptiste,  45.640064, -73.490291,3,88622,0
+88625,Sherbrooke / Taillon,  45.608651, -73.527687,3,88625,0
+88626,Sherbrooke / Taillon,  45.609119, -73.527718,3,88626,0
+88627,Sherbrooke / Des Ormeaux,  45.604472, -73.530081,3,88627,0
+88628,Sherbrooke / Des Ormeaux,  45.604714, -73.530286,3,88628,0
+88629,Sherbrooke / Polyvalente Pointe-aux-Trembles,  45.685717, -73.499179,3,88629,0
+88630,Sherbrooke / Polyvalente Pointe-aux-Trembles,  45.686142, -73.499336,3,88630,0
+88632,Sherbrooke / Honoré-Beaugrand,  45.596304, -73.534889,2,88632,0
+88633,Sherbrooke / devant la Station Honoré-Beaugrand,  45.596620, -73.535145,2,88633,0
+88644,Terminus Radisson (Quai 4),  45.589649, -73.539618,2,88644,1
+88645,Terminus Radisson (Quai 5),  45.589731, -73.539828,2,88645,1
+88658,Notre-Dame / Raoul-Jobin,  45.695328, -73.487234,3,88658,0
+88659,Notre-Dame / Raoul-Jobin,  45.695375, -73.487306,3,88659,0
+88663,Notre-Dame / 86e Avenue,  45.692564, -73.488453,3,88663,0
+88664,Notre-Dame / 86e Avenue,  45.692597, -73.488474,3,88664,0
+88669,Notre-Dame / 53e Avenue,  45.670454, -73.493991,3,88669,0
+88670,Notre-Dame / 53e Avenue,  45.670518, -73.494072,3,88670,0
+88671,Notre-Dame / de la Rousselière,  45.667389, -73.494277,3,88671,0
+88672,Notre-Dame / de la Rousselière,  45.667696, -73.494447,3,88672,0
+88673,Notre-Dame / devant le civique 1637,  45.837752, -73.326721,7,88673,1
+88674,Notre-Dame / face au civique 1637,  45.837830, -73.326886,7,88674,1
+88766,Brien / face à la Banque Laurentienne,  45.743443, -73.452546,5,88766,1
+88767,Notre-Dame / Leblanc,  45.844852, -73.319438,7,88767,1
+88768,Notre-Dame / Leblanc,  45.845332, -73.319712,7,88768,1
+88772,Notre-Dame / face au 98,  45.788337, -73.396390,7,88772,1
+88773,Notre-Dame / face au 93,  45.788406, -73.396566,7,88773,1
+88774,Notre-Dame / face au 230,  45.793206, -73.390300,7,88774,1
+88775,Notre-Dame / face au 231,  45.793250, -73.390508,7,88775,1
+88776,Notre-Dame / face au 504,  45.799229, -73.380739,7,88776,1
+88777,Notre-Dame / face au 495,  45.799202, -73.381033,7,88777,1
+88778,Notre-Dame / face à la Marina,  45.808454, -73.375188,7,88778,1
+88779,Notre-Dame / face au 691,  45.808219, -73.375487,7,88779,1
+88780,Notre-Dame / devant le 1403,  45.830446, -73.340819,7,88780,1
+88781,Notre-Dame / face au 1403,  45.830606, -73.340938,7,88781,1
+88782,Notre-Dame / terrasse des Fleurs,  45.861429, -73.302660,8,88782,1
+88783,Notre-Dame / terrasse des Fleurs,  45.861658, -73.302675,8,88783,1

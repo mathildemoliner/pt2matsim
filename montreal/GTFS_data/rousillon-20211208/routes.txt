@@ -1,0 +1,22 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+100,CITROUS,100,Express Montréal,3,1F1F1F,FFFFFF
+130,CITROUS,130,Express Montréal via Principale,3,1F1F1F,FFFFFF
+200,CITROUS,200,Express Lasalle,3,1F1F1F,FFFFFF
+210,CITROUS,210,Express Longueuil,3,1F1F1F,FFFFFF
+30,CITROUS,30,Delson - Saint-Constant - Sainte-Catherine,3,1F1F1F,FFFFFF
+31,CITROUS,31,Jogues - Marie-Victorin - Saint-Laurent,3,1F1F1F,FFFFFF
+32,CITROUS,32,Brébeuf - Écluses - Jogues,3,1F1F1F,FFFFFF
+33,CITROUS,33,Central - Maçon - Gare Sainte-Catherine,3,1F1F1F,FFFFFF
+34,CITROUS,34,Saint-Pierre - Monchamp - Sainte-Catherine,3,1F1F1F,FFFFFF
+35,CITROUS,35,Gare Saint-Constant - de l'Église - Beauvais,3,1F1F1F,FFFFFF
+36,CITROUS,36,Gare Delson - des Roitelets,3,1F1F1F,FFFFFF
+37,CITROUS,37,Principale - des Cascades - des Écluses,3,1F1F1F,FFFFFF
+38,CITROUS,38,Gare Sainte-Catherine,3,1F1F1F,FFFFFF
+40,CITROUS,40,Sainte-Catherine - Monchamp - de la Mairie,3,1F1F1F,FFFFFF
+43,CITROUS,43,Sainte-Catherine - Montée Saint-Régis,3,1F1F1F,FFFFFF
+T36,CITROUS,T36,Taxibus Gare Delson - des Roitelets,3,1F1F1F,FFFFFF
+T38,CITROUS,T38,Taxibus Gare Sainte-Catherine (sur réservation),1501,1F1F1F,FFFFFF
+T39,CITROUS,T39,Taxibus Place du Grand-Duc - des Orioles,3,1F1F1F,FFFFFF
+T41,CITROUS,T41,Taxis St-Laurent-Hébert-Garnier (sur réservation),1501,1F1F1F,FFFFFF
+T42,CITROUS,T42,Taxibus  Industriel - Liberté (sur réservation),1501,1F1F1F,FFFFFF
+T43,CITROUS,T43,Taxibus Sainte-Catherine - Montée Saint-Régis,1501,1F1F1F,FFFFFF

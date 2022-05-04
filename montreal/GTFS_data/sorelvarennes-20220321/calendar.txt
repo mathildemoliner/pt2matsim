@@ -1,0 +1,7 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SV-H22-SV_GTFS-Semaine-02,1,1,1,1,1,0,0,20220321,20220529
+SV-H22-SV_GTFS-Semaine-05,1,1,1,1,1,0,0,20220321,20220529
+SV-H22-SV_GTFS-Fête-1-01,0,0,0,0,0,0,0,20220321,20220529
+SV-H22-SV_GTFS-Week-end-02,0,0,0,0,0,1,1,20220321,20220529
+SV-H22-SV_GTFS-Week-end-04,0,0,0,0,0,1,1,20220321,20220529
+SV-H22-SV_GTFS-Fête-3-04,0,0,0,0,0,0,0,20220321,20220529

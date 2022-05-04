@@ -1,0 +1,30 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+11,CITLR,11,Saint-Philippe,3,1F1F1F,FFFFFF
+123,CITLR,123,Grand-Boisé - Montréal,3,1F1F1F,FFFFFF
+124,CITLR,124,La Clairière - Montréal,3,1F1F1F,FFFFFF
+21,CITLR,21,Vieux La Prairie,3,1F1F1F,FFFFFF
+22,CITLR,22,La Magdeleine,3,1F1F1F,FFFFFF
+23,CITLR,23,Grand-Boisé,3,1F1F1F,FFFFFF
+230,CITLR,230,La Prairie - Dix30,3,1F1F1F,FFFFFF
+25,CITLR,25,Symbiocité,3,1F1F1F,FFFFFF
+28,CITLR,28,La Prairie,3,1F1F1F,FFFFFF
+29,CITLR,29,La Prairie,3,1F1F1F,FFFFFF
+31,CITLR,31,Jean-Leman,3,1F1F1F,FFFFFF
+32,CITLR,32,Deauville,3,1F1F1F,FFFFFF
+321,CITLR,321,La Prairie - Montréal (Express),3,1F1F1F,FFFFFF
+323,CITLR,323,Candiac - Montréal (Express),3,1F1F1F,FFFFFF
+33,CITLR,33,Champlain,3,1F1F1F,FFFFFF
+340,CITLR,340,Candiac - La Prairie - Longueuil,3,1F1F1F,FFFFFF
+341,CITLR,341,La Prairie - Longueuil,3,1F1F1F,FFFFFF
+343,CITLR,343,Candiac - Longueuil,3,1F1F1F,FFFFFF
+38,CITLR,38,Candiac,3,1F1F1F,FFFFFF
+39,CITLR,39,Candiac,3,1F1F1F,FFFFFF
+T11,CITLR,T11,Taxibus Saint-Philippe (sur réservation),1501,1F1F1F,FFFFFF
+T12,CITLR,T12,Taxibus Édouard-VII (sur réservation),1501,1F1F1F,FFFFFF
+T22,CITLR,T22,Taxibus La Clairière (sur réservation),1501,1F1F1F,FFFFFF
+T27,CITLR,T27,Taxibus Chemin Saint-Jean (sur réservation),1501,1F1F1F,FFFFFF
+T28,CITLR,T28,Taxibus Pompidou (sur réservation),1501,1F1F1F,FFFFFF
+T35,CITLR,T35,Taxibus Liberté - Paul-Gaugin (sur réservation),1501,1F1F1F,FFFFFF
+T36,CITLR,T36,Taxibus Gare Candiac,3,1F1F1F,FFFFFF
+T37,CITLR,T37,Taxibus Strasbourg (sur réservation),1501,1F1F1F,FFFFFF
+T51,CITLR,T51,Taxibus Terminus Panama,3,1F1F1F,FFFFFF

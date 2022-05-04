@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,OMITSJU,1,Sainte-Julie (Des Hauts-Bois),3,1F1F1F,FFFFFF
+3,OMITSJU,3,Sainte-Julie (Principale),3,1F1F1F,FFFFFF
+325,OMITSJU,325,Express Longueuil - Cégep,3,1F1F1F,FFFFFF
+330,OMITSJU,330,Express Longueuil - CFP - Cégep,3,1F1F1F,FFFFFF
+340,OMITSJU,340,Express Longueuil - Promenades Saint-Bruno,3,1F1F1F,FFFFFF
+350,OMITSJU,350,Express Longueuil,3,1F1F1F,FFFFFF
+4,OMITSJU,4,Sainte-Julie (Abbé-Théoret),3,1F1F1F,FFFFFF
+5,OMITSJU,5,Sainte-Julie (N.P.-Lapierre),3,1F1F1F,FFFFFF
+6,OMITSJU,6,Sainte-Julie (Principale),3,1F1F1F,FFFFFF
+600,OMITSJU,600,Express Montréal,3,1F1F1F,FFFFFF
+7,OMITSJU,7,Sainte-Julie (N.P.-Lapierre),3,1F1F1F,FFFFFF
+8,OMITSJU,8,Sainte-Julie (secteur nord),3,1F1F1F,FFFFFF
+T1,OMITSJU,T1,Taxibus Ste-Julie - Nobel - CFPP (sur réservation),1501,1F1F1F,FFFFFF
+T2,OMITSJU,T2,Taxibus Ste-Julie - du Liseron (sur réservation),1501,1F1F1F,FFFFFF
+T3,OMITSJU,T3,Taxibus Ste-Julie-secteur rural (sur réservation),1501,1F1F1F,FFFFFF

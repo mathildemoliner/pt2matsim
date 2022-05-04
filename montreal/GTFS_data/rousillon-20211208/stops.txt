@@ -1,0 +1,333 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,wheelchair_boarding
+74529,Robert-Bourassa / William,  45.497412, -73.558424,1,74529,0
+74550,Terminus Panama temporaire Quai 14,  45.465687, -73.470234,3,74550,0
+75018,Taschereau / de Rome,  45.454858, -73.465159,3,75018,0
+76001,Principale Sud / Monette,  45.381698, -73.541486,5,76001,0
+76002,Principale Sud / Delvista,  45.379771, -73.541131,5,76002,0
+76003,Principale Sud / Montée des Bouleaux,  45.376629, -73.540685,5,76003,0
+76004,Montée des Bouleaux / du Collège,  45.377623, -73.545088,5,76004,0
+76005,Montée des Bouleaux / Georges-Gagné Sud,  45.378734, -73.550165,5,76005,0
+76006,Montée des Bouleaux / Richer,  45.378662, -73.554832,5,76006,0
+76007,Terminus Panama temporaire Quai 14,  45.465785, -73.469949,3,76007,0
+76008,Montée des Bouleaux / Circé,  45.378809, -73.559368,5,76008,0
+76009,Saint-Pierre / Saint-Jacques,  45.378378, -73.564699,5,76009,0
+76010,Saint-Pierre / Perras,  45.375596, -73.567118,5,76010,0
+76011,Saint-Pierre / de la Mairie,  45.371894, -73.570429,5,76011,0
+76012,Cégep Édouard-Montpetit,  45.536677, -73.496276,3,76012,0
+76013,Saint-Laurent / Promenade du Collège,  45.393956, -73.550654,5,76013,0
+76014,Jogues / Talon,  45.387195, -73.551393,5,76014,0
+76015,Jogues / de l'Acadia,  45.390888, -73.549613,5,76015,0
+76016,Jogues / Saint-Laurent,  45.393248, -73.548388,5,76016,0
+76017,Montée Saint-Régis / Pierre-Dupuis,  45.367476, -73.577153,5,76017,0
+76018,Terminus Panama temporaire Quai 14,  45.465744, -73.470103,3,76018,1
+76019,Sainte-Catherine / Ronsard,  45.378407, -73.600469,5,76019,1
+76020,de la Mairie / du Bassin,  45.373664, -73.577933,5,76020,0
+76021,de la Mairie / du Petit-Saint-Régis Sud,  45.374233, -73.580370,5,76021,0
+76022,de la Mairie / Monchamp,  45.374218, -73.583830,5,76022,0
+76023,Monchamp / devant le Centre Municipal,  45.378063, -73.583483,5,76023,0
+76024,Monchamp / de l'Olivier,  45.379780, -73.584258,5,76024,0
+76025,Monchamp / Vincent,  45.381511, -73.585019,5,76025,0
+76026,Monchamp / Sainte-Catherine,  45.383790, -73.584679,5,76026,0
+76027,Sainte-Catherine / Meunier,  45.385113, -73.588966,5,76027,0
+76028,Sainte-Catherine / Croissant Sainte-Catherine,  45.385960, -73.593824,5,76028,0
+76029,Sainte-Catherine / Ronsard,  45.378296, -73.600255,5,76029,1
+76030,Montée des Bouleaux / du Parc-des-Maisons-Mobiles,  45.379000, -73.563254,5,76030,1
+76031,du Maçon / Marcotte,  45.389675, -73.590953,5,76031,0
+76034,Centrale / Saint-Jean,  45.397306, -73.577804,5,76034,0
+76035,Centrale / Saint-Laurent,  45.400329, -73.576244,5,76035,0
+76037,Saint-Laurent / Brébeuf,  45.395814, -73.565933,5,76037,0
+76038,Saint-Laurent / des Éperviers,  45.395191, -73.563710,5,76038,0
+76039,Saint-Laurent / des Faucons,  45.394283, -73.560026,5,76039,0
+76040,Saint-Laurent / des Écluses,  45.393828, -73.557318,5,76040,0
+76041,Saint-Laurent / du Chalutier,  45.394052, -73.554083,5,76041,0
+76042,Saint-Laurent / Jogues,  45.393338, -73.548581,5,76042,0
+76043,Jogues / de l'Acadia,  45.391050, -73.549691,5,76043,0
+76044,Jogues / Talon,  45.387339, -73.551590,5,76044,0
+76046,Saint-Laurent / de l'Union,  45.400496, -73.575535,5,76046,0
+76047,Stationnement Incitatif Georges-Gagné - Quai 5,  45.384844, -73.547914,5,76047,1
+76048,Stationnement Incitatif Georges-Gagné - Quai 6,  45.385007, -73.547837,5,76048,1
+76050,Brébeuf / Marie-Victorin,  45.403332, -73.561743,5,76050,0
+76051,Brébeuf / du Portage,  45.398872, -73.564040,5,76051,0
+76054,Saint-Laurent / des Écluses,  45.394193, -73.556560,5,76054,0
+76055,des Écluses / des Marguerites,  45.396909, -73.558276,5,76055,0
+76056,des Écluses / des Marins,  45.398927, -73.559149,5,76056,0
+76057,Marie-Victorin / des Écluses,  45.402431, -73.557854,5,76057,0
+76063,Saint-Laurent / des Faucons,  45.394391, -73.559614,5,76063,0
+76064,Saint-Laurent / des Éperviers,  45.395307, -73.563303,5,76064,0
+76065,Saint-Laurent / Brébeuf,  45.395880, -73.565485,5,76065,0
+76066,Terminus Longueuil porte 20,  45.523797, -73.522256,3,76066,0
+76067,Brébeuf / des Ormes,  45.390314, -73.568376,5,76067,0
+76068,des Ormes / des Saules,  45.391019, -73.570230,5,76068,0
+76069,des Ormes / des Marronniers,  45.391507, -73.572878,5,76069,0
+76070,des Ormes / des Merisiers,  45.391919, -73.574551,5,76070,0
+76071,des Merisiers / Croissant des Cèdres,  45.394458, -73.573453,5,76071,0
+76074,Centrale / devant le #1724,  45.394413, -73.579653,5,76074,0
+76076,des Écluses / Saint-Laurent,  45.394970, -73.557365,5,76076,0
+76077,Roland-Therrien / d'Auteuil,  45.547734, -73.495359,3,76077,0
+76078,Saint-Jean / Bédard,  45.396821, -73.573816,5,76078,0
+76079,Brébeuf / des Colibris,  45.394614, -73.566216,5,76079,0
+76080,Stationnement Incitatif Georges-Gagné - Quai 1,  45.384414, -73.547999,5,76080,0
+76081,Centrale / Saint-Jean,  45.397533, -73.577955,5,76081,0
+76083,Gare Sainte-Catherine,  45.381625, -73.598659,5,76083,0
+76084,Sainte-Catherine / Marotte,  45.384849, -73.596587,5,76084,0
+76085,Gare Sainte-Catherine,  45.382088, -73.600063,5,76085,0
+76087,du Maçon / Marcotte,  45.389934, -73.591211,5,76087,0
+76088,Bédard / Saint-Laurent,  45.399180, -73.572680,5,76088,0
+76089,du Maçon / Monette,  45.389183, -73.590920,5,76089,0
+76091,Legendre / Larivière,  45.386863, -73.573932,5,76091,0
+76092,Leduc / Laplante,  45.388824, -73.576238,5,76092,0
+76093,Leduc / Levasseur,  45.389306, -73.578171,5,76093,0
+76094,Leduc / Proulx,  45.389625, -73.579266,5,76094,0
+76095,Proulx / de Lausanne,  45.387570, -73.580538,5,76095,0
+76098,Sainte-Catherine / Monchamp,  45.384067, -73.584443,5,76098,0
+76099,Vincent / Monchamp,  45.381447, -73.585322,5,76099,0
+76106,de l'Olivier / de l'Oseraie,  45.380166, -73.580741,5,76106,0
+76107,de l'Olivier / du Petit-Saint-Régis Nord,  45.379533, -73.577968,5,76107,0
+76108,du Petit-Saint-Régis Nord / Sainte-Catherine,  45.382162, -73.576806,5,76108,0
+76109,Sainte-Catherine / Saint-Charles,  45.381506, -73.573683,5,76109,0
+76110,Sainte-Catherine / Cartier,  45.380798, -73.570839,5,76110,0
+76111,Sainte-Catherine / Berri,  45.380169, -73.567958,5,76111,0
+76112,Sainte-Catherine / Léger,  45.379862, -73.566474,5,76112,0
+76113,Sainte-Catherine / Longtin,  45.379547, -73.565294,5,76113,0
+76114,Saint-Pierre / Guy,  45.381358, -73.560758,5,76114,0
+76115,Saint-Pierre / Beaudry,  45.382838, -73.559666,5,76115,0
+76116,Saint-Pierre / Lachapelle,  45.384732, -73.558815,5,76116,0
+76118,Marie-Victorin / face au CLSC Candiac,  45.398579, -73.526219,5,76118,0
+76119,Marie-Victorin / devant CLSC Candiac,  45.398856, -73.526406,5,76119,0
+76120,Sainte-Catherine / Valois,  45.385053, -73.589369,5,76120,0
+76121,Sainte-Catherine / Monchamp,  45.384241, -73.585783,5,76121,0
+76122,De La Vérendrye / Jolicoeur (métro Jolicoeur),  45.457111, -73.581231,1,76122,0
+76123,de Lausanne / Proulx,  45.387410, -73.580707,5,76123,0
+76124,Monchamp / de l'Olivier,  45.379903, -73.584585,5,76124,0
+76125,Monchamp / devant l'École Félix-Leclerc,  45.378066, -73.583844,5,76125,0
+76126,de la Mairie / Monchamp,  45.374117, -73.583524,5,76126,0
+76127,de la Mairie / du Petit-Saint-Régis Sud,  45.374180, -73.580687,5,76127,0
+76128,de la Mairie / du Bassin,  45.373624, -73.578270,5,76128,0
+76131,Monchamp / Tougas,  45.375725, -73.584546,5,76131,0
+76132,Monchamp / d'Avignon,  45.375569, -73.584181,5,76132,0
+76136,Saint-Pierre / Perras,  45.375317, -73.567040,5,76136,0
+76137,Cégep Édouard-Montpetit,  45.536173, -73.496007,3,76137,0
+76138,Roland-Therrien / d'Auteuil,  45.548687, -73.495900,3,76138,0
+76139,Proulx / Leduc,  45.389478, -73.579475,5,76139,0
+76140,Leduc / Levasseur,  45.389296, -73.578499,5,76140,0
+76141,Montée des Bouleaux / du Collège,  45.377584, -73.545427,5,76141,0
+76142,Terminus Centre-Ville Porte 13,  45.498142, -73.565918,1,76142,0
+76143,du Maçon / Magdeleine,  45.392686, -73.589926,5,76143,0
+76145,Saint-Pierre / Saint-Jacques,  45.378145, -73.564606,5,76145,0
+76146,Montée des Bouleaux / Circé,  45.378709, -73.559713,5,76146,0
+76147,Montée des Bouleaux / des Cheminots,  45.378678, -73.556459,5,76147,0
+76148,Montée des Bouleaux / Georges-Gagné Sud,  45.378618, -73.550913,5,76148,0
+76149,Terminus Angrignon Quai 19,  45.446554, -73.605265,1,76149,0
+76150,Georges-Gagné Sud / Viau,  45.381122, -73.549060,5,76150,0
+76153,Leduc / Laplante,  45.388796, -73.576565,5,76153,0
+76155,Montée des Bouleaux / Principale,  45.376507, -73.540835,5,76155,0
+76156,Principale Sud / 1re Avenue,  45.374956, -73.541338,5,76156,0
+76157,Principale Sud / 4e Avenue,  45.372944, -73.541454,5,76157,0
+76158,Principale Sud / face à la gare Delson,  45.366523, -73.541648,5,76158,0
+76159,des Roitelets / des Pommetiers,  45.367543, -73.548111,5,76159,0
+76160,des Érables / des Roitelets,  45.366599, -73.546374,5,76160,0
+76161,Saint-Pierre / Montée Saint-Régis,  45.365672, -73.569976,5,76161,0
+76163,des Roitelets / Principale Sud,  45.365386, -73.541484,5,76163,0
+76164,Montée Saint-Régis / Victoria,  45.366941, -73.575058,5,76164,0
+76165,Principale Sud / 4e Avenue,  45.372756, -73.541352,5,76165,0
+76166,Larivière / Legendre,  45.386665, -73.573984,5,76166,0
+76167,des Roitelets / des Sorbiers,  45.367892, -73.550375,5,76167,0
+76168,du Collège / de Delson,  45.373264, -73.547446,5,76168,0
+76169,de Delson / Georges-Gagné Sud,  45.374863, -73.551630,5,76169,0
+76170,Georges-Gagné Sud / Carignan,  45.376530, -73.550820,5,76170,0
+76171,Georges-Gagné Sud / Montée des Bouleaux,  45.378555, -73.550322,5,76171,0
+76172,du Maçon / Meunier,  45.388322, -73.588382,5,76172,0
+76175,Monchamp / Sainte-Catherine,  45.384155, -73.584745,5,76175,0
+76176,Jogues / du Blizzard,  45.396297, -73.546771,5,76176,0
+76177,Jogues / Bourgeoys,  45.398153, -73.545950,5,76177,0
+76178,Jogues / Marie-Victorin,  45.401069, -73.544338,5,76178,0
+76179,des Sorbiers / des Pommetiers,  45.366702, -73.549083,5,76179,0
+76180,des Cascades / Marie-Victorin,  45.400510, -73.550613,5,76180,0
+76181,des Cascades / des Marins,  45.398508, -73.551249,5,76181,0
+76183,du Chalutier / Saint-Laurent,  45.394251, -73.554097,5,76183,0
+76184,des Cascades / du Chalutier,  45.395289, -73.553903,5,76184,0
+76185,des Écluses / Colomb,  45.391619, -73.555867,5,76185,0
+76186,des Écluses / devant le Domaine Le Roussillon,  45.389252, -73.557008,5,76186,0
+76189,Saint-Pierre / Lachapelle,  45.385008, -73.558833,5,76189,0
+76190,Saint-Pierre / Beaudry,  45.383606, -73.559638,5,76190,0
+76191,Sainte-Catherine / Croissant Sainte-Catherine,  45.385882, -73.594056,5,76191,0
+76192,Valois / Vincent,  45.382636, -73.590479,5,76192,0
+76193,Saint-Pierre / Sainte-Marie,  45.380091, -73.563231,5,76193,0
+76194,Georges-Gagné Sud / Viau,  45.381329, -73.549131,5,76194,0
+76195,Georges-Gagné Sud / Montée des Bouleaux,  45.378794, -73.550407,5,76195,0
+76196,Saint-Laurent / Léo,  45.400964, -73.583900,5,76196,0
+76197,Sainte-Catherine / Proulx,  45.383532, -73.582610,5,76197,0
+76198,Sainte-Catherine / Laplante,  45.382806, -73.579456,5,76198,0
+76199,Sainte-Catherine / du Petit-Saint-Régis Nord,  45.382258, -73.577054,5,76199,0
+76200,de la Mairie / 3e Avenue,  45.372547, -73.573719,5,76200,0
+76201,Monchamp / de l'Alisier,  45.371362, -73.584794,5,76201,0
+76204,de la Mairie / 1re Avenue,  45.372199, -73.571597,5,76204,0
+76205,Vincent / Valois,  45.382541, -73.590295,5,76205,0
+76206,Valois / Sainte-Catherine,  45.384950, -73.589179,5,76206,0
+76207,1re Avenue / Hébert,  45.406266, -73.587284,5,76207,0
+76209,1re Avenue / Sainte-Thérèse,  45.375152, -73.542266,5,76209,0
+76210,1re Avenue / du Collège,  45.376036, -73.545927,5,76210,0
+76211,Garnier / Hébert,  45.403876, -73.601415,5,76211,0
+76212,Garnier / Hébert,  45.403682, -73.601011,5,76212,0
+76213,de la Mairie / 2e Avenue,  45.372380, -73.572347,5,76213,0
+76214,de la Mairie / 4e Avenue,  45.372844, -73.574558,5,76214,0
+76216,Georges-Gagné Sud / Carignan,  45.376696, -73.550882,5,76216,0
+76218,Georges-Gagné Sud / de Delson,  45.374887, -73.551810,5,76218,0
+76219,de Delson / du Collège,  45.373184, -73.547536,5,76219,0
+76220,1re Avenue / du Collège,  45.375960, -73.545959,5,76220,0
+76221,1re Avenue / Sainte-Thérèse,  45.375105, -73.542516,5,76221,0
+76222,Montée Saint-Régis / Pierre-Dupuis,  45.367485, -73.577762,5,76222,0
+76223,Montée Saint-Régis / Victoria,  45.366908, -73.575459,5,76223,0
+76224,Victoria / de l'Église,  45.365526, -73.576233,5,76224,0
+76225,de l'Église / des Pins,  45.365335, -73.580477,5,76225,0
+76226,des Pins / du Parc,  45.364088, -73.579556,5,76226,0
+76228,du Parc / Leber,  45.363317, -73.575398,5,76228,0
+76229,Leber / de l'Église,  45.364802, -73.574353,5,76229,0
+76230,de l'Église / des Saules,  45.364329, -73.572629,5,76230,0
+76231,de l'Église / Saint-Pierre,  45.364100, -73.570069,5,76231,0
+76232,Montée Lasaline / du Centre,  45.362224, -73.563714,5,76232,0
+76233,Côté / Berger,  45.364485, -73.564400,5,76233,0
+76234,Beauvais / Boisjoli,  45.365603, -73.563820,5,76234,0
+76235,Beauvais / Boisbriand,  45.367661, -73.562719,5,76235,0
+76238,Berger / Bellerive,  45.371447, -73.568350,5,76238,0
+76239,Bellerive / Saint-Pierre,  45.371749, -73.570312,5,76239,0
+76241,Beauvais / Baron,  45.368845, -73.562019,5,76241,0
+76242,Beauvais / Bisson,  45.370822, -73.560521,5,76242,0
+76243,Breton / Bélair,  45.372178, -73.565533,5,76243,0
+76245,du Maçon / Métras,  45.388146, -73.583384,5,76245,0
+76246,Principale Sud / 1re Avenue,  45.374783, -73.541167,5,76246,0
+76247,Principale Sud / Montée des Bouleaux,  45.376373, -73.540586,5,76247,0
+76248,du Maçon / Meunier,  45.388528, -73.588116,5,76248,0
+76249,du Maçon / Monette,  45.389037, -73.590651,5,76249,0
+76250,Hébert / 1re Avenue,  45.406344, -73.587557,5,76250,0
+76251,du Maçon / Magdeleine,  45.392468, -73.589858,5,76251,0
+76252,Saint-Laurent / Léo,  45.400744, -73.583911,5,76252,0
+76253,Principale Nord / Saint-Laurent,  45.390686, -73.538899,5,76253,0
+76257,Principale Nord / Marie-Victorin,  45.400473, -73.537693,5,76257,0
+76261,Principale Nord / Marie-Victorin,  45.400171, -73.538094,5,76261,0
+76262,Principale Nord / Saint-Laurent,  45.391051, -73.539130,5,76262,0
+76269,Place du Grand-Duc / devant le #4480,  45.388604, -73.562589,5,76269,0
+76270,des Éperviers / des Alouettes,  45.393896, -73.564450,5,76270,0
+76271,des Éperviers / des Harfangs,  45.392595, -73.565080,5,76271,0
+76272,des Sarcelles / des Cormorans,  45.392190, -73.566394,5,76272,0
+76273,des Outardes / des Carouges,  45.389595, -73.566628,5,76273,0
+76274,des Orioles / des Hérons,  45.390576, -73.563535,5,76274,0
+76275,des Orioles / des Harfangs,  45.391851, -73.562884,5,76275,0
+76276,des Alouettes / des Faucons,  45.392842, -73.560680,5,76276,0
+76277,Principale Sud / Monette,  45.381449, -73.541229,5,76277,0
+76278,Principale Sud / Delvista,  45.379493, -73.540889,5,76278,0
+76279,boul. Newman / face au Carrefour Angrignon,  45.445667, -73.612108,1,76279,0
+76281,boul. de la Vérendrye / av. Dollard,  45.423504, -73.622043,1,76281,0
+76283,rue Airlie / av. Labatt,  45.424101, -73.645546,1,76283,0
+76292,Sainte-Catherine / Longtin,  45.379604, -73.564948,5,76292,0
+76293,Sainte-Catherine / Léger,  45.379875, -73.566081,5,76293,0
+76294,Sainte-Catherine / Berri,  45.380227, -73.567568,5,76294,0
+76295,Sainte-Catherine / Cartier,  45.380874, -73.570386,5,76295,0
+76296,Sainte-Catherine / Saint-Charles,  45.381519, -73.573291,5,76296,0
+76297,Sainte-Catherine / du Petit-Saint-Régis Nord,  45.382302, -73.576649,5,76297,0
+76298,Sainte-Catherine / Laplante,  45.382861, -73.579183,5,76298,0
+76299,Sainte-Catherine / Proulx,  45.383573, -73.582401,5,76299,0
+76300,SmartCentres Saint-Constant,  45.392084, -73.586110,5,76300,0
+76303,de l'Église / Leber,  45.364893, -73.574628,5,76303,0
+76304,Centrale / devant le #1725,  45.394294, -73.579391,5,76304,0
+76305,Bédard / Saint-Jean,  45.396907, -73.574078,5,76305,0
+76307,des Merisiers / Croissant des Cèdres,  45.394646, -73.573531,5,76307,0
+76308,des Merisiers / des Ormes,  45.392092, -73.574766,5,76308,0
+76309,des Ormes / des Marronniers,  45.391491, -73.573118,5,76309,0
+76310,des Ormes / des Saules,  45.390978, -73.570426,5,76310,0
+76311,des Ormes / Brébeuf,  45.390494, -73.568519,5,76311,0
+76313,Saint-Laurent / Promenade du Collège,  45.393915, -73.550958,5,76313,0
+76316,Industrielle / Fleming,  45.372497, -73.532627,5,76316,0
+76317,Industrielle / Théberge,  45.370906, -73.529399,5,76317,0
+76318,Industrielle / Liberté,  45.367339, -73.522577,5,76318,0
+76319,Liberté / Paul-Gauguin,  45.373010, -73.526247,5,76319,0
+76320,Paul-Gauguin / face au #20,  45.376649, -73.529135,5,76320,0
+76321,Liberté / Saint-François-Xavier,  45.377961, -73.535607,5,76321,0
+76322,Liberté / Saint-François-Xavier,  45.377754, -73.535460,5,76322,0
+76323,Paul-Gauguin / devant le #20,  45.376522, -73.529297,5,76323,0
+76324,Paul-Gauguin / Liberté,  45.373181, -73.526437,5,76324,0
+76325,Industrielle / Liberté,  45.367470, -73.522413,5,76325,0
+76326,Industrielle / Beauvais,  45.370866, -73.529130,5,76326,0
+76327,Industrielle / Fleming,  45.372494, -73.532343,5,76327,0
+76344,Principale Nord / Bellefleur,  45.392642, -73.538951,5,76344,0
+76345,Principale Nord / Corriveau,  45.395154, -73.538639,5,76345,0
+76346,Principale Nord / Soucy,  45.397062, -73.537960,5,76346,0
+76364,Marie-Victorin / Jogues,  45.401332, -73.544174,5,76364,0
+76365,Marie-Victorin / des Cascades,  45.400906, -73.550195,5,76365,0
+76366,Marie-Victorin / des Récifs,  45.401951, -73.553951,5,76366,0
+76367,Marie-Victorin / des Écluses,  45.402562, -73.557092,5,76367,0
+76368,Marie-Victorin / Brébeuf,  45.403568, -73.561565,5,76368,0
+76369,Marie-Victorin / devant le Parc Optimiste,  45.404173, -73.563805,5,76369,0
+76371,Marie-Victorin / du Canal,  45.406025, -73.568494,5,76371,0
+76373,Marie-Victorin / Union,  45.405837, -73.572160,5,76373,0
+76374,Saint-Laurent / Union,  45.400194, -73.575472,5,76374,0
+76395,Montée Saint-Régis / de la Gaillarde,  45.371320, -73.590747,5,76395,0
+76396,Montée Saint-Régis / du Bassin,  45.368446, -73.580951,5,76396,0
+76397,Montée Saint-Régis / du Bassin,  45.368439, -73.580578,5,76397,0
+76398,Montée Saint-Régis / Monchamp,  45.370074, -73.585080,5,76398,0
+76399,Gare Saint-Constant,  45.373754, -73.568802,5,76399,0
+76400,Saint-Laurent / Bédard,  45.399267, -73.572414,5,76400,0
+76401,Gare Saint-Constant,  45.374141, -73.570743,5,76401,1
+76402,Saint-Laurent / du Chalutier,  45.394182, -73.553781,5,76402,0
+76403,Saint-Laurent / Boulet,  45.396725, -73.568091,5,76403,0
+76405,Monchamp / Vincent,  45.381696, -73.585364,5,76405,0
+76406,Principale Sud / devant la gare Delson,  45.366755, -73.541556,5,76406,0
+76407,Marie-Victorin / Place Charles-Lemoyne,  45.401022, -73.547079,5,76407,0
+76408,Saint-Laurent / Bédard,  45.399339, -73.572824,5,76408,0
+76409,Saint-Laurent / Boulet,  45.396751, -73.568490,5,76409,0
+76410,Principale Nord / Soucy,  45.397379, -73.538099,5,76410,0
+76411,Principale Nord / Corriveau,  45.395422, -73.538785,5,76411,0
+76412,Principale Nord / Bellefleur,  45.392900, -73.539288,5,76412,0
+76413,Brébeuf / Saint-Laurent,  45.395625, -73.565681,5,76413,0
+76414,du Maçon / Métras,  45.387969, -73.583216,5,76414,0
+76416,Monchamp / de la Mairie,  45.374021, -73.584236,5,76416,0
+76417,des Cascades / des Bateliers,  45.396839, -73.552106,5,76417,0
+76420,Georges-Gagné Sud / Montée des Bouleaux,  45.378436, -73.550442,5,76420,0
+76421,rue Airlie / 80e avenue,  45.421637, -73.634834,1,76421,0
+76422,Montée Saint-Régis / Lasalle,  45.366418, -73.573086,5,76422,0
+76423,Georges-Gagné Sud / Maisonneuve,  45.379255, -73.549859,5,76423,0
+76424,rue Lapierre / boul. Newman,  45.439241, -73.621654,1,76424,0
+76426,Riopelle / Rembrandt,  45.377260, -73.605058,5,76426,0
+76427,Montée Saint-Régis / du Genévrier,  45.370503, -73.587403,5,76427,0
+76428,Monchamp / de l'Alisier,  45.371062, -73.584555,5,76428,0
+76429,Rembrandt / Riopelle,  45.377149, -73.605090,5,76429,0
+76430,Montée Saint-Régis / du Grenadier,  45.372087, -73.593970,5,76430,0
+76431,Sainte-Catherine / Wilfrid-Lamarche,  45.380335, -73.599156,5,76431,0
+76433,Montée Saint-Régis / du Grenadier,  45.372156, -73.593575,5,76433,0
+76434,Montée Saint-Régis / du Genévrier,  45.370647, -73.587297,5,76434,0
+76435,Renoir / Rembrandt,  45.375623, -73.605892,5,76435,0
+76436,Rembrandt / Renoir,  45.375747, -73.605831,5,76436,0
+76437,Monchamp / de la Mairie,  45.373977, -73.583854,5,76437,0
+76438,Riopelle / Sainte-Catherine,  45.376982, -73.601281,5,76438,0
+76439,Sainte-Catherine / Riopelle,  45.377072, -73.601141,5,76439,0
+76440,De Ronsard / Rabelais,  45.377290, -73.609912,5,76440,0
+76441,De Ronsard / Renoir,  45.379057, -73.607621,5,76441,0
+76442,Renoir / Riopelle,  45.378152, -73.607812,5,76442,0
+76443,Renoir / Riopelle,  45.377992, -73.607802,5,76443,0
+76444,Renoir / De Ronsard,  45.379048, -73.607424,5,76444,0
+76445,De Ronsard / Rabelais,  45.377520, -73.610028,5,76445,0
+76446,Bellerive / Saint-Pierre,  45.371421, -73.569721,5,76446,0
+76447,Bellerive / Berger,  45.371284, -73.568494,5,76447,0
+76448,Breton / Bélair,  45.372127, -73.565882,5,76448,0
+76449,Beauvais / Breton,  45.370770, -73.560699,5,76449,0
+76450,Beauvais / Baron,  45.369016, -73.561993,5,76450,0
+76451,Beauvais / Boisbriand,  45.367841, -73.562786,5,76451,0
+76452,Beauvais / Boisjoli,  45.365807, -73.563894,5,76452,0
+76453,Beauvais / Berger,  45.364677, -73.564541,5,76453,0
+76454,Cousineau / Montée Lasaline,  45.362360, -73.563537,5,76454,0
+76455,Montée Lasaline / Saint-Pierre,  45.363653, -73.569919,5,76455,0
+76456,de l'Église / des Saules,  45.364483, -73.572206,5,76456,0
+76457,de l'Église / Leber,  45.364991, -73.574205,5,76457,0
+76458,Leber / du Parc,  45.363493, -73.575224,5,76458,0
+76459,du Parc / des Pins,  45.364141, -73.579341,5,76459,0
+76460,de l'Église / des Prémontrés,  45.365682, -73.579649,5,76460,0
+76461,de l'Église / Victoria,  45.365402, -73.576313,5,76461,0
+76462,Victoria / Montée Saint-Régis,  45.366817, -73.575350,5,76462,0
+76558,Stationnement Incitatif Georges-Gagné - Quai 2,  45.384609, -73.547932,5,76558,1
+76559,Stationnement Incitatif Georges-Gagné - Quai 3,  45.384521, -73.547688,5,76559,1
+76560,Stationnement Incitatif Georges-Gagné - Quai 4,  45.384404, -73.547734,5,76560,1
+76561,Stationnement Incitatif Georges-Gagné - Quai Taxi,  45.384311, -73.548103,5,76561,1
+77507,boul. Newman / rue Senkus,  45.444051, -73.614193,1,77507,0
+77508,boul. Newman / boul. des Trinitaires,  45.447219, -73.610059,1,77508,0
+77509,boul. Newman / rue Léger,  45.441290, -73.618868,1,77509,0
+79118,Lapierre / Cégep André-Laurendeau,  45.435053, -73.604428,1,79118,0

@@ -1,0 +1,43 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,MRCLM,1,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+11,MRCLM,11,Terrebonne - secteur Lachenaie,3,1F1F1F,FFFFFF
+11C,MRCLM,11C,Terrebonne - Cité du sport - secteur Lachenaie,3,1F1F1F,FFFFFF
+14,MRCLM,14,Terrebonne - secteur La Plaine,3,1F1F1F,FFFFFF
+140,MRCLM,140,Lachenaie - Gare de Terrebonne - Terminus Radisson,3,1F1F1F,FFFFFF
+17,MRCLM,17,Terrebonne - secteur La Plaine,3,1F1F1F,FFFFFF
+18,MRCLM,18,Terrebonne - Cité du sport - Cégep de Terrebonne,3,1F1F1F,FFFFFF
+19,MRCLM,19,Terrebonne - Terminus Montmorency,3,1F1F1F,FFFFFF
+19G,MRCLM,19G,Terrebonne - Cinéma Guzzo - Terminus Montmorency,3,1F1F1F,FFFFFF
+2,MRCLM,2,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+20,MRCLM,20,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+21,MRCLM,21,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+22,MRCLM,22,Mascouche - Cité du sport - Cégep de Terrebonne,3,1F1F1F,FFFFFF
+23,MRCLM,23,Terrebonne - Sainte-Thérèse (Cégep Lionel-Groulx),3,1F1F1F,FFFFFF
+24C,MRCLM,24C,Terrebonne - Cité du sport - Cégep de Terrebonne,3,1F1F1F,FFFFFF
+25,MRCLM,25,Terrebonne - Montréal,3,1F1F1F,FFFFFF
+25B,MRCLM,25B,Terrebonne - Montréal,3,1F1F1F,FFFFFF
+27,MRCLM,27,Terrebonne - Cité du Sport - Cégep de Terrebonne,3,1F1F1F,FFFFFF
+3,MRCLM,3,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+30,MRCLM,30,Terrebonne - Montréal - Terminus Radisson,3,1F1F1F,FFFFFF
+30G,MRCLM,30G,Terrebonne - Montréal - Terminus Radisson,3,1F1F1F,FFFFFF
+4,MRCLM,4,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+40,MRCLM,40,Lachenaie - Montréal - Terminus Radisson,3,1F1F1F,FFFFFF
+403,MRCLM,403,Mascouche - Gare Mascouche,3,1F1F1F,FFFFFF
+41,MRCLM,41,Terrebonne - Mascouche,3,1F1F1F,FFFFFF
+417,MRCLM,417,Secteur La Plaine - Gare Mascouche,3,1F1F1F,FFFFFF
+45,MRCLM,45,Terrebonne - Bois-des-Filion,3,1F1F1F,FFFFFF
+48,MRCLM,48,Terrebonne - secteur centre,3,1F1F1F,FFFFFF
+5,MRCLM,5,Terrebonne - Bois-des-Filion,3,1F1F1F,FFFFFF
+500,MRCLM,500,Navette Gare Mascouche - Radisson,3,1F1F1F,FFFFFF
+8,MRCLM,8,Terrebonne - secteur centre,3,1F1F1F,FFFFFF
+9,MRCLM,9,Terrebonne - secteur ouest,3,1F1F1F,FFFFFF
+T56,MRCLM,T56,Taxibus - Parc Industriel (sur réservation),1501,1F1F1F,FFFFFF
+T12,MRCLM,T12,Taxibus - Cégep de Terrebonne (sur réservation),1501,1F1F1F,FFFFFF
+T13,MRCLM,T13,Taxibus - Cégep de Terrebonne (sur réservation),1501,1F1F1F,FFFFFF
+T15,MRCLM,T15,Taxibus - Cégep de Terrebonne (sur réservation),1501,1F1F1F,FFFFFF
+T24,MRCLM,T24,Taxibus - Place Longchamps (sur réservation),1501,1F1F1F,FFFFFF
+T26,MRCLM,T26,Taxibus - Nord de Mascouche (sur réservation),1501,1F1F1F,FFFFFF
+T417,MRCLM,T417,Secteur La Plaine - Gare Mascouche (sur réservatio,1501,1F1F1F,FFFFFF
+T55,MRCLM,T55,Taxibus - Urbanova (sur réservation),1501,1F1F1F,FFFFFF
+T57,MRCLM,T57,Taxibus - Gascon / Alexander (sur réservation),1501,1F1F1F,FFFFFF
+T6,MRCLM,T6,Taxibus - Alpes / des Rocheuses (sur réservation),1501,1F1F1F,FFFFFF

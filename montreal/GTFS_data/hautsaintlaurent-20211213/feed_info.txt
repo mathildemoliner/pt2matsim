@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+CITHSL,https://exo.quebec/fr/planifier-trajet/autobus/CITHSL,fr,20211209,20220529

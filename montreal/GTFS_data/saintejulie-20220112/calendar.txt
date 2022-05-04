@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SJU-H22-SJU_GTFS-Semaine-02,1,1,1,1,1,0,0,20220112,20220529
+SJU-H22-SJU_GTFS-Semaine-02-0001100,0,0,0,1,1,0,0,20220112,20220529
+SJU-H22-SJU_GTFS-Week-end-02,0,0,0,0,0,1,1,20220112,20220529
+SJU-H22-SJU_GTFS-Fête-1-03,0,0,0,0,0,0,0,20220112,20220529
+SJU-H22-SJU_GTFS-Fête-2-01,0,0,0,0,0,0,0,20220112,20220529
